@@ -4097,7 +4097,7 @@ var SETDEX_ADV = {
     },
     "Chinchou": {
         "Swimmer Luis": {
-            "level": 22,
+            "level": 20,
             "ivs": {
                 "hp": 31,
                 "at": 31,
