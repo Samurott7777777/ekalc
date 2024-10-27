@@ -266,7 +266,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Gust",
                 "Pounce",
-                "Megak Drain",
+                "Mega Drain",
                 "Sludge"
             ]
         }
@@ -4150,7 +4150,7 @@ var SETDEX_ADV = {
             "nature": "Gentle",
             "moves": [
                 "Surf",
-                "Selfdestruct",
+                "Self-Destruct",
                 "Ice Beam",
                 "Icy Wind"
             ]
