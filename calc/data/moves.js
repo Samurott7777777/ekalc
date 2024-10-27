@@ -98,7 +98,7 @@ var RBY = {
     Mist: { bp: 0, category: 'Status', type: 'Ice' },
     'Night Shade': { bp: 1, type: 'Ghost' },
     'Petal Dance': { bp: 95, type: 'Grass' },
-    'Pin Missile': { bp: 14, type: 'Bug', multihit: [2, 5] },
+    'Pin Missile': { bp: 20, type: 'Bug', multihit: [2, 5] },
     'Poison Sting': { bp: 45, type: 'Poison' },
     Psychic: { bp: 90, type: 'Psychic' },
     Psywave: { bp: 1, type: 'Psychic' },
