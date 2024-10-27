@@ -227,7 +227,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Encore",
                 "Seismic Toss",
-                "Water Pulse",
+                "Bubblebeam",
                 "Wish"
             ]
         },
