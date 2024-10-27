@@ -670,7 +670,7 @@ var SETDEX_ADV = {
             "item": "Lum Berry",
             "nature": "Jolly",
             "moves": [
-                "Selfdestruct",
+                "Self-Destruct",
                 "Psybeam",
                 "Rock Slide",
                 "Hidden Power Electric"
