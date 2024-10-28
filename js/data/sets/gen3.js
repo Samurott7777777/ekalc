@@ -963,7 +963,7 @@ var SETDEX_ADV = {
             "item": "Sitrus Berry",
             "nature": "Rash",
             "moves": [
-                "Bubblebeam",
+                "Bubble Beam",
                 "Rock Tomb",
                 "Ancientpower",
                 "Aurora Beam"
@@ -987,7 +987,7 @@ var SETDEX_ADV = {
                 "Aerial Ace",
                 "Rock Tomb",
                 "Giga Drain",
-                "Bubblebeam"
+                "Bubble Beam"
             ]
         }
     },
@@ -1454,7 +1454,7 @@ var SETDEX_ADV = {
             "item": "Oran Berry",
             "nature": "Gentle",
             "moves": [
-                "Bubblebeam",
+                "Bubble Beam",
                 "Brick Break",
                 "Ice Punch",
                 "Hypnosis"
@@ -2066,7 +2066,7 @@ var SETDEX_ADV = {
             "item": "Berry Juice",
             "nature": "Lax",
             "moves": [
-                "Bubblebeam",
+                "Bubble Beam",
                 "Body Slam",
                 "Mud Shot",
                 "Protect"
@@ -3616,7 +3616,7 @@ var SETDEX_ADV = {
             "item": "Berry Juice",
             "nature": "Modest",
             "moves": [
-                "Bubblebeam",
+                "Bubble Beam",
                 "Crunch",
                 "Secret Power",
                 "Aqua Jet"
@@ -4931,7 +4931,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Surf",
                 "Dragonbreath",
-                "Bubblebeam",
+                "Bubble Beam",
                 "Aurora Beam"
             ]
         },
@@ -5198,7 +5198,7 @@ var SETDEX_ADV = {
             "nature": "Bold",
             "moves": [
                 "Shock Wave",
-                "Bubblebeam",
+                "Bubble Beam",
                 "Psybeam",
                 "Aurora Beam"
             ]
@@ -5598,7 +5598,7 @@ var SETDEX_ADV = {
             "item": "Lum Berry",
             "nature": "Rash",
             "moves": [
-                "Bubblebeam",
+                "Bubble Beam",
                 "Air Slash",
                 "Signal Beam",
                 "Giga Drain"
@@ -5858,7 +5858,7 @@ var SETDEX_ADV = {
             "item": "Lum Berry",
             "nature": "Brave",
             "moves": [
-                "Bubblebeam",
+                "Bubble Beam",
                 "Secret Power",
                 "Shadow Ball",
                 "Fake Out"
@@ -5880,7 +5880,7 @@ var SETDEX_ADV = {
                 "Fake Out",
                 "Body Slam",
                 "Thunderbolt",
-                "Bubblebeam"
+                "Bubble Beam"
             ]
         },
         "Gentleman Lamar": {
@@ -5918,7 +5918,7 @@ var SETDEX_ADV = {
                 "Shadow Ball",
                 "Hyper Voice",
                 "Thunderbolt",
-                "Bubblebeam"
+                "Bubble Beam"
             ]
         },
         "Rocket Boss Giovanni": {
@@ -5974,7 +5974,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Double-Edge",
                 "Pursuit",
-                "Bubblebeam",
+                "Bubble Beam",
                 "Hypnosis"
             ]
         },
@@ -9629,7 +9629,7 @@ var SETDEX_ADV = {
             "nature": "Rash",
             "moves": [
                 "Icy Wind",
-                "Bubblebeam",
+                "Bubble Beam",
                 "Drill Run",
                 "Body Slam"
             ]
@@ -10315,7 +10315,7 @@ var SETDEX_ADV = {
             "nature": "Serious",
             "moves": [
                 "Wild Charge",
-                "Bubblebeam",
+                "Bubble Beam",
                 "Ice Beam",
                 "Rest"
             ]
@@ -11610,7 +11610,7 @@ var SETDEX_ADV = {
             "nature": "Rash",
             "moves": [
                 "Sludge",
-                "Bubblebeam",
+                "Bubble Beam",
                 "Giga Drain",
                 "Ice Beam"
             ]
@@ -23111,7 +23111,7 @@ var SETDEX_ADV = {
                 "Psybeam",
                 "Shock Wave",
                 "Aurora Beam",
-                "Bubblebeam"
+                "Bubble Beam"
             ]
         },
         "Picknicker Celia": {
@@ -23130,7 +23130,7 @@ var SETDEX_ADV = {
                 "Shock Wave",
                 "Psybeam",
                 "Aurora Beam",
-                "Bubblebeam"
+                "Bubble Beam"
             ]
         },
         "Pokemon Trainer May": {
