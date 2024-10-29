@@ -2905,7 +2905,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Admin (Petral)": {
-            "level": 26,
+            "level": 24,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -3116,7 +3116,7 @@ var SETDEX_ADV = {
             "nature": "Calm",
             "moves": [
                 "Rock Slide",
-                "Earthquake",
+                "Earth Power",
                 "-",
                 "-"
             ]
@@ -3558,11 +3558,11 @@ var SETDEX_ADV = {
                 "Sludge",
                 "Flamethrower",
                 "Giga Drain",
-                "Selfdestruct"
+                "Self Destruct"
             ]
         },
         "Rocket Admin (Petral)": {
-            "level": 26,
+            "level": 24,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -4490,7 +4490,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Hypnosis",
                 "Psybeam",
-                "Water Pulse",
+                "Bubble Beam",
                 "Brick Break"
             ]
         },
@@ -5178,7 +5178,7 @@ var SETDEX_ADV = {
             "item": "Nevermeltice",
             "nature": "Adamant",
             "moves": [
-                "Water Pulse",
+                "Bubble Beam",
                 "Aurora Beam",
                 "Psybeam",
                 "Aqua Jet"
@@ -6156,7 +6156,7 @@ var SETDEX_ADV = {
     },
     "Voltorb": {
         "Rocket Admin (Petral)": {
-            "level": 26,
+            "level": 24,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -6196,7 +6196,7 @@ var SETDEX_ADV = {
     },
     "Shedinja": {
         "Rocket Admin (Petral)": {
-            "level": 26,
+            "level": 24,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -6409,7 +6409,7 @@ var SETDEX_ADV = {
     },
     "Machoke": {
         "Hiker Nob": {
-            "level": 26,
+            "level": 25,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -6468,7 +6468,7 @@ var SETDEX_ADV = {
     },
     "Baltoy": {
         "Hiker Nob": {
-            "level": 26,
+            "level": 24,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -7155,7 +7155,7 @@ var SETDEX_ADV = {
     },
     "Sneasel": {
         "Camper Flint": {
-            "level": 26,
+            "level": 23,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -7167,8 +7167,8 @@ var SETDEX_ADV = {
             "item": "Lum Berry",
             "nature": "Rash",
             "moves": [
-                "Ice Beam",
-                "Crunch",
+                "Bite",
+                "Aurora Beam",
                 "Brick Break",
                 "Super Fang"
             ]
@@ -8270,7 +8270,7 @@ var SETDEX_ADV = {
     },
     "Ponyta": {
         "Camper Jeff": {
-            "level": 26,
+            "level": 25,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -12755,7 +12755,7 @@ var SETDEX_ADV = {
     },
     "Raichu": {
         "Lt Surge": {
-            "level": 29,
+            "level": 30,
             "ivs": {
                 "hp": 31,
                 "at": 31,
