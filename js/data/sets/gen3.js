@@ -3484,7 +3484,7 @@ var SETDEX_ADV = {
     },
     "Mightyena": {
         "Team Rocket Admin (Proton)": {
-            "level": 20,
+            "level": 19,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -3604,7 +3604,7 @@ var SETDEX_ADV = {
     },
     "Carvanha": {
         "Team Rocket Admin (Proton)": {
-            "level": 20,
+            "level": 19,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -3634,7 +3634,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Brightpowder",
+            "item": "Lum Berry",
             "nature": "Quiet",
             "moves": [
                 "Faint Attack",
