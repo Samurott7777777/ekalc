@@ -4566,7 +4566,7 @@ var SETDEX_ADV = {
             "item": "Chesto Berry",
             "nature": "Mild",
             "moves": [
-                "Waterfall",
+                "Hidden Power Water",
                 "Razor Wind",
                 "Aurora Beam",
                 "Dragon Dance"
