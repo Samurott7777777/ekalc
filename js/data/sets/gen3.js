@@ -3361,7 +3361,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Flash Cannon",
                 "Thunderbolt",
-                "Selfdestruct",
+                "Self Destruct",
                 "Protect"
             ]
         }
