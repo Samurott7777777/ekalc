@@ -4198,7 +4198,7 @@ var SETDEX_ADV = {
             ]
         },
         "Sailor Huey": {
-            "level": 24,
+            "level": 27,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -8668,7 +8668,7 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Lum Berry",
-            "nature": "Quirky",
+            "nature": "Quiet",
             "moves": [
                 "Flash Cannon",
                 "Psychic",
@@ -9891,7 +9891,7 @@ var SETDEX_ADV = {
             ]
         },
         "Sailor Huey": {
-            "level": 24,
+            "level": 26,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -9931,7 +9931,7 @@ var SETDEX_ADV = {
     },
     "Crawdaunt": {
         "Sailor Huey": {
-            "level": 24,
+            "level": 26,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -12108,8 +12108,8 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Focus Band",
-            "nature": "Quiet",
+            "item": "Lum Berry",
+            "nature": "Quirky",
             "moves": [
                 "Thunder Wave",
                 "Flash Cannon",
@@ -12244,7 +12244,7 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Lum Berry",
-            "nature": "Modest",
+            "nature": "Impish",
             "moves": [
                 "Hypnosis",
                 "Thunderbolt",
@@ -12303,7 +12303,7 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Lum Berry",
-            "nature": "Naughty",
+            "nature": "Sassy",
             "moves": [
                 "Sludge Bomb",
                 "Air Slash",
