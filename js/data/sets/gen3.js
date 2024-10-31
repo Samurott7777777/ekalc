@@ -3558,7 +3558,7 @@ var SETDEX_ADV = {
                 "Sludge",
                 "Flamethrower",
                 "Giga Drain",
-                "Self Destruct"
+                "Self-Destruct"
             ]
         },
         "Rocket Admin (Petral)": {
