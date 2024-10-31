@@ -1480,7 +1480,7 @@ var SETDEX_ADV = {
             ]
         },
         "Sailor Timothy": {
-            "level": 26,
+            "level": 25,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -4257,7 +4257,7 @@ var SETDEX_ADV = {
             ]
         },
         "Sailor John": {
-            "level": 26,
+            "level": 25,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -4455,7 +4455,7 @@ var SETDEX_ADV = {
             ]
         },
         "Fisherman Dale": {
-            "level": 25,
+            "level": 24,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -4467,9 +4467,9 @@ var SETDEX_ADV = {
             "item": "Liechi Berry",
             "nature": "Naughty",
             "moves": [
-                "Waterfall",
+                "Water Pulse",
                 "Horn Drill",
-                "\u201cAqua Jet",
+                "Aqua Jet",
                 "Double-Edge"
             ]
         }
@@ -4573,7 +4573,7 @@ var SETDEX_ADV = {
             ]
         },
         "Fisherman Dale": {
-            "level": 24,
+            "level": 23,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -4586,7 +4586,7 @@ var SETDEX_ADV = {
             "nature": "Hardy",
             "moves": [
                 "Flail",
-                "Waterfall",
+                "Water Pulse",
                 "Aerial Ace",
                 "Hidden Power Ground"
             ]
@@ -5185,7 +5185,7 @@ var SETDEX_ADV = {
             ]
         },
         "Fisherman Dale": {
-            "level": 25,
+            "level": 24,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -6409,7 +6409,7 @@ var SETDEX_ADV = {
     },
     "Machoke": {
         "Hiker Nob": {
-            "level": 25,
+            "level": 24,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -7444,7 +7444,7 @@ var SETDEX_ADV = {
             ]
         },
         "Bug Catcher Brent": {
-            "level": 31,
+            "level": 32,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -8310,7 +8310,7 @@ var SETDEX_ADV = {
             ]
         },
         "Sailor Timothy": {
-            "level": 26,
+            "level": 25,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -9616,7 +9616,7 @@ var SETDEX_ADV = {
             ]
         },
         "Sailor John": {
-            "level": 25,
+            "level": 24,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -9656,7 +9656,7 @@ var SETDEX_ADV = {
     },
     "Dragonair": {
         "Sailor John": {
-            "level": 26,
+            "level": 25,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -9715,7 +9715,7 @@ var SETDEX_ADV = {
     },
     "Staryu": {
         "Sailor Timothy": {
-            "level": 27,
+            "level": 25,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -10475,7 +10475,7 @@ var SETDEX_ADV = {
     },
     "Arcanine": {
         "Gentleman Brooks": {
-            "level": 24,
+            "level": 23,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -10935,7 +10935,7 @@ var SETDEX_ADV = {
     },
     "Pidgeot": {
         "Gentleman Brooks": {
-            "level": 23,
+            "level": 22,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -11169,7 +11169,7 @@ var SETDEX_ADV = {
     },
     "Tauros": {
         "Gentleman Lamar": {
-            "level": 23,
+            "level": 22,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -12118,7 +12118,7 @@ var SETDEX_ADV = {
             ]
         },
         "Bug Catcher Brent": {
-            "level": 33,
+            "level": 32,
             "ivs": {
                 "hp": 31,
                 "at": 31,
