@@ -12892,7 +12892,7 @@ var SETDEX_ADV = {
             ]
         },
         "Eli & Annie": {
-            "level": 37,
+            "level": 34,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -16339,7 +16339,7 @@ var SETDEX_ADV = {
     },
     "Plusle": {
         "Eli & Annie": {
-            "level": 37,
+            "level": 34,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -16379,7 +16379,7 @@ var SETDEX_ADV = {
     },
     "Golduck": {
         "Eli & Annie": {
-            "level": 36,
+            "level": 34,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -16392,7 +16392,7 @@ var SETDEX_ADV = {
             "nature": "Mild",
             "moves": [
                 "Surf",
-                "Hydro Pump",
+                "Water Pulse",
                 "Ice Beam",
                 "Psychic"
             ]
