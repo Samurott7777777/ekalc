@@ -17092,7 +17092,7 @@ var SETDEX_ADV = {
     },
     "Swalot": {
         "Biker Jared": {
-            "level": 35,
+            "level": 34,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -17185,7 +17185,7 @@ var SETDEX_ADV = {
                 "Earthquake",
                 "Muddy Water",
                 "Ice Beam",
-                "Ancientpower"
+                "Rock Slide"
             ]
         },
         "Biker Virtue": {
