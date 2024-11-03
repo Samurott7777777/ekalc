@@ -17961,7 +17961,7 @@ var SETDEX_ADV = {
             ]
         },
         "Cooltrainer Mary": {
-            "level": 37,
+            "level": 35,
             "ivs": {
                 "hp": 31,
                 "at": 31,
