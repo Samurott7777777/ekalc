@@ -8852,7 +8852,7 @@ var SETDEX_ADV = {
             ]
         },
         "Campus Chris": {
-            "level": 32,
+            "level": 31,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -9670,7 +9670,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Thunderbolt",
                 "Ice Beam",
-                "Extremespeed",
+                "Extreme Speed",
                 "Surf"
             ]
         },
@@ -9690,7 +9690,7 @@ var SETDEX_ADV = {
                 "Draco Meteor",
                 "Thunderbolt",
                 "Ice Beam",
-                "Extremespeed"
+                "Extreme Speed"
             ]
         },
         "Fisherman Chip": {
@@ -9709,7 +9709,7 @@ var SETDEX_ADV = {
                 "Draco Meteor",
                 "Thunderbolt",
                 "Ice Beam",
-                "Extremespeed"
+                "Extreme Speed"
             ]
         }
     },
@@ -10507,7 +10507,7 @@ var SETDEX_ADV = {
             "nature": "Jolly",
             "moves": [
                 "Flamethrower",
-                "Extremespeed",
+                "Extreme Speed",
                 "Crunch",
                 "Hidden Power Grass"
             ]
@@ -10564,7 +10564,7 @@ var SETDEX_ADV = {
             "nature": "Hardy",
             "moves": [
                 "Overheat",
-                "Extremespeed",
+                "Extreme Speed",
                 "Wild Charge",
                 "Hidden Power Grass"
             ]
@@ -10583,7 +10583,7 @@ var SETDEX_ADV = {
             "nature": "Impish",
             "moves": [
                 "Overheat",
-                "Extremespeed",
+                "Extreme Speed",
                 "Wild Charge",
                 "Hidden Power Grass"
             ]
@@ -10602,7 +10602,7 @@ var SETDEX_ADV = {
             "nature": "Docile",
             "moves": [
                 "Overheat",
-                "Extremespeed",
+                "Extreme Speed",
                 "Wild Charge",
                 "Outrage"
             ]
@@ -10621,7 +10621,7 @@ var SETDEX_ADV = {
             "nature": "Naive",
             "moves": [
                 "Overheat",
-                "Extremespeed",
+                "Extreme Speed",
                 "Wild Charge",
                 "Hidden Power Ice"
             ]
@@ -10639,7 +10639,7 @@ var SETDEX_ADV = {
             "item": "Lum Berry",
             "nature": "Impish",
             "moves": [
-                "Extremespeed",
+                "Extreme Speed",
                 "Heat Wave",
                 "Wild Charge",
                 "Hidden Power Grass"
@@ -10658,7 +10658,7 @@ var SETDEX_ADV = {
             "item": "Lum Berry",
             "nature": "Timid",
             "moves": [
-                "Extremespeed",
+                "Extreme Speed",
                 "Wild Charge",
                 "Overheat",
                 "Hidden Power Grass"
@@ -10678,7 +10678,7 @@ var SETDEX_ADV = {
             "nature": "Calm",
             "moves": [
                 "Overheat",
-                "Extremespeed",
+                "Extreme Speed",
                 "Hidden Power Electric",
                 "Morning Sun"
             ]
@@ -10697,7 +10697,7 @@ var SETDEX_ADV = {
             "nature": "Hasty",
             "moves": [
                 "Sacred Fire",
-                "Extremespeed",
+                "Extreme Speed",
                 "Hidden Power Grass",
                 "Outrage"
             ]
@@ -10715,7 +10715,7 @@ var SETDEX_ADV = {
             "item": "Charcoal",
             "nature": "Jolly",
             "moves": [
-                "Extremespeed",
+                "Extreme Speed",
                 "Sacred Fire",
                 "Hidden Power Grass",
                 "Earthquake"
@@ -10735,7 +10735,7 @@ var SETDEX_ADV = {
             "nature": "Naughty",
             "moves": [
                 "Sacred Fire",
-                "Extremespeed",
+                "Extreme Speed",
                 "Solarbeam",
                 "Hidden Power Electric"
             ]
@@ -10756,7 +10756,7 @@ var SETDEX_ADV = {
                 "Protect",
                 "Sacred Fire",
                 "Hidden Power Grass",
-                "Extremespeed"
+                "Extreme Speed"
             ]
         },
         "E4R2 Bruno": {
@@ -10773,7 +10773,7 @@ var SETDEX_ADV = {
             "nature": "Bold",
             "moves": [
                 "Sacred Fire",
-                "Extremespeed",
+                "Extreme Speed",
                 "Hidden Power Ice",
                 "Solarbeam"
             ]
@@ -11161,7 +11161,7 @@ var SETDEX_ADV = {
             "nature": "Impish",
             "moves": [
                 "Draco Meteor",
-                "Extremespeed",
+                "Extreme Speed",
                 "Thunder Wave",
                 "Thunderbolt"
             ]
@@ -12769,7 +12769,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Thunder",
                 "Surf",
-                "Extremespeed",
+                "Extreme Speed",
                 "Hidden Power Grass"
             ]
         },
@@ -13166,7 +13166,7 @@ var SETDEX_ADV = {
             ]
         },
         "Pkmn Trainer May": {
-            "level": 35,
+            "level": 34,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -15833,7 +15833,7 @@ var SETDEX_ADV = {
                 "Overheat",
                 "Earthquake",
                 "Wild Charge",
-                "Extremespeed"
+                "Extreme Speed"
             ]
         },
         "Crush Combo Mik And Kia": {
@@ -15908,7 +15908,7 @@ var SETDEX_ADV = {
             "item": "Choice Band",
             "nature": "",
             "moves": [
-                "Extremespeed",
+                "Extreme Speed",
                 "-",
                 "-",
                 "-"
@@ -15927,7 +15927,7 @@ var SETDEX_ADV = {
             "item": "Silk Scarf",
             "nature": "Modest",
             "moves": [
-                "Extremespeed",
+                "Extreme Speed",
                 "Shadow Ball",
                 "Superpower",
                 "Belly Drum"
@@ -15946,7 +15946,7 @@ var SETDEX_ADV = {
             "item": "Choice Band",
             "nature": "Quirky",
             "moves": [
-                "Extremespeed",
+                "Extreme Speed",
                 "-",
                 "-",
                 "-"
@@ -16799,7 +16799,7 @@ var SETDEX_ADV = {
                 "X-Scissor",
                 "Hidden Power Ghost",
                 "Flash Cannon",
-                "Extremespeed"
+                "Extreme Speed"
             ]
         },
         "Biker Jaxon": {
@@ -16837,7 +16837,7 @@ var SETDEX_ADV = {
                 "Flash Cannon",
                 "Megahorn",
                 "Swords Dance",
-                "Extremespeed"
+                "Extreme Speed"
             ]
         },
         "Mt Ember Grunt 2": {
