@@ -9675,7 +9675,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Grunt*": {
-            "level": 36,
+            "level": 35,
             "ivs": {
                 "hp": 31,
                 "at": 31,
