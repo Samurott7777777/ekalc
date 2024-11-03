@@ -3663,7 +3663,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Grunt*": {
-            "level": 36,
+            "level": 34,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -11304,7 +11304,7 @@ var SETDEX_ADV = {
             ]
         }
     },
-    "Mrmime": {
+    "Mr. Mime": {
         "Gentleman Lamar": {
             "level": 24,
             "ivs": {
@@ -11325,7 +11325,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Grunt*": {
-            "level": 36,
+            "level": 35,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -11443,7 +11443,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Grunt*": {
-            "level": 37,
+            "level": 36,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -17613,7 +17613,7 @@ var SETDEX_ADV = {
     },
     "Flareon": {
         "Rocket Grunt*": {
-            "level": 36,
+            "level": 35,
             "ivs": {
                 "hp": 31,
                 "at": 31,
