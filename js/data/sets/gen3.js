@@ -8852,7 +8852,7 @@ var SETDEX_ADV = {
             ]
         },
         "Campus Chris": {
-            "level": 33,
+            "level": 32,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -10494,7 +10494,7 @@ var SETDEX_ADV = {
             ]
         },
         "Picknicker Calvin": {
-            "level": 32,
+            "level": 30,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -13416,7 +13416,7 @@ var SETDEX_ADV = {
     },
     "Rapidash": {
         "Camper Drew": {
-            "level": 32,
+            "level": 31,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -13512,7 +13512,7 @@ var SETDEX_ADV = {
     },
     "Shelgon": {
         "Campus Chris": {
-            "level": 35,
+            "level": 34,
             "ivs": {
                 "hp": 31,
                 "at": 31,
