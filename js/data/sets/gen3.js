@@ -4834,10 +4834,10 @@ var SETDEX_ADV = {
             "item": "Lum",
             "nature": "Calm",
             "moves": [
-                "Sludge",
-                "Toxic",
-                "Stun Spore",
-                "Sleep Powder"
+                "Water Pulse",
+                "Recover",
+                "Icy Wind",
+                "Hidden Power Electric"
             ]
         },
         "Pokemon Tower Rival": {
