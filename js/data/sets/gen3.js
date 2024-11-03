@@ -2924,7 +2924,7 @@ var SETDEX_ADV = {
             ]
         },
         "Picknicker Ariana": {
-            "level": 36,
+            "level": 35,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -14417,7 +14417,7 @@ var SETDEX_ADV = {
     },
     "Misdreavus": {
         "Picknicker Ariana": {
-            "level": 33,
+            "level": 32,
             "ivs": {
                 "hp": 31,
                 "at": 31,
