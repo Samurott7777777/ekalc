@@ -13531,7 +13531,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Ricardo": {
-            "level": 37,
+            "level": 36,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -13540,7 +13540,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Focus Band",
+            "item": "Lum Berry",
             "nature": "Careful",
             "moves": [
                 "Dragon Claw",
