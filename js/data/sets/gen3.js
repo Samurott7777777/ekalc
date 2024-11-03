@@ -15626,7 +15626,7 @@ var SETDEX_ADV = {
             ]
         },
         "Lass Kay": {
-            "level": 38,
+            "level": 34,
             "ivs": {
                 "hp": 31,
                 "at": 31,
