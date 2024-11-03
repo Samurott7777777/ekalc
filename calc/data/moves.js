@@ -546,7 +546,7 @@ var ADV_PATCH = {
     'Silver Wind': { bp: 80, type: 'Bug' },
     'Aerial Ace': { bp: 60, type: 'Flying', makesContact: true },
     'Blast Burn': { bp: 150, type: 'Fire' },
-    'Blaze Kick': { bp: 100, type: 'Fire', makesContact: true },
+    'Blaze Kick': { bp: 85, type: 'Fire', makesContact: true },
     'Bulk Up': { bp: 0, category: 'Status', type: 'Fighting' },
     'Calm Mind': { bp: 0, category: 'Status', type: 'Psychic' },
     'Cosmic Power': { bp: 0, category: 'Status', type: 'Psychic' },
