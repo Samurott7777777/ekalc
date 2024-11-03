@@ -3246,7 +3246,7 @@ var SETDEX_ADV = {
             ]
         },
         "Hiker Eric": {
-            "level": 36,
+            "level": 34,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -14282,7 +14282,7 @@ var SETDEX_ADV = {
     },
     "Camerupt": {
         "Hiker Eric": {
-            "level": 35,
+            "level": 34,
             "ivs": {
                 "hp": 31,
                 "at": 31,
