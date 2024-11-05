@@ -77,7 +77,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 1*": {
-            "level": 58,
+            "level": 55,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -19484,7 +19484,7 @@ var SETDEX_ADV = {
     },
     "Hypno": {
         "Grunt 1*": {
-            "level": 46,
+            "level": 44,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -19657,7 +19657,7 @@ var SETDEX_ADV = {
     },
     "Slaking": {
         "Grunt 1*": {
-            "level": 48,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
