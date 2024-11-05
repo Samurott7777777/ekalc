@@ -677,7 +677,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 7": {
-            "level": 48,
+            "level": 45,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -736,7 +736,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 3": {
-            "level": 47,
+            "level": 45,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -1580,7 +1580,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 7": {
-            "level": 46,
+            "level": 45,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -4592,7 +4592,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 4": {
-            "level": 48,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -5204,7 +5204,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Admin Archer": {
-            "level": 48,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -6215,7 +6215,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 5": {
-            "level": 51,
+            "level": 50,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -6921,7 +6921,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 6": {
-            "level": 48,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -7183,7 +7183,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Focus Band",
+            "item": "Lum Berry",
             "nature": "Lax",
             "moves": [
                 "Ice Beam",
@@ -8038,7 +8038,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 6": {
-            "level": 48,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -8871,7 +8871,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 5": {
-            "level": 47,
+            "level": 45,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -9833,7 +9833,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 4": {
-            "level": 55,
+            "level": 54,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -9950,7 +9950,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 6": {
-            "level": 48,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -13185,7 +13185,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 5": {
-            "level": 58,
+            "level": 50,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -13281,7 +13281,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 3": {
-            "level": 47,
+            "level": 45,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -13727,7 +13727,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Admin Archer": {
-            "level": 48,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -13938,7 +13938,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Boss Giovanni": {
-            "level": 48,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -14820,7 +14820,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 5": {
-            "level": 48,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -15299,7 +15299,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Boss Giovanni": {
-            "level": 48,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -15780,7 +15780,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 7": {
-            "level": 48,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -16573,7 +16573,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Boss Giovanni": {
-            "level": 48,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -16670,7 +16670,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Admin Archer": {
-            "level": 48,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -17691,7 +17691,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 4": {
-            "level": 48,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -17980,7 +17980,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 6": {
-            "level": 48,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -17989,7 +17989,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Quick Claw",
+            "item": "Lum Berry",
             "nature": "Sassy",
             "moves": [
                 "Sleep Powder",
@@ -18516,7 +18516,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Admin Archer": {
-            "level": 52,
+            "level": 50,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -19965,7 +19965,7 @@ var SETDEX_ADV = {
     },
     "Armaldo": {
         "Grunt 3": {
-            "level": 47,
+            "level": 45,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -20157,7 +20157,7 @@ var SETDEX_ADV = {
     },
     "Kingdra": {
         "Grunt 3": {
-            "level": 47,
+            "level": 45,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -20520,7 +20520,7 @@ var SETDEX_ADV = {
     },
     "Octillery": {
         "Grunt 4": {
-            "level": 48,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -20560,7 +20560,7 @@ var SETDEX_ADV = {
     },
     "Banette": {
         "Grunt 4": {
-            "level": 49,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -20676,7 +20676,7 @@ var SETDEX_ADV = {
     },
     "Blaziken": {
         "Grunt 5": {
-            "level": 49,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -20963,7 +20963,7 @@ var SETDEX_ADV = {
     },
     "Dodrio": {
         "Grunt 6": {
-            "level": 48,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -21098,7 +21098,7 @@ var SETDEX_ADV = {
     },
     "Seviper": {
         "Grunt 7": {
-            "level": 48,
+            "level": 45,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -21237,7 +21237,7 @@ var SETDEX_ADV = {
     },
     "Gengar": {
         "Rocket Admin Archer": {
-            "level": 48,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
