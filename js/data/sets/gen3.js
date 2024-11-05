@@ -540,7 +540,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 1*": {
-            "level": 47,
+            "level": 44,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -18459,7 +18459,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 1*": {
-            "level": 55,
+            "level": 52,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -18478,7 +18478,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 3": {
-            "level": 55,
+            "level": 52,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -18497,7 +18497,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 7": {
-            "level": 55,
+            "level": 52,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -18516,7 +18516,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Admin Archer": {
-            "level": 55,
+            "level": 52,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -19657,7 +19657,7 @@ var SETDEX_ADV = {
     },
     "Slaking": {
         "Grunt 1*": {
-            "level": 46,
+            "level": 44,
             "ivs": {
                 "hp": 31,
                 "at": 31,
