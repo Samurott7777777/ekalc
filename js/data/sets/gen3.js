@@ -2587,7 +2587,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 1": {
-            "level": 46,
+            "level": 39,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -14455,7 +14455,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 1": {
-            "level": 47,
+            "level": 39,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -14467,7 +14467,7 @@ var SETDEX_ADV = {
             "item": "Silk Scarf",
             "nature": "Calm",
             "moves": [
-                "Explosion",
+                "Self-Destruct",
                 "-",
                 "-",
                 "-"
@@ -17326,7 +17326,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 1": {
-            "level": 50,
+            "level": 39,
             "ivs": {
                 "hp": 31,
                 "at": 31,
