@@ -3574,7 +3574,7 @@ var SETDEX_ADV = {
             "item": "Salac Berry",
             "nature": "Relaxed",
             "moves": [
-                "Explosion",
+                "Self-Destruct",
                 "Sludge",
                 "Flamethrower",
                 "Giga Drain"
