@@ -2467,7 +2467,7 @@ var SETDEX_ADV = {
             ]
         },
         "Channeler Angelica": {
-            "level": 51,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -3701,7 +3701,7 @@ var SETDEX_ADV = {
             ]
         },
         "Channeler Emilia": {
-            "level": 54,
+            "level": 53,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -4495,7 +4495,7 @@ var SETDEX_ADV = {
             ]
         },
         "Fisherman Ned": {
-            "level": 50,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -4611,7 +4611,7 @@ var SETDEX_ADV = {
             ]
         },
         "Fisherman Chip": {
-            "level": 50,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -5223,7 +5223,7 @@ var SETDEX_ADV = {
             ]
         },
         "Fisherman Elliot": {
-            "level": 50,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -6234,7 +6234,7 @@ var SETDEX_ADV = {
             ]
         },
         "Channeler Emilia": {
-            "level": 53,
+            "level": 51,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -6243,7 +6243,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Quick Claw",
+            "item": "Lum Berry",
             "nature": "",
             "moves": [
                 "Shadow Ball",
@@ -6704,7 +6704,7 @@ var SETDEX_ADV = {
             ]
         },
         "Channeler Angelica": {
-            "level": 49,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -8329,7 +8329,7 @@ var SETDEX_ADV = {
             ]
         },
         "Fisherman Hank": {
-            "level": 50,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -8677,7 +8677,7 @@ var SETDEX_ADV = {
             ]
         },
         "Super Nerd Glenn": {
-            "level": 35,
+            "level": 34,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -9119,7 +9119,7 @@ var SETDEX_ADV = {
             ]
         },
         "Super Nerd Glenn": {
-            "level": 34,
+            "level": 33,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -9694,7 +9694,7 @@ var SETDEX_ADV = {
             ]
         },
         "Fisherman Chip": {
-            "level": 50,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -9755,7 +9755,7 @@ var SETDEX_ADV = {
             ]
         },
         "Channeler Patricia": {
-            "level": 49,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -9852,7 +9852,7 @@ var SETDEX_ADV = {
             ]
         },
         "Channeler Laurel": {
-            "level": 53,
+            "level": 52,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -10066,7 +10066,7 @@ var SETDEX_ADV = {
             ]
         },
         "Young Couple Gia And Jes": {
-            "level": 50,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -11462,7 +11462,7 @@ var SETDEX_ADV = {
             ]
         },
         "Channeler Paula": {
-            "level": 48,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -11481,7 +11481,7 @@ var SETDEX_ADV = {
             ]
         },
         "Fisherman Hank": {
-            "level": 50,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -11616,7 +11616,7 @@ var SETDEX_ADV = {
             ]
         },
         "Fisherman Chip": {
-            "level": 50,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -11770,7 +11770,7 @@ var SETDEX_ADV = {
             ]
         },
         "Fisherman Ned": {
-            "level": 50,
+            "level": 49,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -12272,7 +12272,7 @@ var SETDEX_ADV = {
             ]
         },
         "Channeler Patricia": {
-            "level": 49,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -13590,7 +13590,7 @@ var SETDEX_ADV = {
             ]
         },
         "Fisherman Elliot": {
-            "level": 52,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -13746,7 +13746,7 @@ var SETDEX_ADV = {
             ]
         },
         "Young Couple Gia And Jes": {
-            "level": 50,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -13957,7 +13957,7 @@ var SETDEX_ADV = {
             ]
         },
         "Channeler Tammy": {
-            "level": 69,
+            "level": 65,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -14474,7 +14474,7 @@ var SETDEX_ADV = {
             ]
         },
         "Channeler Patricia": {
-            "level": 47,
+            "level": 44,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -14723,7 +14723,7 @@ var SETDEX_ADV = {
             ]
         },
         "Channeler Emilia": {
-            "level": 50,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -15318,7 +15318,7 @@ var SETDEX_ADV = {
             ]
         },
         "Fisherman Hank": {
-            "level": 50,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -15974,7 +15974,7 @@ var SETDEX_ADV = {
             ]
         },
         "Channeler Laurel": {
-            "level": 49,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -16033,7 +16033,7 @@ var SETDEX_ADV = {
     },
     "Ninetales": {
         "Super Nerd Glenn": {
-            "level": 34,
+            "level": 33,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -16398,7 +16398,7 @@ var SETDEX_ADV = {
             ]
         },
         "Fisherman Ned": {
-            "level": 50,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -16476,7 +16476,7 @@ var SETDEX_ADV = {
             ]
         },
         "Fisherman Hank": {
-            "level": 51,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -16919,7 +16919,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 2": {
-            "level": 45,
+            "level": 44,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -18708,7 +18708,7 @@ var SETDEX_ADV = {
             ]
         },
         "Channeler Paula": {
-            "level": 54,
+            "level": 50,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -19126,7 +19126,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Brightpowder",
+            "item": "Lum Berry",
             "nature": "Bold",
             "moves": [
                 "Gunk Shot",
@@ -19503,7 +19503,7 @@ var SETDEX_ADV = {
             ]
         },
         "Channeler Patricia": {
-            "level": 49,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -20579,7 +20579,7 @@ var SETDEX_ADV = {
             ]
         },
         "Channeler Patricia": {
-            "level": 49,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -20982,7 +20982,7 @@ var SETDEX_ADV = {
             ]
         },
         "Young Couple Gia And Jes": {
-            "level": 50,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -21256,7 +21256,7 @@ var SETDEX_ADV = {
             ]
         },
         "Channeler Paula": {
-            "level": 49,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -22959,7 +22959,7 @@ var SETDEX_ADV = {
     },
     "Marowak": {
         "Channeler Laurel": {
-            "level": 49,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -23037,7 +23037,7 @@ var SETDEX_ADV = {
     },
     "Omastar": {
         "Channeler Paula": {
-            "level": 49,
+            "level": 44,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -23364,7 +23364,7 @@ var SETDEX_ADV = {
     },
     "Sableye": {
         "Channeler Emilia": {
-            "level": 46,
+            "level": 45,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -23575,7 +23575,7 @@ var SETDEX_ADV = {
     },
     "Dusclops": {
         "Channeler Emilia": {
-            "level": 47,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -23940,7 +23940,7 @@ var SETDEX_ADV = {
     },
     "Claydol": {
         "Grunt 2*": {
-            "level": 50,
+            "level": 49,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -24094,7 +24094,7 @@ var SETDEX_ADV = {
     },
     "Ursaring": {
         "Grunt 2*": {
-            "level": 50,
+            "level": 51,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -24108,8 +24108,8 @@ var SETDEX_ADV = {
             "moves": [
                 "Flail",
                 "Double-Edge",
-                "Shadow Ball",
-                "Superpower"
+                "Tail Glow",
+                "Pursuit"
             ]
         },
         "Tamer Edgar": {
@@ -24267,7 +24267,7 @@ var SETDEX_ADV = {
     },
     "Gorebyss": {
         "Rocket Admin Ariana": {
-            "level": 51,
+            "level": 50,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -24307,7 +24307,7 @@ var SETDEX_ADV = {
     },
     "Salamence": {
         "Rocket Admin Ariana": {
-            "level": 50,
+            "level": 49,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -24575,7 +24575,7 @@ var SETDEX_ADV = {
     },
     "Quagsire": {
         "Fisherman Chip": {
-            "level": 50,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -24596,7 +24596,7 @@ var SETDEX_ADV = {
     },
     "Delibird": {
         "Fisherman Elliot": {
-            "level": 55,
+            "level": 53,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -24695,7 +24695,7 @@ var SETDEX_ADV = {
     },
     "Nidoking": {
         "Young Couple Gia And Jes": {
-            "level": 50,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -24811,7 +24811,7 @@ var SETDEX_ADV = {
     },
     "Nidoqueen": {
         "Young Couple Gia And Jes": {
-            "level": 50,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -24851,7 +24851,7 @@ var SETDEX_ADV = {
     },
     "Medicham": {
         "Young Couple Gia And Jes": {
-            "level": 50,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
