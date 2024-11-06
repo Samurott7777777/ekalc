@@ -4290,7 +4290,7 @@ var SETDEX_ADV = {
             "item": "Sitrus Berry",
             "nature": "Bold",
             "moves": [
-                "Surf",
+                "Hidden Power Water",
                 "Super Fang",
                 "Ice Shard",
                 "Earthquake"
