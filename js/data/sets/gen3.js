@@ -7155,7 +7155,7 @@ var SETDEX_ADV = {
     },
     "Sneasel": {
         "Camper Flint": {
-            "level": 23,
+            "level": 22,
             "ivs": {
                 "hp": 31,
                 "at": 31,
