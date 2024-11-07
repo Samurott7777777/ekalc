@@ -115,7 +115,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 9": {
-            "level": 78,
+            "level": 72,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -154,7 +154,7 @@ var SETDEX_ADV = {
             ]
         },
         "Psychic Preston": {
-            "level": 75,
+            "level": 73,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -2981,7 +2981,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Grunt 14": {
-            "level": 82,
+            "level": 76,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -3758,7 +3758,7 @@ var SETDEX_ADV = {
             ]
         },
         "Scientist Ed": {
-            "level": 80,
+            "level": 72,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -3777,7 +3777,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Admin Proton 2": {
-            "level": 68,
+            "level": 67,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -7094,7 +7094,7 @@ var SETDEX_ADV = {
             ]
         },
         "Psychic Preston": {
-            "level": 70,
+            "level": 68,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -7231,7 +7231,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Admin Proton 2": {
-            "level": 66,
+            "level": 64,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -8985,7 +8985,7 @@ var SETDEX_ADV = {
             ]
         },
         "Admin Petral 2": {
-            "level": 68,
+            "level": 67,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -9004,7 +9004,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 12": {
-            "level": 64,
+            "level": 62,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -9443,7 +9443,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 12": {
-            "level": 64,
+            "level": 62,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -10104,7 +10104,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 10": {
-            "level": 64,
+            "level": 62,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -10113,7 +10113,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Brightpowder",
+            "item": "Lum Berry",
             "nature": "Modest",
             "moves": [
                 "Muddy Water",
@@ -10570,7 +10570,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Admin Proton 2": {
-            "level": 66,
+            "level": 65,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -11519,7 +11519,7 @@ var SETDEX_ADV = {
             ]
         },
         "Admin Petral 2": {
-            "level": 66,
+            "level": 65,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -11808,7 +11808,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 6*": {
-            "level": 63,
+            "level": 61,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -12137,7 +12137,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 10": {
-            "level": 66,
+            "level": 62,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -14339,7 +14339,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 12": {
-            "level": 64,
+            "level": 62,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -14550,7 +14550,7 @@ var SETDEX_ADV = {
             ]
         },
         "Scientist Beau": {
-            "level": 63,
+            "level": 62,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -14569,7 +14569,7 @@ var SETDEX_ADV = {
             ]
         },
         "Channeler Amanda": {
-            "level": 65,
+            "level": 62,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -14972,7 +14972,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Admin Ariana 2": {
-            "level": 66,
+            "level": 65,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -17383,7 +17383,7 @@ var SETDEX_ADV = {
             ]
         },
         "Admin Petral 2": {
-            "level": 66,
+            "level": 61,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -17632,7 +17632,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 13": {
-            "level": 64,
+            "level": 63,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -18037,7 +18037,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 8": {
-            "level": 63,
+            "level": 62,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -18056,7 +18056,7 @@ var SETDEX_ADV = {
             ]
         },
         "Scientist Connor": {
-            "level": 64,
+            "level": 63,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -18075,7 +18075,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 13*": {
-            "level": 65,
+            "level": 62,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -18286,7 +18286,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 4*": {
-            "level": 65,
+            "level": 64,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -18305,7 +18305,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 10": {
-            "level": 65,
+            "level": 63,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -19174,7 +19174,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Admin Ariana 2": {
-            "level": 68,
+            "level": 67,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -19830,7 +19830,7 @@ var SETDEX_ADV = {
             ]
         },
         "Admin Petral 2": {
-            "level": 66,
+            "level": 65,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -20003,7 +20003,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Admin Proton 2": {
-            "level": 66,
+            "level": 65,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -20012,7 +20012,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Quick Claw",
+            "item": "Lum Berry",
             "nature": "Bashful",
             "moves": [
                 "Ancientpower",
@@ -21389,7 +21389,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Admin Ariana 2": {
-            "level": 66,
+            "level": 65,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -22001,7 +22001,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Admin Proton 2": {
-            "level": 66,
+            "level": 63,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -22014,9 +22014,9 @@ var SETDEX_ADV = {
             "nature": "Naive",
             "moves": [
                 "Psychic",
-                "Thunderbolt",
-                "Ice Beam",
-                "Flamethrower"
+                "Thunder Punch",
+                "Ice Punch",
+                "Fire Punch"
             ]
         },
         "Rocket Admin Archer 2": {
@@ -22326,7 +22326,7 @@ var SETDEX_ADV = {
             ]
         },
         "Admin Petral 2": {
-            "level": 66,
+            "level": 65,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -23056,7 +23056,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 13": {
-            "level": 64,
+            "level": 62,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -24326,7 +24326,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Admin Ariana 2": {
-            "level": 66,
+            "level": 65,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -25682,7 +25682,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Admin Ariana 2": {
-            "level": 66,
+            "level": 65,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -25857,7 +25857,7 @@ var SETDEX_ADV = {
             ]
         },
         "Scientist Beau": {
-            "level": 66,
+            "level": 64,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -26190,7 +26190,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 6*": {
-            "level": 63,
+            "level": 62,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -26614,7 +26614,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Admin Ariana 2": {
-            "level": 66,
+            "level": 65,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -26787,7 +26787,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Admin Proton 2": {
-            "level": 66,
+            "level": 65,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -27407,7 +27407,7 @@ var SETDEX_ADV = {
     },
     "Golem": {
         "Admin Petral 2": {
-            "level": 66,
+            "level": 65,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -27416,7 +27416,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Quick Claw",
+            "item": "Lum Berry",
             "nature": "Lonely",
             "moves": [
                 "Head Smash",
