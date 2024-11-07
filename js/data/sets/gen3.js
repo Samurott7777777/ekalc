@@ -4436,7 +4436,7 @@ var SETDEX_ADV = {
             ]
         },
         "Camper Jeff": {
-            "level": 24,
+            "level": 23,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -8192,7 +8192,7 @@ var SETDEX_ADV = {
     },
     "Arbok": {
         "Camper Jeff": {
-            "level": 25,
+            "level": 23,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -8291,7 +8291,7 @@ var SETDEX_ADV = {
     },
     "Qwilfish": {
         "Camper Jeff": {
-            "level": 25,
+            "level": 23,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -8445,7 +8445,7 @@ var SETDEX_ADV = {
     },
     "Altaria": {
         "Camper Jeff": {
-            "level": 24,
+            "level": 22,
             "ivs": {
                 "hp": 31,
                 "at": 31,
