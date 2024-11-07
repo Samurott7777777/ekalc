@@ -7752,7 +7752,7 @@ var SETDEX_ADV = {
     },
     "Electabuzz": {
         "Rocket Grunt": {
-            "level": 24,
+            "level": 23,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -7886,7 +7886,7 @@ var SETDEX_ADV = {
     },
     "Magmar": {
         "Rocket Grunt": {
-            "level": 24,
+            "level": 23,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -8001,7 +8001,7 @@ var SETDEX_ADV = {
     },
     "Jynx": {
         "Rocket Grunt": {
-            "level": 24,
+            "level": 23,
             "ivs": {
                 "hp": 31,
                 "at": 31,
