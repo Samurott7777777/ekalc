@@ -8455,7 +8455,7 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Leftovers",
-            "nature": "Sasssy",
+            "nature": "Sassy",
             "moves": [
                 "Dragonbreath",
                 "Drill Peck",
