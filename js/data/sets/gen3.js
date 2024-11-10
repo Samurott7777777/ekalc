@@ -3406,7 +3406,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Zeke": {
-            "level": 87,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -3815,7 +3815,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Zeke": {
-            "level": 84,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -3824,7 +3824,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Brightpowder",
+            "item": "Lum Berry",
             "nature": "Gentle",
             "moves": [
                 "Aeroblast",
@@ -5451,7 +5451,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Cerulean": {
-            "level": 84,
+            "level": 82,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -5470,7 +5470,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Jamal": {
-            "level": 84,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -6253,7 +6253,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Jamal": {
-            "level": 84,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -6262,7 +6262,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Focus Band",
+            "item": "Lum Berry",
             "nature": "Modest",
             "moves": [
                 "X-Scissor",
@@ -6607,7 +6607,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Steering": {
-            "level": 84,
+            "level": 82,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -8559,7 +8559,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Balling": {
-            "level": 84,
+            "level": 82,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -9252,7 +9252,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Fuschia": {
-            "level": 85,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -9271,7 +9271,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Viridian": {
-            "level": 85,
+            "level": 82,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -9500,7 +9500,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Steering": {
-            "level": 84,
+            "level": 82,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -9509,7 +9509,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Focus Band",
+            "item": "Lum Berry",
             "nature": "Docile",
             "moves": [
                 "Explosion",
@@ -10646,7 +10646,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Cinnabar": {
-            "level": 85,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -10665,7 +10665,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Virtue": {
-            "level": 84,
+            "level": 82,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -11245,7 +11245,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Jamal": {
-            "level": 84,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -11363,7 +11363,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Steering": {
-            "level": 84,
+            "level": 82,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -11692,7 +11692,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Steering": {
-            "level": 84,
+            "level": 82,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -11701,7 +11701,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Focus Band",
+            "item": "Lum Berry",
             "nature": "Bold",
             "moves": [
                 "Muddy Water",
@@ -12484,8 +12484,8 @@ var SETDEX_ADV = {
                 "Baton Pass"
             ]
         },
-        "Ace Trainer Cinnabar": {
-            "level": 85,
+        "Ace Trainer Vermillion": {
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -12504,7 +12504,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Zeke": {
-            "level": 84,
+            "level": 82,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -15029,7 +15029,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Fuschia": {
-            "level": 85,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -15048,7 +15048,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Virtue": {
-            "level": 84,
+            "level": 82,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -16261,7 +16261,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Cinnabar": {
-            "level": 85,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -16280,7 +16280,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Steering": {
-            "level": 84,
+            "level": 82,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -16784,7 +16784,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Vermillion": {
-            "level": 84,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -16822,7 +16822,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Steering": {
-            "level": 84,
+            "level": 82,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -16995,7 +16995,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Jamal": {
-            "level": 84,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -17189,7 +17189,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Virtue": {
-            "level": 84,
+            "level": 82,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -19617,7 +19617,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Saffron": {
-            "level": 85,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -19636,7 +19636,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Jamal": {
-            "level": 84,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -20041,7 +20041,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Pewter": {
-            "level": 84,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -20060,7 +20060,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Balling": {
-            "level": 84,
+            "level": 82,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -23651,7 +23651,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Viridian": {
-            "level": 85,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -23689,7 +23689,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Balling": {
-            "level": 84,
+            "level": 82,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -24790,7 +24790,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Zeke": {
-            "level": 84,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -26247,7 +26247,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Fuschia": {
-            "level": 85,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -26266,7 +26266,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Zeke": {
-            "level": 84,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -26458,7 +26458,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Jamal": {
-            "level": 84,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -26671,7 +26671,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Saffron": {
-            "level": 85,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -26690,7 +26690,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Virtue": {
-            "level": 84,
+            "level": 82,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -27445,7 +27445,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Zeke": {
-            "level": 84,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -27561,7 +27561,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Celadon": {
-            "level": 84,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -27580,7 +27580,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Viridian": {
-            "level": 85,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -27618,7 +27618,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Balling": {
-            "level": 84,
+            "level": 80,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -28253,7 +28253,7 @@ var SETDEX_ADV = {
     },
     "Relicanth": {
         "Biker Balling": {
-            "level": 84,
+            "level": 82,
             "ivs": {
                 "hp": 31,
                 "at": 31,
