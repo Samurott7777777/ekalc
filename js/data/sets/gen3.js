@@ -13434,7 +13434,7 @@ var SETDEX_ADV = {
             ]
         },
         "Beauty Tamia": {
-            "level": 38,
+            "level": 35,
             "ivs": {
                 "hp": 31,
                 "at": 31,
