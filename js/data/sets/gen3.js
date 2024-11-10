@@ -17938,7 +17938,7 @@ var SETDEX_ADV = {
                 "Explosion",
                 "Giga Drain",
                 "Psychic",
-                "Ancientpower"
+                "Hidden Power Fire"
             ]
         },
         "Picknicker Tiana": {
