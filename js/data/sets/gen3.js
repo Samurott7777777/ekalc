@@ -10173,7 +10173,7 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Leftovers",
-            "nature": "Naughty",
+            "nature": "Rash",
             "moves": [
                 "Hidden Power Fire",
                 "Giga Drain",
@@ -11042,7 +11042,7 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Leftovers",
-            "nature": "Naughty",
+            "nature": "Lonely",
             "moves": [
                 "Metronome",
                 "-",
@@ -17923,7 +17923,7 @@ var SETDEX_ADV = {
     },
     "Exeggutor": {
         "Beauty Bridget": {
-            "level": 36,
+            "level": 35,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -17933,7 +17933,7 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Lum Berry",
-            "nature": "Careful",
+            "nature": "Sassy",
             "moves": [
                 "Explosion",
                 "Giga Drain",
