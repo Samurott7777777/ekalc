@@ -729,7 +729,7 @@ var SETDEX_ADV = {
             "item": "Lum Berry",
             "nature": "Bashful",
             "moves": [
-                "Solarbeam",
+                "Solar Beam",
                 "Recover",
                 "Flame Wheel",
                 "Explosion"
