@@ -421,7 +421,7 @@ var SETDEX_ADV = {
                 "Silver Wind",
                 "Air Slash",
                 "Superpower",
-                "Extremespeed"
+                "Extreme Speed"
             ]
         },
         "Grunt 7": {
@@ -477,7 +477,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Silver Wind",
                 "Air Slash",
-                "Extremespeed",
+                "Extreme Speed",
                 "Swords Dance"
             ]
         },
@@ -495,7 +495,7 @@ var SETDEX_ADV = {
             "nature": "Timid",
             "moves": [
                 "Air Slash",
-                "Extremespeed",
+                "Extreme Speed",
                 "Superpower",
                 "Silver Wind"
             ]
@@ -2048,7 +2048,7 @@ var SETDEX_ADV = {
                 "Flamethrower",
                 "Sky Uppercut",
                 "Thunder Punch",
-                "Extremespeed"
+                "Extreme Speed"
             ]
         }
     },
@@ -2191,7 +2191,7 @@ var SETDEX_ADV = {
                 "Shock Wave",
                 "Flame Wheel",
                 "Bite",
-                "Extremespeed"
+                "Extreme Speed"
             ]
         },
         "Gentleman Tucker": {
@@ -2229,7 +2229,7 @@ var SETDEX_ADV = {
                 "Wild Charge",
                 "Flamethrower",
                 "Crunch",
-                "Extremespeed"
+                "Extreme Speed"
             ]
         },
         "Super Nerd Glenn": {
@@ -2697,7 +2697,7 @@ var SETDEX_ADV = {
             "nature": "Adamant",
             "moves": [
                 "Thunder Wave",
-                "Extremespeed",
+                "Extreme Speed",
                 "Thunderbolt",
                 "Surf"
             ]
@@ -2975,7 +2975,7 @@ var SETDEX_ADV = {
             "nature": "Rash",
             "moves": [
                 "Super Fang",
-                "Extremespeed",
+                "Extreme Speed",
                 "Shadow Ball",
                 "Superpower"
             ]
@@ -3012,7 +3012,7 @@ var SETDEX_ADV = {
             "item": "Silk Scarf",
             "nature": "Quirky",
             "moves": [
-                "Extremespeed",
+                "Extreme Speed",
                 "Iron Tail",
                 "Swords Dance",
                 "Hidden Power Flying"
@@ -3735,7 +3735,7 @@ var SETDEX_ADV = {
                 "Air Slash",
                 "Crunch",
                 "Hidden Power Grass",
-                "Extremespeed"
+                "Extreme Speed"
             ]
         },
         "Grunt 3*": {
@@ -4070,7 +4070,7 @@ var SETDEX_ADV = {
                 "Flamethrower",
                 "Thunder Punch",
                 "Hidden Power Grass",
-                "Extremespeed"
+                "Extreme Speed"
             ]
         }
     },
@@ -6660,7 +6660,7 @@ var SETDEX_ADV = {
                 "Air Slash",
                 "Swords Dance",
                 "Drill Run",
-                "Extremespeed"
+                "Extreme Speed"
             ]
         },
         "Lass Whitney": {
@@ -6677,7 +6677,7 @@ var SETDEX_ADV = {
             "nature": "Lonley",
             "moves": [
                 "Sky Attack",
-                "Extremespeed",
+                "Extreme Speed",
                 "Superpower",
                 "Swords Dance"
             ]
@@ -6874,7 +6874,7 @@ var SETDEX_ADV = {
             "item": "Lum Berry",
             "nature": "Gentle",
             "moves": [
-                "Extremespeed",
+                "Extreme Speed",
                 "Flamethrower",
                 "Wild Charge",
                 "Air Cutter"
@@ -7208,7 +7208,7 @@ var SETDEX_ADV = {
                 "Ice Beam",
                 "Crunch",
                 "Submission",
-                "Extremespeed"
+                "Extreme Speed"
             ]
         },
         "Grunt 13": {
@@ -8769,7 +8769,7 @@ var SETDEX_ADV = {
                 "Overheat",
                 "Explosion",
                 "Earthquake",
-                "Solarbeam"
+                "Solar Beam"
             ]
         },
         "Pokemon Ranger Madeline": {
@@ -8788,7 +8788,7 @@ var SETDEX_ADV = {
                 "Overheat",
                 "Earthquake",
                 "Explosion",
-                "Solarbeam"
+                "Solar Beam"
             ]
         }
     },
@@ -10736,7 +10736,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Sacred Fire",
                 "Extreme Speed",
-                "Solarbeam",
+                "Solar Beam",
                 "Hidden Power Electric"
             ]
         },
@@ -10775,7 +10775,7 @@ var SETDEX_ADV = {
                 "Sacred Fire",
                 "Extreme Speed",
                 "Hidden Power Ice",
-                "Solarbeam"
+                "Solar Beam"
             ]
         }
     },
@@ -16181,7 +16181,7 @@ var SETDEX_ADV = {
                 "Overheat",
                 "Hidden Power Electric",
                 "Sunny Day",
-                "Solarbeam"
+                "Solar Beam"
             ]
         },
         "Burglar Arnie:, Double Ai": {
@@ -17955,7 +17955,7 @@ var SETDEX_ADV = {
             "nature": "Calm",
             "moves": [
                 "Explosion",
-                "Solarbeam",
+                "Solar Beam",
                 "Ancientpower",
                 "Psychic"
             ]
@@ -18241,7 +18241,7 @@ var SETDEX_ADV = {
             "item": "Lum Berry",
             "nature": "Hardy",
             "moves": [
-                "Solarbeam",
+                "Solar Beam",
                 "Weather Ball",
                 "Gunk Shot",
                 "Hidden Power Electric"
@@ -18412,7 +18412,7 @@ var SETDEX_ADV = {
             "item": "Lum Berry",
             "nature": "Naughty",
             "moves": [
-                "Solarbeam",
+                "Solar Beam",
                 "Gunk Shot",
                 "Hidden Power Fire",
                 "Sleep Powder"
@@ -18761,7 +18761,7 @@ var SETDEX_ADV = {
             "nature": "Hasty",
             "moves": [
                 "Sunny Day",
-                "Solarbeam",
+                "Solar Beam",
                 "Sky Attack",
                 "Earthquake"
             ]
@@ -19070,7 +19070,7 @@ var SETDEX_ADV = {
             "item": "Miracle Seed",
             "nature": "Quirky",
             "moves": [
-                "Solarbeam",
+                "Solar Beam",
                 "Surf",
                 "Fire Punch",
                 "Ice Beam"
@@ -21090,7 +21090,7 @@ var SETDEX_ADV = {
             "nature": "Calm",
             "moves": [
                 "Sky Attack",
-                "Extremespeed",
+                "Extreme Speed",
                 "Swords Dance",
                 "Drill Run"
             ]
@@ -21899,7 +21899,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Heat Wave",
                 "Crunch",
-                "Solarbeam",
+                "Solar Beam",
                 "Hidden Power Ice"
             ]
         },
@@ -26047,7 +26047,7 @@ var SETDEX_ADV = {
                 "Thunderbolt",
                 "Hidden Power Grass",
                 "Drill Peck",
-                "Extremespeed"
+                "Extreme Speed"
             ]
         },
         "E4R2 Champion": {
@@ -26262,7 +26262,7 @@ var SETDEX_ADV = {
                 "Pursuit",
                 "Swords Dance",
                 "Superpower",
-                "Extremespeed"
+                "Extreme Speed"
             ]
         },
         "Biker Zeke": {
@@ -26298,7 +26298,7 @@ var SETDEX_ADV = {
             "nature": "Hasty",
             "moves": [
                 "Swords Dance",
-                "Extremespeed",
+                "Extreme Speed",
                 "Superpower",
                 "Pursuit"
             ]
@@ -26819,7 +26819,7 @@ var SETDEX_ADV = {
             "nature": "Hasty",
             "moves": [
                 "Draco Meteor",
-                "Extremespeed",
+                "Extreme Speed",
                 "Earthquake",
                 "Hydro Pump"
             ]
@@ -26858,7 +26858,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Draco Meteor",
                 "Air Slash",
-                "Extremespeed",
+                "Extreme Speed",
                 "Earthquake"
             ]
         },
@@ -26876,7 +26876,7 @@ var SETDEX_ADV = {
             "nature": "Modest",
             "moves": [
                 "Dragon Dance",
-                "Extremespeed",
+                "Extreme Speed",
                 "Rock Slide",
                 "Earthquake"
             ]
@@ -26935,7 +26935,7 @@ var SETDEX_ADV = {
                 "Aeroblast",
                 "Draco Meteor",
                 "Earthquake",
-                "Extremespeed"
+                "Extreme Speed"
             ]
         },
         "Swimmer Denise": {
@@ -26951,7 +26951,7 @@ var SETDEX_ADV = {
             "item": "Dragon Fang",
             "nature": "Naughty",
             "moves": [
-                "Extremespeed",
+                "Extreme Speed",
                 "Draco Meteor",
                 "Aeroblast",
                 "Earthquake"
@@ -27009,7 +27009,7 @@ var SETDEX_ADV = {
             "nature": "Quirky",
             "moves": [
                 "Aeroblast",
-                "Extremespeed",
+                "Extreme Speed",
                 "Head Smash",
                 "Earthquake"
             ]
@@ -27028,7 +27028,7 @@ var SETDEX_ADV = {
             "nature": "Sassy",
             "moves": [
                 "Dragon Dance",
-                "Extremespeed",
+                "Extreme Speed",
                 "Aeroblast",
                 "Earthquake"
             ]
@@ -27988,7 +27988,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Sacred Fire",
                 "Hidden Power Grass",
-                "Extremespeed",
+                "Extreme Speed",
                 "Ancientpower"
             ]
         },
@@ -28005,7 +28005,7 @@ var SETDEX_ADV = {
             "item": "Lum Berry",
             "nature": "Docile",
             "moves": [
-                "Extremespeed",
+                "Extreme Speed",
                 "Ancientpower",
                 "Sacred Fire",
                 "Hidden Power Grass"
@@ -28026,7 +28026,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Sacred Fire",
                 "Ancientpower",
-                "Extremespeed",
+                "Extreme Speed",
                 "Hidden Power Grass"
             ]
         },
@@ -28044,8 +28044,8 @@ var SETDEX_ADV = {
             "nature": "Adamant",
             "moves": [
                 "Sacred Fire",
-                "Extremespeed",
-                "Solarbeam",
+                "Extreme Speed",
+                "Solar Beam",
                 "Ancientpower"
             ]
         }
@@ -28510,7 +28510,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Earthquake",
                 "Eruption",
-                "Solarbeam",
+                "Solar Beam",
                 "Head Smash"
             ]
         }
@@ -28574,7 +28574,7 @@ var SETDEX_ADV = {
                 "Aeroblast",
                 "Draco Meteor",
                 "Earthquake",
-                "Extremespeed"
+                "Extreme Speed"
             ]
         }
     }
