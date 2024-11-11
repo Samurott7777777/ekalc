@@ -677,7 +677,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 7": {
-            "level": 45,
+            "level": 43,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -6350,7 +6350,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Boss Giovanni": {
-            "level": 54,
+            "level": 50,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -13571,7 +13571,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 8": {
-            "level": 48,
+            "level": 45,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -15905,7 +15905,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Choice Band",
+            "item": "Silk Scarf",
             "nature": "",
             "moves": [
                 "Extreme Speed",
@@ -21098,7 +21098,7 @@ var SETDEX_ADV = {
     },
     "Seviper": {
         "Grunt 7": {
-            "level": 45,
+            "level": 43,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -21237,7 +21237,7 @@ var SETDEX_ADV = {
     },
     "Gengar": {
         "Rocket Admin Archer": {
-            "level": 47,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -21249,7 +21249,7 @@ var SETDEX_ADV = {
             "item": "Lum Berry",
             "nature": "Lonely",
             "moves": [
-                "Explosion",
+                "Hidden Power Fire",
                 "Psychic",
                 "Thunderbolt",
                 "Giga Drain"
