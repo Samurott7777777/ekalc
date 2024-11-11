@@ -835,7 +835,7 @@ var GSC_PATCH = {
     Charmeleon: { bs: { sa: 80, sd: 65 } },
     Clefable: { bs: { sa: 95, sd: 90 } },
     Clefairy: { bs: { sa: 60, sd: 65 } },
-    Cloyster: { bs: { sa: 85, sd: 55 } },
+    Cloyster: { bs: { sa: 85, sd: 70 } },
     Cubone: { bs: { sa: 40, sd: 50 } },
     Dewgong: { bs: { sa: 95, sd: 95 } },
     Diglett: { bs: { sa: 35, sd: 45 } },
@@ -1249,7 +1249,7 @@ var GSC_PATCH = {
     },
     Noctowl: {
         types: ['Normal', 'Flying'],
-        bs: { hp: 100, at: 50, df: 50, sa: 76, sd: 96, sp: 70 },
+        bs: { hp: 100, at: 70, df: 50, sa: 76, sd: 96, sp: 70 },
         weightkg: 40.8
     },
     Octillery: {
