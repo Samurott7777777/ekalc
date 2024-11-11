@@ -77,7 +77,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 1*": {
-            "level": 55,
+            "level": 50,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -1109,7 +1109,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Pewter": {
-            "level": 84,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -4725,7 +4725,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Cerulean": {
-            "level": 84,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -4974,7 +4974,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Cerulean": {
-            "level": 84,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -5451,7 +5451,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Cerulean": {
-            "level": 82,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -7596,7 +7596,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Celadon": {
-            "level": 84,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -8133,7 +8133,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Saffron": {
-            "level": 85,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -9271,7 +9271,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Viridian": {
-            "level": 82,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -10645,7 +10645,7 @@ var SETDEX_ADV = {
                 "Hidden Power Grass"
             ]
         },
-        "Ace Trainer Cinnabar": {
+        "Ace Trainer Cinnebar": {
             "level": 83,
             "ivs": {
                 "hp": 31,
@@ -10857,7 +10857,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Celadon": {
-            "level": 84,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -12194,7 +12194,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Fuschia": {
-            "level": 85,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -12485,7 +12485,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Vermillion": {
-            "level": 83,
+            "level": 84,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -13666,7 +13666,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Pewter": {
-            "level": 84,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -14033,7 +14033,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Pewter": {
-            "level": 84,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -14588,7 +14588,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Saffron": {
-            "level": 85,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -15413,7 +15413,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Viridian": {
-            "level": 85,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -15702,7 +15702,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Celadon": {
-            "level": 84,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -16260,7 +16260,7 @@ var SETDEX_ADV = {
                 "Hidden Power Electric"
             ]
         },
-        "Ace Trainer Cinnabar": {
+        "Ace Trainer Cinnebar": {
             "level": 83,
             "ivs": {
                 "hp": 31,
@@ -16533,7 +16533,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Celadon": {
-            "level": 84,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -16784,7 +16784,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Vermillion": {
-            "level": 83,
+            "level": 84,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -17286,7 +17286,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Viridian": {
-            "level": 85,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -17458,7 +17458,7 @@ var SETDEX_ADV = {
                 "Hidden Power Water"
             ]
         },
-        "Ace Trainer Cinnabar": {
+        "Ace Trainer Cinnebar": {
             "level": 85,
             "ivs": {
                 "hp": 31,
@@ -18592,7 +18592,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Fuschia": {
-            "level": 85,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -18885,7 +18885,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Pewter": {
-            "level": 84,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -19425,7 +19425,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Celadon": {
-            "level": 84,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -20271,7 +20271,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Cerulean": {
-            "level": 84,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -21484,7 +21484,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Fuschia": {
-            "level": 85,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -21770,8 +21770,8 @@ var SETDEX_ADV = {
                 "Poison Fang"
             ]
         },
-        "Ace Trainer Cinnabar": {
-            "level": 85,
+        "Ace Trainer Cinnebar": {
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -22115,7 +22115,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Saffron": {
-            "level": 85,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -22402,7 +22402,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Saffron": {
-            "level": 85,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -23075,7 +23075,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Pewter": {
-            "level": 84,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -24382,8 +24382,8 @@ var SETDEX_ADV = {
                 "Earthquake"
             ]
         },
-        "Ace Trainer Cinnabar": {
-            "level": 85,
+        "Ace Trainer Cinnebar": {
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -25391,7 +25391,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Cerulean": {
-            "level": 84,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -26844,7 +26844,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Viridian": {
-            "level": 85,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -27814,7 +27814,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Cerulean": {
-            "level": 84,
+            "level": 83,
             "ivs": {
                 "hp": 31,
                 "at": 31,
