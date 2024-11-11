@@ -13727,7 +13727,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Admin Archer": {
-            "level": 46,
+            "level": 43,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -16670,7 +16670,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Admin Archer": {
-            "level": 46,
+            "level": 45,
             "ivs": {
                 "hp": 31,
                 "at": 31,
