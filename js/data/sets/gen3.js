@@ -8883,7 +8883,7 @@ var SETDEX_ADV = {
             "item": "Lum Berry",
             "nature": "Hardy",
             "moves": [
-                "Explosion",
+                "Self-Destruct",
                 "Gunk Shot",
                 "Flamethrower",
                 "Hidden Power Grass"
