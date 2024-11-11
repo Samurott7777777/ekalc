@@ -736,7 +736,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 3": {
-            "level": 45,
+            "level": 44,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -748,10 +748,10 @@ var SETDEX_ADV = {
             "item": "Quick Claw",
             "nature": "Impish",
             "moves": [
-                "Explosion",
+                "Self-Destruct",
                 "Fire Blast",
                 "Psychic",
-                "Ancientpower"
+                "Rock Slide"
             ]
         },
         "Crush Girl Jocelyn": {
@@ -19977,7 +19977,7 @@ var SETDEX_ADV = {
             "item": "Lum Berry",
             "nature": "Sassy",
             "moves": [
-                "Ancientpower ",
+                "Ancient Power ",
                 "X-Scissor",
                 "Earth Power",
                 "Submission"
@@ -20157,7 +20157,7 @@ var SETDEX_ADV = {
     },
     "Kingdra": {
         "Grunt 3": {
-            "level": 45,
+            "level": 41,
             "ivs": {
                 "hp": 31,
                 "at": 31,
