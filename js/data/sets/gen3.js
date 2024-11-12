@@ -4841,7 +4841,7 @@ var SETDEX_ADV = {
             ]
         },
         "Pokemon Tower Rival": {
-            "level": 50,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -10954,7 +10954,7 @@ var SETDEX_ADV = {
             ]
         },
         "Pokemon Tower Rival": {
-            "level": 51,
+            "level": 49,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -21638,7 +21638,7 @@ var SETDEX_ADV = {
             ]
         },
         "Pokemon Tower Rival": {
-            "level": 50,
+            "level": 49,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -21944,7 +21944,7 @@ var SETDEX_ADV = {
     },
     "Alakazam": {
         "Pokemon Tower Rival": {
-            "level": 49,
+            "level": 45,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -22307,7 +22307,7 @@ var SETDEX_ADV = {
     },
     "Metagross": {
         "Pokemon Tower Rival": {
-            "level": 49,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
