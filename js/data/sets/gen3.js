@@ -13548,7 +13548,7 @@ var SETDEX_ADV = {
                 "Waterfall",
                 "Rock Slide",
                 "X-Scissor",
-                "Brick Break"
+                "Rock Tomb"
             ]
         },
         "Grunt 8": {
