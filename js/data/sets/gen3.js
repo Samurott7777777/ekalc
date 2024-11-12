@@ -15987,8 +15987,8 @@ var SETDEX_ADV = {
             "nature": "Quiet",
             "moves": [
                 "Confuse Ray",
-                "Surf",
-                "Psychic",
+                "Water Pulse",
+                "Extrasensory",
                 "Hidden Power Electric"
             ]
         },
