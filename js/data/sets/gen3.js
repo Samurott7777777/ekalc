@@ -5802,7 +5802,7 @@ var SETDEX_ADV = {
                 "Facade",
                 "Quick Attack"
             ]
-        },
+        }
     },
     "Lickitung": {
         "Youngster Timmy": {
