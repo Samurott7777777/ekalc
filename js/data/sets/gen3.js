@@ -20961,7 +20961,7 @@ var SETDEX_ADV = {
                 "Facade",
                 "Hidden Power Rock"
             ]
-        }
+        },
         "Grunt 6": {
             "level": 47,
             "ivs": {
