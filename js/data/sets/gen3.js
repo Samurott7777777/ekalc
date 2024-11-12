@@ -11051,7 +11051,7 @@ var SETDEX_ADV = {
             ]
         },
         "Channeler Karina": {
-            "level": 53,
+            "level": 51,
             "ivs": {
                 "hp": 31,
                 "at": 31,
