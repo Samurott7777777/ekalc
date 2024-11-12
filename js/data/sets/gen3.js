@@ -23364,7 +23364,7 @@ var SETDEX_ADV = {
     },
     "Sableye": {
         "Channeler Emilia": {
-            "level": 45,
+            "level": 43,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -23383,7 +23383,7 @@ var SETDEX_ADV = {
             ]
         },
         "Channeler Amanda": {
-            "level": 62,
+            "level": 60,
             "ivs": {
                 "hp": 31,
                 "at": 31,
