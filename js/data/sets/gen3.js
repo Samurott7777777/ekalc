@@ -5803,25 +5803,6 @@ var SETDEX_ADV = {
                 "Quick Attack"
             ]
         },
-        "Campus Chris": {
-            "level": 35,
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sa": 31,
-                "sd": 31,
-                "sp": 31
-            },
-            "item": "Sitrus Berry",
-            "nature": "Rash",
-            "moves": [
-                "Drill Peck",
-                "Drill Run",
-                "Facade",
-                "Hidden Power Rock"
-            ]
-        }
     },
     "Lickitung": {
         "Youngster Timmy": {
@@ -20962,6 +20943,25 @@ var SETDEX_ADV = {
         }
     },
     "Dodrio": {
+        "Campus Chris": {
+            "level": 35,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Sitrus Berry",
+            "nature": "Rash",
+            "moves": [
+                "Drill Peck",
+                "Drill Run",
+                "Facade",
+                "Hidden Power Rock"
+            ]
+        }
         "Grunt 6": {
             "level": 47,
             "ivs": {
