@@ -1795,7 +1795,7 @@ var SETDEX_ADV = {
             ]
         },
         "Birdkeeper Sebastian": {
-            "level": 64,
+            "level": 55,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -2252,7 +2252,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocker Luca": {
-            "level": 48,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -3503,7 +3503,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Jared*": {
-            "level": 52,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -3720,7 +3720,7 @@ var SETDEX_ADV = {
             ]
         },
         "Bird Keeper Perry": {
-            "level": 52,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -4860,7 +4860,7 @@ var SETDEX_ADV = {
             ]
         },
         "Beauty Lola": {
-            "level": 50,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -5743,7 +5743,7 @@ var SETDEX_ADV = {
             ]
         },
         "Beauty Lola": {
-            "level": 54,
+            "level": 50,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -6059,7 +6059,7 @@ var SETDEX_ADV = {
             ]
         },
         "Camper Justin": {
-            "level": 51,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -6078,7 +6078,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Jared*": {
-            "level": 51,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -7904,7 +7904,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Jared*": {
-            "level": 51,
+            "level": 49,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -8464,7 +8464,7 @@ var SETDEX_ADV = {
             ]
         },
         "Bird Keeper Perry": {
-            "level": 51,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -8928,7 +8928,7 @@ var SETDEX_ADV = {
             ]
         },
         "Gym Leader Koga": {
-            "level": 55,
+            "level": 56,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -9367,7 +9367,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocker Luca": {
-            "level": 49,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -10066,7 +10066,7 @@ var SETDEX_ADV = {
             ]
         },
         "Fisherman Andrew": {
-            "level": 50,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -10222,7 +10222,7 @@ var SETDEX_ADV = {
             ]
         },
         "Birdkeeper Sebastian": {
-            "level": 51,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -10321,7 +10321,7 @@ var SETDEX_ADV = {
             ]
         },
         "Fisherman Andrew": {
-            "level": 49,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -10494,7 +10494,7 @@ var SETDEX_ADV = {
             ]
         },
         "Beauty Lola": {
-            "level": 50,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -10954,7 +10954,7 @@ var SETDEX_ADV = {
             ]
         },
         "Birdkeeper Sebastian": {
-            "level": 50,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -10973,7 +10973,7 @@ var SETDEX_ADV = {
             ]
         },
         "Bird Keeper Perry": {
-            "level": 50,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -11635,7 +11635,7 @@ var SETDEX_ADV = {
             ]
         },
         "Gym Leader Koga": {
-            "level": 55,
+            "level": 56,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -11751,7 +11751,7 @@ var SETDEX_ADV = {
             ]
         },
         "Fisherman Ned": {
-            "level": 49,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -11945,7 +11945,7 @@ var SETDEX_ADV = {
             ]
         },
         "Birdkeeper Sebastian": {
-            "level": 51,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -12312,7 +12312,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Jared*": {
-            "level": 51,
+            "level": 49,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -14858,7 +14858,7 @@ var SETDEX_ADV = {
             ]
         },
         "Gym Leader Koga": {
-            "level": 55,
+            "level": 56,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -14873,7 +14873,7 @@ var SETDEX_ADV = {
                 "Sky Attack",
                 "Heat Wave",
                 "Giga Drain",
-                "Gunk Shot"
+                "Sludge Bomb"
             ]
         },
         "Bird Keeper Robert": {
@@ -15896,7 +15896,7 @@ var SETDEX_ADV = {
             ]
         },
         "Picknicker Susie": {
-            "level": 52,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -17210,7 +17210,7 @@ var SETDEX_ADV = {
             ]
         },
         "Beauty Lola": {
-            "level": 49,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -20157,7 +20157,7 @@ var SETDEX_ADV = {
             ]
         },
         "Fisherman Ned": {
-            "level": 50,
+            "level": 45,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -20676,7 +20676,7 @@ var SETDEX_ADV = {
             ]
         },
         "Picknicker Susie": {
-            "level": 50,
+            "level": 46,
             "ivs": {
                 "hp": 0,
                 "at": 0,
@@ -21332,7 +21332,7 @@ var SETDEX_ADV = {
             ]
         },
         "Gym Leader Koga": {
-            "level": 55,
+            "level": 56,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -22767,7 +22767,7 @@ var SETDEX_ADV = {
             ]
         },
         "Camper Justin": {
-            "level": 50,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -22786,7 +22786,7 @@ var SETDEX_ADV = {
             ]
         },
         "Bird Keeper Perry": {
-            "level": 50,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -24948,7 +24948,7 @@ var SETDEX_ADV = {
     },
     "Porygon2": {
         "Rocker Luca": {
-            "level": 49,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -25102,7 +25102,7 @@ var SETDEX_ADV = {
     },
     "Exploud": {
         "Camper Justin": {
-            "level": 50,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -25161,7 +25161,7 @@ var SETDEX_ADV = {
     },
     "Ampharos": {
         "Camper Justin": {
-            "level": 50,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -25315,7 +25315,7 @@ var SETDEX_ADV = {
     },
     "Swampert": {
         "Fisherman Andrew": {
-            "level": 49,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -25469,7 +25469,7 @@ var SETDEX_ADV = {
     },
     "Vaporeon": {
         "Fisherman Andrew": {
-            "level": 50,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -25585,7 +25585,7 @@ var SETDEX_ADV = {
     },
     "Grumpig": {
         "Picknicker Susie": {
-            "level": 49,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -25625,7 +25625,7 @@ var SETDEX_ADV = {
     },
     "Miltank": {
         "Picknicker Susie": {
-            "level": 49,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -25798,7 +25798,7 @@ var SETDEX_ADV = {
     },
     "Gligar": {
         "Bird Keeper Perry": {
-            "level": 51,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
