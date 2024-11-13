@@ -1798,7 +1798,7 @@ var ADV_PATCH = {
     },
     Bagon: {
         types: ['Dragon'],
-        bs: { hp: 45, at: 75, df: 60, sa: 40, sd: 30, sp: 50 },
+        bs: { hp: 45, at: 75, df: 60, sa: 50, sd: 30, sp: 50 },
         weightkg: 42.1,
         nfe: true,
         abilities: { 0: 'Rock Head' }
