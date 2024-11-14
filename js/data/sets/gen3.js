@@ -809,7 +809,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Magnitude",
                 "Explosion",
-                "-",
+                "Self-Destruct",
                 "-"
             ]
         },
@@ -829,7 +829,7 @@ var SETDEX_ADV = {
                 "Double-Edge",
                 "Rock Slide",
                 "Earthquake",
-                "Selfdestruct"
+                "Self-Destruct"
             ]
         },
         "Hiker Jeremy": {
@@ -3197,7 +3197,7 @@ var SETDEX_ADV = {
             "item": "Berry Juice",
             "nature": "Adamant",
             "moves": [
-                Pounce,
+                "Pounce",
                 "Ancientpower",
                 "Mud Shot",
                 "Silver Wind"
