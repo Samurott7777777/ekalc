@@ -1787,7 +1787,7 @@ var ADV_PATCH = {
         bs: { hp: 50, at: 70, df: 100, sa: 40, sd: 40, sp: 30 },
         weightkg: 60,
         nfe: true,
-        abilities: { 0: 'Sturdy' }
+        abilities: { 0: 'Rock Head' }
     },
     Azurill: {
         types: ['Normal'],
@@ -1855,13 +1855,13 @@ var ADV_PATCH = {
         bs: { hp: 50, at: 85, df: 40, sa: 85, sd: 40, sp: 35 },
         weightkg: 51.3,
         nfe: true,
-        abilities: { 0: 'Sand Veil' }
+        abilities: { 0: 'Rough Skin' }
     },
     Cacturne: {
         types: ['Grass', 'Dark'],
         bs: { hp: 70, at: 115, df: 60, sa: 115, sd: 60, sp: 55 },
         weightkg: 77.4,
-        abilities: { 0: 'Sand Veil' }
+        abilities: { 0: 'Rough Skin' }
     },
     Camerupt: {
         types: ['Fire', 'Ground'],
@@ -2044,7 +2044,7 @@ var ADV_PATCH = {
         types: ['Psychic'],
         bs: { hp: 68, at: 65, df: 65, sa: 125, sd: 115, sp: 85 },
         weightkg: 48.4,
-        abilities: { 0: 'Synchronize' }
+        abilities: { 0: 'Trace' }
     },
     Glalie: {
         types: ['Ice'],
@@ -2121,7 +2121,7 @@ var ADV_PATCH = {
         bs: { hp: 38, at: 35, df: 35, sa: 65, sd: 55, sp: 50 },
         weightkg: 20.2,
         nfe: true,
-        abilities: { 0: 'Synchronize' }
+        abilities: { 0: 'Trace' }
     },
     Kyogre: {
         types: ['Water'],
@@ -2135,7 +2135,7 @@ var ADV_PATCH = {
         bs: { hp: 60, at: 90, df: 140, sa: 50, sd: 50, sp: 40 },
         weightkg: 120,
         nfe: true,
-        abilities: { 0: 'Sturdy' }
+        abilities: { 0: 'Rock Head' }
     },
     Latias: {
         types: ['Dragon', 'Psychic'],
@@ -2213,7 +2213,7 @@ var ADV_PATCH = {
         types: ['Electric'],
         bs: { hp: 70, at: 75, df: 60, sa: 105, sd: 60, sp: 105 },
         weightkg: 40.2,
-        abilities: { 0: 'Static' }
+        abilities: { 0: 'Intimidate' }
     },
     Marshtomp: {
         types: ['Water', 'Ground'],
@@ -2232,7 +2232,7 @@ var ADV_PATCH = {
         types: ['Steel'],
         bs: { hp: 50, at: 85, df: 85, sa: 55, sd: 55, sp: 50 },
         weightkg: 11.5,
-        abilities: { 0: 'Hyper Cutter' }
+        abilities: { 0: 'Intimidate' }
     },
     Medicham: {
         types: ['Fighting', 'Psychic'],
@@ -2304,7 +2304,7 @@ var ADV_PATCH = {
         types: ['Rock'],
         bs: { hp: 30, at: 45, df: 135, sa: 45, sd: 90, sp: 30 },
         weightkg: 97,
-        abilities: { 0: 'Sturdy' }
+        abilities: { 0: 'Battle Armor' }
     },
     Numel: {
         types: ['Fire', 'Ground'],
@@ -2344,7 +2344,7 @@ var ADV_PATCH = {
         bs: { hp: 28, at: 25, df: 25, sa: 45, sd: 35, sp: 40 },
         weightkg: 6.6,
         nfe: true,
-        abilities: { 0: 'Synchronize' }
+        abilities: { 0: 'Trace' }
     },
     Rayquaza: {
         types: ['Dragon', 'Flying'],
@@ -2378,7 +2378,7 @@ var ADV_PATCH = {
         types: ['Water', 'Rock'],
         bs: { hp: 100, at: 90, df: 130, sa: 45, sd: 65, sp: 55 },
         weightkg: 23.4,
-        abilities: { 0: 'Swift Swim' }
+        abilities: { 0: 'Rock Head' }
     },
     Roselia: {
         types: ['Grass', 'Poison'],
@@ -2575,14 +2575,14 @@ var ADV_PATCH = {
         types: ['Fire'],
         bs: { hp: 70, at: 85, df: 140, sa: 85, sd: 70, sp: 20 },
         weightkg: 80.4,
-        abilities: { 0: 'White Smoke' }
+        abilities: { 0: 'Shell Armor' }
     },
     Trapinch: {
         types: ['Ground'],
         bs: { hp: 45, at: 100, df: 45, sa: 45, sd: 45, sp: 10 },
         weightkg: 15,
         nfe: true,
-        abilities: { 0: 'Hyper Cutter' }
+        abilities: { 0: 'Arena Trap' }
     },
     Treecko: {
         types: ['Grass'],
@@ -2674,14 +2674,14 @@ var ADV_PATCH = {
         types: ['Normal'],
         bs: { hp: 73, at: 115, df: 60, sa: 60, sd: 60, sp: 90 },
         weightkg: 40.3,
-        abilities: { 0: 'Immunity' }
+        abilities: { 0: 'Guts' }
     },
     Zigzagoon: {
         types: ['Normal'],
         bs: { hp: 38, at: 30, df: 41, sa: 30, sd: 41, sp: 60 },
         weightkg: 17.5,
         nfe: true,
-        abilities: { 0: 'Pickup' }
+        abilities: { 0: 'Run Away' }
     }
 };
 var ADV = (0, util_1.extend)(true, {}, GSC, ADV_PATCH);
