@@ -3197,7 +3197,7 @@ var SETDEX_ADV = {
             "item": "Berry Juice",
             "nature": "Adamant",
             "moves": [
-                "X-Scissor",
+                Pounce,
                 "Ancientpower",
                 "Mud Shot",
                 "Silver Wind"
