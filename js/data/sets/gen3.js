@@ -4567,7 +4567,7 @@ var SETDEX_ADV = {
             "nature": "Mild",
             "moves": [
                 "Hidden Power Water",
-                "Razor Wind",
+                "Cut",
                 "Aurora Beam",
                 "Dragon Dance"
             ]
