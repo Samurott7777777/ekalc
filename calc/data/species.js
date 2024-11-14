@@ -968,7 +968,7 @@ var GSC_PATCH = {
     Wigglytuff: { bs: { sa: 75, sd: 50 } },
     Zapdos: { bs: { sa: 125, sd: 90 }, gender: 'N' },
     Zubat: { bs: { sa: 30, sd: 40 } },
-    Aipom: { types: ['Normal'], bs: { hp: 55, at: 70, df: 55, sa: 40, sd: 55, sp: 85 }, weightkg: 11.5 },
+    Aipom: { types: ['Normal'], bs: { hp: 55, at: 70, df: 55, sa: 40, sd: 55, sp: 105 }, weightkg: 11.5 },
     Ampharos: {
         types: ['Electric'],
         bs: { hp: 100, at: 75, df: 75, sa: 115, sd: 90, sp: 55 },
