@@ -10047,7 +10047,7 @@ var SETDEX_ADV = {
             ]
         },
         "Young Couple Gia And Jes": {
-            "level": 43,
+            "level": 45,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -13727,7 +13727,7 @@ var SETDEX_ADV = {
             ]
         },
         "Young Couple Gia And Jes": {
-            "level": 43,
+            "level": 45,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -20982,7 +20982,7 @@ var SETDEX_ADV = {
             ]
         },
         "Young Couple Gia And Jes": {
-            "level": 43,
+            "level": 45,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -24695,7 +24695,7 @@ var SETDEX_ADV = {
     },
     "Nidoking": {
         "Young Couple Gia And Jes": {
-            "level": 43,
+            "level": 45,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -24811,7 +24811,7 @@ var SETDEX_ADV = {
     },
     "Nidoqueen": {
         "Young Couple Gia And Jes": {
-            "level": 43,
+            "level": 45,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -24851,7 +24851,7 @@ var SETDEX_ADV = {
     },
     "Medicham": {
         "Young Couple Gia And Jes": {
-            "level": 43,
+            "level": 45,
             "ivs": {
                 "hp": 31,
                 "at": 31,
