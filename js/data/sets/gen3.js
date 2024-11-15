@@ -5743,7 +5743,7 @@ var SETDEX_ADV = {
             ]
         },
         "Beauty Lola": {
-            "level": 50,
+            "level": 51,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -10066,7 +10066,7 @@ var SETDEX_ADV = {
             ]
         },
         "Fisherman Andrew": {
-            "level": 46,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -10321,7 +10321,7 @@ var SETDEX_ADV = {
             ]
         },
         "Fisherman Andrew": {
-            "level": 46,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -10494,7 +10494,7 @@ var SETDEX_ADV = {
             ]
         },
         "Beauty Lola": {
-            "level": 46,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -25102,7 +25102,7 @@ var SETDEX_ADV = {
     },
     "Exploud": {
         "Camper Justin": {
-            "level": 47,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -25161,7 +25161,7 @@ var SETDEX_ADV = {
     },
     "Ampharos": {
         "Camper Justin": {
-            "level": 47,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -25315,7 +25315,7 @@ var SETDEX_ADV = {
     },
     "Swampert": {
         "Fisherman Andrew": {
-            "level": 46,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -25469,7 +25469,7 @@ var SETDEX_ADV = {
     },
     "Vaporeon": {
         "Fisherman Andrew": {
-            "level": 46,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
