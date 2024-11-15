@@ -892,7 +892,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Alex": {
-            "level": 48,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -1599,7 +1599,7 @@ var SETDEX_ADV = {
             ]
         },
         "Camper Benny": {
-            "level": 51,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -1613,7 +1613,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Submission",
                 "Return",
-                "Steel Wing",
+                "Quick Attack",
                 "Aerial Ace"
             ]
         },
@@ -2271,7 +2271,7 @@ var SETDEX_ADV = {
             ]
         },
         "Camper Benny": {
-            "level": 50,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -2943,7 +2943,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Gerald": {
-            "level": 57,
+            "level": 50,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -7174,7 +7174,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Ernest": {
-            "level": 48,
+            "level": 44,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -8890,7 +8890,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Ernest": {
-            "level": 49,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -9950,7 +9950,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Gerald": {
-            "level": 52,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -11169,7 +11169,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Alex": {
-            "level": 50,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -11770,7 +11770,7 @@ var SETDEX_ADV = {
             ]
         },
         "Crush Kin Ron And Mya": {
-            "level": 50,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -12755,7 +12755,7 @@ var SETDEX_ADV = {
             ]
         },
         "Camper Benny": {
-            "level": 50,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -17999,7 +17999,7 @@ var SETDEX_ADV = {
             ]
         },
         "Picknicker Celia": {
-            "level": 50,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -19117,7 +19117,7 @@ var SETDEX_ADV = {
             ]
         },
         "Picknicker Kindra": {
-            "level": 50,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -19965,7 +19965,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Ernest": {
-            "level": 50,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -21157,7 +21157,7 @@ var SETDEX_ADV = {
             ]
         },
         "Crush Kin Ron And Mya": {
-            "level": 50,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -21294,7 +21294,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Alex": {
-            "level": 49,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -21657,7 +21657,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Alex": {
-            "level": 50,
+            "level": 44,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -23862,7 +23862,7 @@ var SETDEX_ADV = {
             ]
         },
         "Crush Kin Ron And Mya": {
-            "level": 50,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -23959,7 +23959,7 @@ var SETDEX_ADV = {
             ]
         },
         "Camper Benny": {
-            "level": 48,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -24714,7 +24714,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Gerald": {
-            "level": 50,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -25644,7 +25644,7 @@ var SETDEX_ADV = {
             ]
         },
         "Picknicker Kindra": {
-            "level": 49,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -26171,7 +26171,7 @@ var SETDEX_ADV = {
     },
     "Absol": {
         "Biker Gerald": {
-            "level": 52,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -26325,7 +26325,7 @@ var SETDEX_ADV = {
             ]
         },
         "Crush Kin Ron And Mya": {
-            "level": 50,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -26536,7 +26536,7 @@ var SETDEX_ADV = {
     },
     "Hitmonchan": {
         "Crush Kin Ron And Mya": {
-            "level": 50,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -26768,7 +26768,7 @@ var SETDEX_ADV = {
     },
     "Dragonite": {
         "Picknicker Kindra": {
-            "level": 49,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
