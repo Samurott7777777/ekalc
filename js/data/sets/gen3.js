@@ -1008,7 +1008,7 @@ var SETDEX_ADV = {
                 "Earthquake",
                 "Rock Slide",
                 "Hidden Power Ghost",
-                "Selfdestruct"
+                "Self-Destruct"
             ]
         },
         "Mt Moon Grunt 3": {
@@ -1946,7 +1946,7 @@ var SETDEX_ADV = {
             "item": "Salac Berry",
             "nature": "Relaxed",
             "moves": [
-                "Selfdestruct",
+                "Self-Destruct",
                 "Flash Cannon",
                 "Signal Beam",
                 "Endure"
@@ -10043,7 +10043,7 @@ var SETDEX_ADV = {
                 "Ice Beam",
                 "Surf",
                 "Hidden Power Grass",
-                "Selfdestruct"
+                "Self-Destruct"
             ]
         },
         "Young Couple Gia And Jes": {
@@ -10062,7 +10062,7 @@ var SETDEX_ADV = {
                 "Ice Beam",
                 "Surf",
                 "Protect",
-                "Selfdestruct"
+                "Self-Destruct"
             ]
         },
         "Fisherman Andrew": {
@@ -10080,7 +10080,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Ice Beam",
                 "Surf",
-                "Selfdestruct",
+                "Self-Destruct",
                 "Tri Attack"
             ]
         },
@@ -10100,7 +10100,7 @@ var SETDEX_ADV = {
                 "Muddy Water",
                 "Ice Beam",
                 "Hidden Power Grass",
-                "Selfdestruct"
+                "Self-Destruct"
             ]
         },
         "Grunt 12": {
@@ -12171,7 +12171,7 @@ var SETDEX_ADV = {
                 "Flash Cannon",
                 "Earthquake",
                 "Hidden Power Ghost",
-                "Selfdestruct"
+                "Self-Destruct"
             ]
         },
         "Ace Trainer Fuschia": {
@@ -12651,7 +12651,7 @@ var SETDEX_ADV = {
             "item": "Lum Berry",
             "nature": "Gentle",
             "moves": [
-                "Selfdestruct",
+                "Self-Destruct",
                 "Thunderbolt",
                 "Hidden Power Ice",
                 "Flash Cannon"
@@ -12946,7 +12946,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Calm Mind",
                 "Giga Drain",
-                "Hidden Power Electric",
+                "Sacred Fire",
                 "Synthesis"
             ]
         },
@@ -13527,7 +13527,7 @@ var SETDEX_ADV = {
                 "Dragon Claw",
                 "Sunny Day",
                 "Flamethrower",
-                "Selfdestruct"
+                "Self-Destruct"
             ]
         }
     },
@@ -13739,7 +13739,7 @@ var SETDEX_ADV = {
             "item": "Lum Berry",
             "nature": "Steelix",
             "moves": [
-                "Selfdestruct",
+                "Self-Destruct",
                 "Earth Power",
                 "Flash Cannon",
                 "Ancientpower"
@@ -16915,7 +16915,7 @@ var SETDEX_ADV = {
                 "Ice Beam",
                 "Earthquake",
                 "Hidden Power Electric",
-                "Selfdestruct"
+                "Self-Destruct"
             ]
         },
         "Scientist Ed": {
@@ -17126,7 +17126,7 @@ var SETDEX_ADV = {
                 "Gunk Shot",
                 "Giga Drain",
                 "Flamethrower",
-                "Selfdestruct"
+                "Self-Destruct"
             ]
         },
         "Biker Virgil": {
@@ -21309,7 +21309,7 @@ var SETDEX_ADV = {
                 "Gunk Shot",
                 "Shadow Ball",
                 "Submission",
-                "Selfdestruct"
+                "Self-Destruct"
             ]
         },
         "Juggler Nate": {
@@ -23971,7 +23971,7 @@ var SETDEX_ADV = {
             "item": "Soft Sand",
             "nature": "Gentle",
             "moves": [
-                "Selfdestruct",
+                "Self-Destruct",
                 "Ancientpower",
                 "Earth Power",
                 "Extrasensory"
@@ -27557,7 +27557,7 @@ var SETDEX_ADV = {
                 "Pursuit",
                 "Earthquake",
                 "Superpower",
-                "Selfdestruct"
+                "Self-Destruct"
             ]
         },
         "Ace Trainer Celadon": {
@@ -27650,7 +27650,7 @@ var SETDEX_ADV = {
             "nature": "Quirky",
             "moves": [
                 "Body Slam",
-                "Selfdestruct",
+                "Self-Destruct",
                 "Shadow Ball",
                 "Earthquake"
             ]
@@ -27671,7 +27671,7 @@ var SETDEX_ADV = {
                 "Body Slam",
                 "Fire Blast",
                 "Earthquake",
-                "Selfdestruct"
+                "Self-Destruct"
             ]
         },
         "Lass Whitney": {
@@ -27706,7 +27706,7 @@ var SETDEX_ADV = {
             "item": "Choice Band",
             "nature": "Gentle",
             "moves": [
-                "Selfdestruct",
+                "Self-Destruct",
                 "-",
                 "-",
                 "-"
@@ -27867,7 +27867,7 @@ var SETDEX_ADV = {
                 "Water Spout",
                 "Hyper Voice",
                 "Earthquake",
-                "Selfdestruct"
+                "Self-Destruct"
             ]
         },
         "Cool Trainer Umi": {
@@ -27884,7 +27884,7 @@ var SETDEX_ADV = {
             "nature": "Gentle",
             "moves": [
                 "Water Spout",
-                "Selfdestruct",
+                "Self-Destruct",
                 "Hyper Voice",
                 "Blizzard"
             ]
@@ -27965,7 +27965,7 @@ var SETDEX_ADV = {
             "item": "Quick Claw",
             "nature": "Bold",
             "moves": [
-                "Selfdestruct",
+                "Self-Destruct",
                 "Ancientpower",
                 "Overheat",
                 "Hidden Power Grass"
