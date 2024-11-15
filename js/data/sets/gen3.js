@@ -8211,7 +8211,7 @@ var SETDEX_ADV = {
             ]
         },
         "Tamer Edgar": {
-            "level": 53,
+            "level": 51,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -8329,7 +8329,7 @@ var SETDEX_ADV = {
             ]
         },
         "Juggler Kayden": {
-            "level": 52,
+            "level": 51,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -8909,7 +8909,7 @@ var SETDEX_ADV = {
             ]
         },
         "Juggler Nate": {
-            "level": 52,
+            "level": 49,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -10513,7 +10513,7 @@ var SETDEX_ADV = {
             ]
         },
         "Tamer Edgar": {
-            "level": 53,
+            "level": 54,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -13300,7 +13300,7 @@ var SETDEX_ADV = {
             ]
         },
         "Tamer Edgar": {
-            "level": 53,
+            "level": 54,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -20151,7 +20151,7 @@ var SETDEX_ADV = {
             "nature": "Adamant",
             "moves": [
                 "Surf",
-                "Dragonbreath",
+                "Dragon Breath",
                 "Ice Beam",
                 "Hidden Power Electric"
             ]
@@ -24113,7 +24113,7 @@ var SETDEX_ADV = {
             ]
         },
         "Tamer Edgar": {
-            "level": 53,
+            "level": 54,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -24128,7 +24128,7 @@ var SETDEX_ADV = {
                 "Rock Slide",
                 "Submission",
                 "Double-Edge",
-                "Shadow Ball"
+                "Earth Power"
             ]
         },
         "Grunt 9": {
