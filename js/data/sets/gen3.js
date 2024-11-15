@@ -2267,7 +2267,7 @@ var SETDEX_ADV = {
                 "Howl",
                 "Thunderbolt",
                 "Flamethrower",
-                "Hidden Power"
+                "Hidden Power Ice"
             ]
         },
         "Camper Benny": {
@@ -3159,7 +3159,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Sludge",
                 "Flamethrower",
-                "Selfdestruct",
+                "Self-Destruct",
                 "Crunch"
             ]
         },
@@ -4171,7 +4171,7 @@ var SETDEX_ADV = {
             "nature": "Quirky",
             "moves": [
                 "Water Spout",
-                "Selfdestruct",
+                "Self-Destruct",
                 "Ice Beam",
                 "Hyper Voice"
             ]
@@ -6168,7 +6168,7 @@ var SETDEX_ADV = {
             "item": "Lum Berry",
             "nature": "Gentle",
             "moves": [
-                "Selfdestruct",
+                "Self-Destruct",
                 "Hidden Power Ice",
                 "Return",
                 "Thunderbolt"
@@ -8305,7 +8305,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Sludge",
                 "Surf",
-                "Selfdestruct",
+                "Self-Destruct",
                 "Icy Wind"
             ]
         },
@@ -8673,7 +8673,7 @@ var SETDEX_ADV = {
                 "Flash Cannon",
                 "Psychic",
                 "Earthquake",
-                "Selfdestruct"
+                "Self-Destruct"
             ]
         }
     },
@@ -8848,7 +8848,7 @@ var SETDEX_ADV = {
                 "Sludge",
                 "Flamethrower",
                 "Thunderbolt",
-                "Selfdestruct"
+                "Self-Destruct"
             ]
         },
         "Grunt 5": {
