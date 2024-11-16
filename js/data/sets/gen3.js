@@ -387,7 +387,7 @@ var SETDEX_ADV = {
             ]
         },
         "Bird Keeper Marlon": {
-            "level": 51,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -4514,7 +4514,7 @@ var SETDEX_ADV = {
             ]
         },
         "Picknicker Valerie": {
-            "level": 50,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -4630,7 +4630,7 @@ var SETDEX_ADV = {
             ]
         },
         "Bird Keeper Marlon": {
-            "level": 51,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -5644,7 +5644,7 @@ var SETDEX_ADV = {
             ]
         },
         "Picknicker Valerie": {
-            "level": 53,
+            "level": 50,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -6921,7 +6921,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Isaac": {
-            "level": 50,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -7056,7 +7056,7 @@ var SETDEX_ADV = {
             ]
         },
         "Picknicker Valerie": {
-            "level": 50,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -9119,7 +9119,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Isaac": {
-            "level": 50,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -13434,7 +13434,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Isaac": {
-            "level": 50,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -20695,7 +20695,7 @@ var SETDEX_ADV = {
             ]
         },
         "Bird Keeper Marlon": {
-            "level": 50,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -21001,7 +21001,7 @@ var SETDEX_ADV = {
             ]
         },
         "Bird Keeper Marlon": {
-            "level": 49,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -21138,7 +21138,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Isaac": {
-            "level": 50,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -25180,7 +25180,7 @@ var SETDEX_ADV = {
             ]
         },
         "Picknicker Valerie": {
-            "level": 50,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -25488,7 +25488,7 @@ var SETDEX_ADV = {
             ]
         },
         "Picknicker Valerie": {
-            "level": 50,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -25838,7 +25838,7 @@ var SETDEX_ADV = {
     },
     "Castform": {
         "Bird Keeper Marlon": {
-            "level": 50,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -25954,7 +25954,7 @@ var SETDEX_ADV = {
     },
     "Shiftry": {
         "Biker Isaac": {
-            "level": 50,
+            "level": 45,
             "ivs": {
                 "hp": 31,
                 "at": 31,
