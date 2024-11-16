@@ -6078,7 +6078,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Jared*": {
-            "level": 48,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -7056,7 +7056,7 @@ var SETDEX_ADV = {
             ]
         },
         "Picknicker Valerie": {
-            "level": 48,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -7904,7 +7904,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Jared*": {
-            "level": 49,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -25488,7 +25488,7 @@ var SETDEX_ADV = {
             ]
         },
         "Picknicker Valerie": {
-            "level": 48,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
