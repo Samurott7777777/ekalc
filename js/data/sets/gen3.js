@@ -1341,7 +1341,7 @@ var SETDEX_ADV = {
             ]
         }
     },
-    "Farfetch'D": {
+    "Farfetch'd": {
         "Youngster Ben": {
             "level": 16,
             "ivs": {
