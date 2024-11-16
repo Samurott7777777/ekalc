@@ -2271,7 +2271,7 @@ var SETDEX_ADV = {
             ]
         },
         "Camper Benny": {
-            "level": 48,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -12755,7 +12755,7 @@ var SETDEX_ADV = {
             ]
         },
         "Camper Benny": {
-            "level": 48,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -13281,7 +13281,7 @@ var SETDEX_ADV = {
             ]
         },
         "Camper Benny": {
-            "level": 50,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
