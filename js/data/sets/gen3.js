@@ -1052,7 +1052,7 @@ var SETDEX_ADV = {
             ]
         },
         "Bird Keeper Beck": {
-            "level": 48,
+            "level": 45,
             "ivs": {
                 "hp": 31,
                 "at": 31,
