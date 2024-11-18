@@ -115,7 +115,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 9": {
-            "level": 72,
+            "level": 68,
             "ivs": {
                 "hp": 31,
                 "at": 31,
