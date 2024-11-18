@@ -2703,7 +2703,7 @@ var SETDEX_ADV = {
             ]
         },
         "Picknicker Becky": {
-            "level": 73,
+            "level": 70,
             "ivs": {
                 "hp": 31,
                 "at": 31,
