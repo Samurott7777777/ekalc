@@ -6302,7 +6302,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Leftovers",
+            "item": "Soul Dew",
             "nature": "Careful",
             "moves": [
                 "Transform",
@@ -6461,7 +6461,7 @@ var SETDEX_ADV = {
             "item": "Salac Berry",
             "nature": "Careful",
             "moves": [
-                "Explosion",
+                "Cosmic Power",
                 "Earthquake",
                 "Psychic",
                 "Ancientpower"
