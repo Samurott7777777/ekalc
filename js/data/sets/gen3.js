@@ -2528,7 +2528,7 @@ var SETDEX_ADV = {
             ]
         },
         "Picknicker Alma": {
-            "level": 99,
+            "level": 90,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -20170,7 +20170,7 @@ var SETDEX_ADV = {
             "nature": "Docile",
             "moves": [
                 "Surf",
-                "Dragonbreath",
+                "Dragon Breath",
                 "Double-Edge",
                 "Ice Beam"
             ]
@@ -20188,7 +20188,7 @@ var SETDEX_ADV = {
             "item": "Dragon Fang",
             "nature": "Quiet",
             "moves": [
-                "Dragonbreath",
+                "Dragon Breath",
                 "Surf",
                 "Double-Edge",
                 "Ice Beam"
@@ -20209,7 +20209,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Hydro Pump",
                 "Ice Beam",
-                "Dragonbreath",
+                "Dragon Breath",
                 "Hidden Power Ground"
             ]
         },
@@ -20228,7 +20228,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Surf",
                 "Ice Beam",
-                "Dragonbreath",
+                "Dragon Breath",
                 "Double-Edge"
             ]
         },
@@ -20246,7 +20246,7 @@ var SETDEX_ADV = {
             "nature": "Calm",
             "moves": [
                 "Hydro Pump",
-                "Dragonbreath",
+                "Dragon Breath",
                 "Ice Beam",
                 "Hidden Power Electric"
             ]
@@ -20264,7 +20264,7 @@ var SETDEX_ADV = {
             "item": "Leftovers",
             "nature": "Bashful",
             "moves": [
-                "Dragonbreath",
+                "Dragon Breath",
                 "Octazooka",
                 "Double-Edge",
                 "Ice Beam"
