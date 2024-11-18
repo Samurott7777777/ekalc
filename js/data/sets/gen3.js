@@ -18729,7 +18729,7 @@ var SETDEX_ADV = {
             ]
         },
         "Bird Keeper Robert": {
-            "level": 75,
+            "level": 73,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -27114,7 +27114,7 @@ var SETDEX_ADV = {
     },
     "Pidgey": {
         "Bird Keeper Robert": {
-            "level": 95,
+            "level": 85,
             "ivs": {
                 "hp": 31,
                 "at": 31,
