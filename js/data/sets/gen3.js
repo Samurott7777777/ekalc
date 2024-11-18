@@ -20176,7 +20176,7 @@ var SETDEX_ADV = {
             ]
         },
         "Picknicker Alma": {
-            "level": 64,
+            "level": 62,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -20185,7 +20185,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Dragon Fang",
+            "item": "Lum Berry",
             "nature": "Quiet",
             "moves": [
                 "Dragon Breath",
