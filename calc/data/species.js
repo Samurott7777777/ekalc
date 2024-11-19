@@ -1558,7 +1558,7 @@ var ADV_PATCH = {
     Hypno: { abilities: { 0: 'Insomnia' } },
     Ivysaur: { abilities: { 0: 'Overgrow' } },
     Jigglypuff: { abilities: { 0: 'Cute Charm' } },
-    Jolteon: { abilities: { 0: 'Volt Absorb' } },
+    Jolteon: { abilities: { 0: 'Static' } },
     Jynx: { abilities: { 0: 'Oblivious' } },
     Kabuto: { abilities: { 0: 'Battle Armor' } },
     Kabutops: { abilities: { 0: 'Battle Armor' } },
