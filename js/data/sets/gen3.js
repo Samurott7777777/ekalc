@@ -3522,7 +3522,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 2**": {
-            "level": 67,
+            "level": 65,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -3739,7 +3739,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 3*": {
-            "level": 68,
+            "level": 65,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -5299,7 +5299,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Admin Archer 2": {
-            "level": 66,
+            "level": 65,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -7212,7 +7212,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Admin Proton 2": {
-            "level": 64,
+            "level": 63,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -10241,7 +10241,7 @@ var SETDEX_ADV = {
             ]
         },
         "Scientist Gilbert": {
-            "level": 64,
+            "level": 62,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -12677,7 +12677,7 @@ var SETDEX_ADV = {
             ]
         },
         "Scientist Gilbert": {
-            "level": 65,
+            "level": 63,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -13957,7 +13957,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Admin Archer 2": {
-            "level": 66,
+            "level": 65,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -14723,7 +14723,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Admin Archer 2": {
-            "level": 66,
+            "level": 65,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -16128,7 +16128,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Admin Archer 2": {
-            "level": 66,
+            "level": 65,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -16592,7 +16592,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Boss Giovanni 2": {
-            "level": 70,
+            "level": 69,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -16746,7 +16746,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Boss Giovanni 2": {
-            "level": 67,
+            "level": 66,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -17383,7 +17383,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Boss Giovanni 2": {
-            "level": 67,
+            "level": 66,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -18286,7 +18286,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 10": {
-            "level": 63,
+            "level": 61,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -19155,7 +19155,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Admin Ariana 2": {
-            "level": 67,
+            "level": 65,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -21389,7 +21389,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Admin Ariana 2": {
-            "level": 65,
+            "level": 64,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -21676,7 +21676,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Admin Archer 2": {
-            "level": 68,
+            "level": 67,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -22020,7 +22020,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Admin Archer 2": {
-            "level": 66,
+            "level": 65,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -23613,7 +23613,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Boss Giovanni 2": {
-            "level": 67,
+            "level": 66,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -25140,7 +25140,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 2**": {
-            "level": 64,
+            "level": 62,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -25682,7 +25682,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Admin Ariana 2": {
-            "level": 65,
+            "level": 64,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -26614,7 +26614,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Admin Ariana 2": {
-            "level": 65,
+            "level": 64,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -26787,7 +26787,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Admin Proton 2": {
-            "level": 65,
+            "level": 64,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -27715,7 +27715,7 @@ var SETDEX_ADV = {
     },
     "Jirachi": {
         "Rocket Boss Giovanni 2": {
-            "level": 67,
+            "level": 66,
             "ivs": {
                 "hp": 31,
                 "at": 31,
