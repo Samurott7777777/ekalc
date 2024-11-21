@@ -10028,7 +10028,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 1*": {
-            "level": 47,
+            "level": 45,
             "ivs": {
                 "hp": 31,
                 "at": 31,
