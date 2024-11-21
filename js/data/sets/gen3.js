@@ -19465,7 +19465,7 @@ var SETDEX_ADV = {
     },
     "Hypno": {
         "Grunt 1*": {
-            "level": 42,
+            "level": 40,
             "ivs": {
                 "hp": 31,
                 "at": 31,
