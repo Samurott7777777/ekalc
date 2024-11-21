@@ -1058,7 +1058,7 @@ var GSC_PATCH = {
     },
     Dunsparce: {
         types: ['Normal'],
-        bs: { hp: 100, at: 70, df: 70, sa: 65, sd: 65, sp: 45 },
+        bs: { hp: 100, at: 70, df: 70, sa: 65, sd: 75, sp: 45 },
         weightkg: 14
     },
     Elekid: {
