@@ -548,7 +548,7 @@ var RBY = {
     },
     Parasect: {
         types: ['Bug', 'Grass'],
-        bs: { hp: 70, at: 110, df: 90, sp: 30, sl: 80 },
+        bs: { hp: 70, at: 110, df: 90, sp: 60, sl: 80 },
         weightkg: 29.5
     },
     Persian: { types: ['Normal'], bs: { hp: 65, at: 70, df: 60, sp: 115, sl: 65 }, weightkg: 32 },
