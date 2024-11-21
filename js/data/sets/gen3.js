@@ -552,7 +552,7 @@ var SETDEX_ADV = {
             "item": "Quick Claw",
             "nature": "Timid",
             "moves": [
-                "Megahorn",
+                "X-Scissor",
                 "Superpower",
                 "Earthquake",
                 "Rock Slide"
