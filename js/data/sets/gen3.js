@@ -13262,7 +13262,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 3": {
-            "level": 45,
+            "level": 43,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -19946,7 +19946,7 @@ var SETDEX_ADV = {
     },
     "Armaldo": {
         "Grunt 3": {
-            "level": 45,
+            "level": 43,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -20138,7 +20138,7 @@ var SETDEX_ADV = {
     },
     "Kingdra": {
         "Grunt 3": {
-            "level": 41,
+            "level": 39,
             "ivs": {
                 "hp": 31,
                 "at": 31,
