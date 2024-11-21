@@ -9656,7 +9656,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Grunt*": {
-            "level": 35,
+            "level": 34,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -11306,7 +11306,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Grunt*": {
-            "level": 35,
+            "level": 34,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -12932,7 +12932,7 @@ var SETDEX_ADV = {
             ]
         },
         "Lass Kay": {
-            "level": 39,
+            "level": 38,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -14666,7 +14666,7 @@ var SETDEX_ADV = {
     },
     "Kangaskhan": {
         "Pokemaniac Ashton": {
-            "level": 31,
+            "level": 32,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -14782,7 +14782,7 @@ var SETDEX_ADV = {
     },
     "Crobat": {
         "Pokemaniac Ashton": {
-            "level": 31,
+            "level": 32,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -15548,7 +15548,7 @@ var SETDEX_ADV = {
     },
     "Feraligatr": {
         "Pkmn Trainer May": {
-            "level": 36,
+            "level": 35,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -15588,7 +15588,7 @@ var SETDEX_ADV = {
     },
     "Meganium": {
         "Pkmn Trainer May": {
-            "level": 36,
+            "level": 35,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -15742,7 +15742,7 @@ var SETDEX_ADV = {
     },
     "Typhlosion": {
         "Pkmn Trainer May": {
-            "level": 36,
+            "level": 35,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -17073,7 +17073,7 @@ var SETDEX_ADV = {
     },
     "Swalot": {
         "Biker Jared": {
-            "level": 34,
+            "level": 33,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -17594,7 +17594,7 @@ var SETDEX_ADV = {
     },
     "Flareon": {
         "Rocket Grunt*": {
-            "level": 35,
+            "level": 34,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -18710,7 +18710,7 @@ var SETDEX_ADV = {
     },
     "Tropius": {
         "Beauty Tamia": {
-            "level": 39,
+            "level": 37,
             "ivs": {
                 "hp": 31,
                 "at": 31,
