@@ -2587,7 +2587,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 1": {
-            "level": 39,
+            "level": 37,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -2981,7 +2981,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Grunt 14": {
-            "level": 76,
+            "level": 72,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -3758,7 +3758,7 @@ var SETDEX_ADV = {
             ]
         },
         "Scientist Ed": {
-            "level": 72,
+            "level": 70,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -7193,7 +7193,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 13": {
-            "level": 64,
+            "level": 62,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -7482,7 +7482,7 @@ var SETDEX_ADV = {
             ]
         },
         "Black Belt Koichi": {
-            "level": 66,
+            "level": 64,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -8348,7 +8348,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 13*": {
-            "level": 65,
+            "level": 64,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -8966,7 +8966,7 @@ var SETDEX_ADV = {
             ]
         },
         "Admin Petral 2": {
-            "level": 67,
+            "level": 66,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -11013,7 +11013,7 @@ var SETDEX_ADV = {
             ]
         },
         "Beauty Bridget": {
-            "level": 45,
+            "level": 40,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -11500,7 +11500,7 @@ var SETDEX_ADV = {
             ]
         },
         "Admin Petral 2": {
-            "level": 65,
+            "level": 64,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -11519,7 +11519,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Grunt 14": {
-            "level": 65,
+            "level": 64,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -11528,7 +11528,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Brightpowder",
+            "item": "Lum berry",
             "nature": "Rash",
             "moves": [
                 "Crunch",
@@ -11964,7 +11964,7 @@ var SETDEX_ADV = {
             ]
         },
         "Scientist Beau": {
-            "level": 64,
+            "level": 62,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -13010,7 +13010,7 @@ var SETDEX_ADV = {
             ]
         },
         "Black Belt Koichi": {
-            "level": 66,
+            "level": 64,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -13609,7 +13609,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 13*": {
-            "level": 65,
+            "level": 64,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -14436,7 +14436,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 1": {
-            "level": 39,
+            "level": 37,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -14934,7 +14934,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 13*": {
-            "level": 65,
+            "level": 64,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -15145,7 +15145,7 @@ var SETDEX_ADV = {
     },
     "Slowbro": {
         "Pokemaniac Ashton": {
-            "level": 32,
+            "level": 33,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -17307,7 +17307,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 1": {
-            "level": 39,
+            "level": 37,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -17364,7 +17364,7 @@ var SETDEX_ADV = {
             ]
         },
         "Admin Petral 2": {
-            "level": 61,
+            "level": 60,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -19330,7 +19330,7 @@ var SETDEX_ADV = {
             ]
         },
         "Rocket Grunt 14": {
-            "level": 65,
+            "level": 64,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -19811,7 +19811,7 @@ var SETDEX_ADV = {
             ]
         },
         "Admin Petral 2": {
-            "level": 65,
+            "level": 64,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -20733,7 +20733,7 @@ var SETDEX_ADV = {
             ]
         },
         "Black Belt Koichi": {
-            "level": 66,
+            "level": 64,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -21370,7 +21370,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 13*": {
-            "level": 65,
+            "level": 64,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -22326,7 +22326,7 @@ var SETDEX_ADV = {
             ]
         },
         "Admin Petral 2": {
-            "level": 65,
+            "level": 64,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -23881,7 +23881,7 @@ var SETDEX_ADV = {
             ]
         },
         "Black Belt Koichi": {
-            "level": 66,
+            "level": 64,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -25857,7 +25857,7 @@ var SETDEX_ADV = {
             ]
         },
         "Scientist Beau": {
-            "level": 64,
+            "level": 63,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -26344,7 +26344,7 @@ var SETDEX_ADV = {
             ]
         },
         "Black Belt Koichi": {
-            "level": 66,
+            "level": 64,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -26555,7 +26555,7 @@ var SETDEX_ADV = {
             ]
         },
         "Black Belt Koichi": {
-            "level": 66,
+            "level": 64,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -27407,7 +27407,7 @@ var SETDEX_ADV = {
     },
     "Golem": {
         "Admin Petral 2": {
-            "level": 65,
+            "level": 64,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -27485,7 +27485,7 @@ var SETDEX_ADV = {
     },
     "Snorlax": {
         "Rocket Grunt 14": {
-            "level": 65,
+            "level": 63,
             "ivs": {
                 "hp": 31,
                 "at": 31,
