@@ -8033,7 +8033,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Ice Beam",
                 "Psychic",
-                "Hidden Power Fire",
+                "Hidden Power Water",
                 "Counter"
             ]
         },
