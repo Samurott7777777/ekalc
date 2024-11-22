@@ -21634,7 +21634,7 @@ var SETDEX_ADV = {
                 "Flamethrower",
                 "Crunch",
                 "Pursuit",
-                "Hidden Power Grass"
+                "Hidden Power Electric"
             ]
         },
         "Pokemon Tower Rival": {
