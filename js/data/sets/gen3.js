@@ -14698,7 +14698,7 @@ var SETDEX_ADV = {
             "nature": "Quirky",
             "moves": [
                 "Fake Out",
-                "Frustration",
+                "Body Slam",
                 "Shadow Ball",
                 "Superpower"
             ]
