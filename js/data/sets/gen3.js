@@ -20541,7 +20541,7 @@ var SETDEX_ADV = {
     },
     "Banette": {
         "Grunt 4": {
-            "level": 48,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
