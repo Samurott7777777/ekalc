@@ -150,7 +150,7 @@ var SETDEX_ADV = {
                 "Gust",
                 "Supersonic",
                 "Stun Spore",
-                "Psybeam"
+                "Confusion"
             ]
         },
         "Psychic Preston": {
