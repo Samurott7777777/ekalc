@@ -329,7 +329,7 @@ var GSC_PATCH = {
     'Shadow Ball': { bp: 80, type: 'Ghost' },
     'Sludge Bomb': { bp: 90, type: 'Poison' },
     Spark: { bp: 65, type: 'Electric' },
-    'Steel Wing': { bp: 80, type: 'Steel' },
+    'Steel Wing': { bp: 70, type: 'Steel' },
     'Vital Throw': { bp: 70, type: 'Fighting' }
 };
 var GSC = (0, util_1.extend)(true, {}, RBY, GSC_PATCH);
