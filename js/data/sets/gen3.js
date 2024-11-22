@@ -1047,7 +1047,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Wing Attack",
                 "Focus Energy",
-                "Faint Attack",
+                "Thief",
                 "Rock Throw"
             ]
         },
