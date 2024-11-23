@@ -4841,7 +4841,7 @@ var SETDEX_ADV = {
             ]
         },
         "Pokemon Tower Rival": {
-            "level": 48,
+            "level": 47,
             "ivs": {
                 "hp": 31,
                 "at": 31,
