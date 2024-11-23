@@ -5798,7 +5798,7 @@ var SETDEX_ADV = {
             "nature": "Hardy",
             "moves": [
                 "Drill Peck",
-                "Drill Run",
+                "Double Kick",
                 "Facade",
                 "Quick Attack"
             ]
