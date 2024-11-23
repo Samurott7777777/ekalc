@@ -3347,7 +3347,7 @@ var SETDEX_ADV = {
     },
     "Magnemite": {
         "Super Nerd Miguel": {
-            "level": 20,
+            "level": 21,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -3361,14 +3361,14 @@ var SETDEX_ADV = {
             "moves": [
                 "Flash Cannon",
                 "Thunderbolt",
-                "Self Destruct",
+                "Hidden Power Ice",
                 "Protect"
             ]
         }
     },
     "Shuckle": {
         "Super Nerd Miguel": {
-            "level": 20,
+            "level": 21,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -3381,7 +3381,7 @@ var SETDEX_ADV = {
             "nature": "Serious",
             "moves": [
                 "Cosmic Power",
-                "Pounce",
+                "Toxic",
                 "Rock Tomb",
                 "Protect"
             ]
