@@ -1478,7 +1478,7 @@ var GSC_PATCH = {
     },
     Wobbuffet: {
         types: ['Psychic'],
-        bs: { hp: 190, at: 33, df: 58, sa: 33, sd: 58, sp: 33 },
+        bs: { hp: 190, at: 33, df: 60, sa: 33, sd: 60, sp: 33 },
         weightkg: 28.5
     },
     Wooper: {
