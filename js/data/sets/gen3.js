@@ -8285,7 +8285,7 @@ var SETDEX_ADV = {
             "nature": "Naive",
             "moves": [
                 "Sludge",
-                "Waterfall",
+                "Bubble Beam",
                 "Thunder Wave",
                 "Headbutt"
             ]
