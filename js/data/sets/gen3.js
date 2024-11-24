@@ -10314,7 +10314,7 @@ var SETDEX_ADV = {
             "item": "Lum Berry",
             "nature": "Impish",
             "moves": [
-                "Surf",
+                "Waterfall",
                 "Thunder Wave",
                 "Signal Beam",
                 "Thunderbolt"
