@@ -12827,7 +12827,7 @@ var SETDEX_ADV = {
             "nature": "Brave",
             "moves": [
                 "Headbutt",
-                "Softboiled",
+                "Soft Boiled",
                 "Thunder Wave",
                 "Surf"
             ]
