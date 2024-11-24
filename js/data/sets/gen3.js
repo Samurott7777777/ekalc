@@ -20944,7 +20944,7 @@ var SETDEX_ADV = {
     },
     "Dodrio": {
         "Campus Chris": {
-            "level": 35,
+            "level": 33,
             "ivs": {
                 "hp": 31,
                 "at": 31,
