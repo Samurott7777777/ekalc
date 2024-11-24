@@ -1655,7 +1655,7 @@ var ADV_PATCH = {
     Ampharos: { abilities: { 0: 'Static' } },
     Ariados: { abilities: { 0: 'Swarm' } },
     Azumarill: { abilities: { 0: 'Huge Power' } },
-    Bayleef: { abilities: { 0: 'Overgrow' } },
+    Bayleef: { abilities: { 0: 'Thick Fat' } },
     Bellossom: { abilities: { 0: 'Thick Fat' } },
     Blissey: { abilities: { 0: 'Natural Cure' } },
     Celebi: { abilities: { 0: 'Natural Cure' } },
