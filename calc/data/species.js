@@ -425,7 +425,7 @@ var RBY = {
     },
     Magmar: {
         types: ['Fire'],
-        bs: { hp: 65, at: 95, df: 57, sp: 93, sl: 85 },
+        bs: { hp: 65, at: 95, df: 57, sp: 98, sl: 85 },
         weightkg: 44.5
     },
     Magnemite: {
