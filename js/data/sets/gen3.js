@@ -12867,7 +12867,7 @@ var SETDEX_ADV = {
             "nature": "Naive",
             "moves": [
                 "Thunder",
-                "Hidden Power  Ice",
+                "Hidden Power Ice",
                 "Sing",
                 "Tail Glow"
             ]
