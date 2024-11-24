@@ -4247,7 +4247,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Deepseascale",
+            "item": "Deep Sea Scale",
             "nature": "Jolly",
             "moves": [
                 "Toxic",
@@ -4266,7 +4266,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Deepseatooth",
+            "item": "Deep Sea Tooth",
             "nature": "Timid",
             "moves": [
                 "Surf",
