@@ -8438,7 +8438,7 @@ var SETDEX_ADV = {
             "item": "Leftovers",
             "nature": "Sassy",
             "moves": [
-                "Dragonbreath",
+                "Dragon Breath",
                 "Drill Peck",
                 "Recover",
                 "Protect"
