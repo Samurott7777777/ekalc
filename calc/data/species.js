@@ -2619,7 +2619,7 @@ var ADV_PATCH = {
     },
     Wailmer: {
         types: ['Water'],
-        bs: { hp: 130, at: 70, df: 35, sa: 70, sd: 35, sp: 60 },
+        bs: { hp: 130, at: 70, df: 45, sa: 70, sd: 65, sp: 1 },
         weightkg: 130,
         nfe: true,
         abilities: { 0: 'Water Veil' }
