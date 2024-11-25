@@ -867,7 +867,7 @@ var GSC_PATCH = {
     Graveler: { bs: { sa: 45, sd: 45 } },
     Grimer: { bs: { sa: 40, sd: 50 } },
     Growlithe: { bs: { sa: 70, sd: 50 } },
-    Gyarados: { bs: { sa: 60, sd: 100 } },
+    Gyarados: { bs: { sa: 70, sd: 100 } },
     Haunter: { bs: { sa: 115, sd: 55 } },
     Hitmonchan: { bs: { sa: 35, sd: 110 } },
     Hitmonlee: { bs: { sa: 35, sd: 110 } },
