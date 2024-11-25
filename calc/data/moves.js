@@ -96,7 +96,7 @@ var RBY = {
     Minimize: { bp: 0, category: 'Status', type: 'Normal' },
     'Mirror Move': { bp: 0, category: 'Status', type: 'Flying' },
     Mist: { bp: 0, category: 'Status', type: 'Ice' },
-    'Night Shade': { bp: 1, type: 'Ghost' },
+    'Night Shade': { bp: 1, type: 'Dark' },
     'Petal Dance': { bp: 95, type: 'Grass' },
     'Pin Missile': { bp: 20, type: 'Bug', multihit: [2, 5] },
     'Poison Sting': { bp: 45, type: 'Poison' },
