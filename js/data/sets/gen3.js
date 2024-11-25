@@ -12620,7 +12620,7 @@ var SETDEX_ADV = {
     },
     "Magneton": {
         "Lt Surge": {
-            "level": 29,
+            "level": 28,
             "ivs": {
                 "hp": 31,
                 "at": 31,
