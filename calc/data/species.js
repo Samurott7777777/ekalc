@@ -245,7 +245,7 @@ var RBY = {
     },
     Gengar: {
         types: ['Ghost', 'Poison'],
-        bs: { hp: 60, at: 90, df: 60, sp: 110, sl: 130 },
+        bs: { hp: 60, at: 80, df: 60, sp: 110, sl: 130 },
         weightkg: 40.5
     },
     Geodude: {
