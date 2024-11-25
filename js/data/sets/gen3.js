@@ -4817,7 +4817,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Water Gun",
                 "Headbutt",
-                "Dragonbreath",
+                "Twister",
                 "Toxic"
             ]
         },
