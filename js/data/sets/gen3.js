@@ -17302,7 +17302,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Ancientpower",
                 "Earthquake",
-                "Double-Edge",
+                "-",
                 "-"
             ]
         },
