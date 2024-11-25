@@ -1710,7 +1710,7 @@ var ADV_PATCH = {
     Pichu: { abilities: { 0: 'Static' } },
     Piloswine: { abilities: { 0: 'Oblivious' } },
     Pineco: { abilities: { 0: 'Sturdy' } },
-    Politoed: { abilities: { 0: 'Thick Fat' } },
+    Politoed: { abilities: { 0: 'Natural Cure' } },
     Porygon2: { abilities: { 0: 'Trace' } },
     Pupitar: { abilities: { 0: 'Shed Skin' } },
     Quagsire: { abilities: { 0: 'Oblivious' } },
