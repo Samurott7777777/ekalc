@@ -4606,7 +4606,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Earthquake",
                 "Thunder",
-                "Frustration",
+                "Body Slam",
                 "Hidden Power Grass"
             ]
         },
