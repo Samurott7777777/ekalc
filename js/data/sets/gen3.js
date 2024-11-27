@@ -4879,7 +4879,7 @@ var SETDEX_ADV = {
             ]
         },
         "Pokemon Trainer May": {
-            "level": 63,
+            "level": 61,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -17807,7 +17807,7 @@ var SETDEX_ADV = {
             ]
         },
         "Pokemon Trainer May": {
-            "level": 65,
+            "level": 63,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -20714,7 +20714,7 @@ var SETDEX_ADV = {
             ]
         },
         "Pokemon Trainer May": {
-            "level": 65,
+            "level": 63,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -23134,7 +23134,7 @@ var SETDEX_ADV = {
             ]
         },
         "Pokemon Trainer May": {
-            "level": 63,
+            "level": 61,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -25334,7 +25334,7 @@ var SETDEX_ADV = {
             ]
         },
         "Pokemon Trainer May": {
-            "level": 65,
+            "level": 63,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -27156,7 +27156,7 @@ var SETDEX_ADV = {
     },
     "Latias": {
         "Pokemon Trainer May": {
-            "level": 63,
+            "level": 61,
             "ivs": {
                 "hp": 31,
                 "at": 31,
