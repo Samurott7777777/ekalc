@@ -2271,7 +2271,7 @@ var SETDEX_ADV = {
             ]
         },
         "Camper Benny": {
-            "level": 47,
+            "level": 45,
             "ivs": {
                 "hp": 31,
                 "at": 31,
