@@ -24596,7 +24596,7 @@ var SETDEX_ADV = {
     },
     "Delibird": {
         "Fisherman Elliot": {
-            "level": 53,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -24605,7 +24605,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Brightpowder",
+            "item": "Bright Powder",
             "nature": "Lonely",
             "moves": [
                 "Ice Beam",
