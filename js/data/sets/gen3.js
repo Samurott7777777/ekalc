@@ -20176,7 +20176,7 @@ var SETDEX_ADV = {
             ]
         },
         "Picknicker Alma": {
-            "level": 63,
+            "level": 62,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -20248,7 +20248,7 @@ var SETDEX_ADV = {
                 "Hydro Pump",
                 "Dragon Breath",
                 "Ice Beam",
-                "Hidden Power Electric"
+                "Return"
             ]
         },
         "Ace Trainer Cerulean": {
