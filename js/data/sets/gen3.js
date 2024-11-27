@@ -6147,9 +6147,9 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Liechi Berry",
-            "nature": "Timid",
+            "nature": "Careful",
             "moves": [
-                "Explosion",
+                "Self-Destruct",
                 "Thunderbolt",
                 "Hidden Power Ice",
                 "Sonicboom"
@@ -6187,7 +6187,7 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Focus Band",
-            "nature": "Lax",
+            "nature": "Sassy",
             "moves": [
                 "Shadow Sneak",
                 "Night Shade",
@@ -6303,7 +6303,7 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Soul Dew",
-            "nature": "Careful",
+            "nature": "Hasty",
             "moves": [
                 "Transform",
                 "-",
@@ -13503,7 +13503,7 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Leftovers",
-            "nature": "Serious",
+            "nature": "Impish",
             "moves": [
                 "Dragon Claw",
                 "Flamethrower",
