@@ -16373,7 +16373,7 @@ var SETDEX_ADV = {
             "nature": "Mild",
             "moves": [
                 "Surf",
-                "Water Pulse",
+                "Water Gun",
                 "Ice Beam",
                 "Psychic"
             ]
