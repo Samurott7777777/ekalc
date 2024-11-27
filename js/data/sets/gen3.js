@@ -9736,7 +9736,7 @@ var SETDEX_ADV = {
             ]
         },
         "Channeler Patricia": {
-            "level": 47,
+            "level": 44,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -12253,7 +12253,7 @@ var SETDEX_ADV = {
             ]
         },
         "Channeler Patricia": {
-            "level": 47,
+            "level": 44,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -19484,7 +19484,7 @@ var SETDEX_ADV = {
             ]
         },
         "Channeler Patricia": {
-            "level": 47,
+            "level": 44,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -20560,7 +20560,7 @@ var SETDEX_ADV = {
             ]
         },
         "Channeler Patricia": {
-            "level": 47,
+            "level": 44,
             "ivs": {
                 "hp": 31,
                 "at": 31,
