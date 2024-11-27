@@ -809,7 +809,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Magnitude",
                 "Explosion",
-                "Self-Destruct",
+                "Sandstorm",
                 "-"
             ]
         },
