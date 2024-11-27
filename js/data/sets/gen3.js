@@ -20157,7 +20157,7 @@ var SETDEX_ADV = {
             ]
         },
         "Fisherman Ned": {
-            "level": 45,
+            "level": 43,
             "ivs": {
                 "hp": 31,
                 "at": 31,
