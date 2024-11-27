@@ -27253,7 +27253,7 @@ var SETDEX_ADV = {
     },
     "Lapras": {
         "Scientist Gilbert": {
-            "level": 64,
+            "level": 62,
             "ivs": {
                 "hp": 31,
                 "at": 31,
