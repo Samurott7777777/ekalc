@@ -13533,7 +13533,7 @@ var SETDEX_ADV = {
     },
     "Kabutops": {
         "Hiker Alan": {
-            "level": 32,
+            "level": 33,
             "ivs": {
                 "hp": 31,
                 "at": 31,
