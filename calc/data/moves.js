@@ -64,7 +64,7 @@ var RBY = {
     'Defense Curl': { bp: 0, category: 'Status', type: 'Normal' },
     Dig: { bp: 100, type: 'Ground' },
     Disable: { bp: 0, category: 'Status', type: 'Normal' },
-    'Dizzy Punch': { bp: 90, type: 'Normal' },
+    'Dizzy Punch': { bp: 70, type: 'Normal' },
     'Double-Edge': { bp: 100, type: 'Normal', recoil: [25, 100] },
     'Double Kick': { bp: 30, type: 'Fighting', multihit: 2 },
     'Double Slap': { bp: 15, type: 'Normal', multihit: [2, 5] },
