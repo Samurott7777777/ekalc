@@ -7885,7 +7885,7 @@ var SETDEX_ADV = {
             ]
         },
         "Hiker Eric": {
-            "level": 35,
+            "level": 33,
             "ivs": {
                 "hp": 31,
                 "at": 31,
