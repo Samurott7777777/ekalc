@@ -1699,7 +1699,7 @@ var ADV_PATCH = {
     Mantine: { abilities: { 0: 'Swift Swim' } },
     Mareep: { abilities: { 0: 'Static' } },
     Marill: { abilities: { 0: 'Huge Power' } },
-    Meganium: { abilities: { 0: 'Overgrow' } },
+    Meganium: { abilities: { 0: 'Thick Fat' } },
     Miltank: { abilities: { 0: 'Thick Fat' } },
     Misdreavus: { abilities: { 0: 'Shadow Tag' } },
     Murkrow: { abilities: { 0: 'Insomnia' } },
