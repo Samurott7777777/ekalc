@@ -14408,12 +14408,12 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Leftovers",
-            "nature": "NOW",
+            "nature": "Jolly",
             "moves": [
                 "Shock Wave",
                 "Psybeam",
                 "Will-O-Wisp",
-                "Aurora Beam"
+                "Shadow Ball"
             ]
         },
         "Beauty Tamia": {
