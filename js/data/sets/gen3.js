@@ -2033,7 +2033,7 @@ var SETDEX_ADV = {
             ]
         },
         "Black Belt Lukas": {
-            "level": 60,
+            "level": 55,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -13004,7 +13004,7 @@ var SETDEX_ADV = {
             "nature": "Jolly",
             "moves": [
                 "Brick Break",
-                "Shadow Punch",
+                "Bulk Up",
                 "Earthquake",
                 "Rock Slide"
             ]
