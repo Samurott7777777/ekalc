@@ -11649,7 +11649,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Hydro Pump",
                 "Ice Beam",
-                "Hidden Power Grass",
+                "Hidden Power Ghost",
                 "Giga Drain"
             ]
         },
