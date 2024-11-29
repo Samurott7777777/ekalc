@@ -5693,7 +5693,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Quick Claw",
+            "item": "Lum Berry",
             "nature": "Bold",
             "moves": [
                 "Megahorn",
