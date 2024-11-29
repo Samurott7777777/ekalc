@@ -2518,7 +2518,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Lum Berry",
+            "item": "Sitrus Berry",
             "nature": "Bold",
             "moves": [
                 "Metronome",
@@ -11611,7 +11611,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Ice Beam",
                 "Sludge Bomb",
-                "Waterfall",
+                "Water Pulse",
                 "Giga Drain"
             ]
         },
@@ -21306,7 +21306,7 @@ var SETDEX_ADV = {
             "item": "Lum Berry",
             "nature": "Docile",
             "moves": [
-                "Gunk Shot",
+                "Psychic",
                 "Shadow Ball",
                 "Submission",
                 "Self-Destruct"
