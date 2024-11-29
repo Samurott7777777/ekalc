@@ -10182,7 +10182,7 @@ var SETDEX_ADV = {
             ]
         },
         "Beauty Bridget": {
-            "level": 39,
+            "level": 38,
             "ivs": {
                 "hp": 31,
                 "at": 31,
