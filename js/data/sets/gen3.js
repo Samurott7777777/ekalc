@@ -25639,8 +25639,8 @@ var SETDEX_ADV = {
             "moves": [
                 "Body Slam",
                 "Shadow Ball",
-                "Bite",
-                "Fake Out"
+                "Pursuit",
+                "Tail Glow"
             ]
         },
         "Picknicker Kindra": {
@@ -25656,9 +25656,9 @@ var SETDEX_ADV = {
             "item": "Leftovers",
             "nature": "Hasty",
             "moves": [
-                "Body Slam",
-                "Shadow Ball",
-                "Submission",
+                "Thunderbolt",
+                "Ice Beam",
+                "Calm Mind",
                 "Milk Drink"
             ]
         },
