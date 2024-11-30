@@ -8347,7 +8347,7 @@ var SETDEX_ADV = {
                 "Hidden Power Electric"
             ]
         },
-        "Grunt 13*": {
+        "Grunt 14": {
             "level": 64,
             "ivs": {
                 "hp": 31,
@@ -13608,7 +13608,7 @@ var SETDEX_ADV = {
                 "-"
             ]
         },
-        "Grunt 13*": {
+        "Grunt 14": {
             "level": 64,
             "ivs": {
                 "hp": 31,
@@ -14933,7 +14933,7 @@ var SETDEX_ADV = {
                 "Protect"
             ]
         },
-        "Grunt 13*": {
+        "Grunt 14": {
             "level": 64,
             "ivs": {
                 "hp": 31,
@@ -18055,7 +18055,7 @@ var SETDEX_ADV = {
                 "Hidden Power Fire"
             ]
         },
-        "Grunt 13*": {
+        "Grunt 14": {
             "level": 62,
             "ivs": {
                 "hp": 31,
@@ -21369,7 +21369,7 @@ var SETDEX_ADV = {
                 "Explosion"
             ]
         },
-        "Grunt 13*": {
+        "Grunt 14": {
             "level": 64,
             "ivs": {
                 "hp": 31,
