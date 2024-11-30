@@ -2528,7 +2528,7 @@ var SETDEX_ADV = {
             ]
         },
         "Picknicker Alma": {
-            "level": 90,
+            "level": 85,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -8502,7 +8502,7 @@ var SETDEX_ADV = {
             ]
         },
         "Picknicker Alma": {
-            "level": 72,
+            "level": 69,
             "ivs": {
                 "hp": 31,
                 "at": 31,
