@@ -8306,7 +8306,7 @@ var SETDEX_ADV = {
                 "Sludge",
                 "Surf",
                 "Self-Destruct",
-                "Icy Wind"
+                "Revenge"
             ]
         },
         "Fisherman Hank": {
