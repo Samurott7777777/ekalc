@@ -2050,7 +2050,7 @@ var ADV_PATCH = {
         types: ['Ice'],
         bs: { hp: 80, at: 100, df: 80, sa: 100, sd: 80, sp: 100 },
         weightkg: 256.5,
-        abilities: { 0: 'Inner Focus' }
+        abilities: { 0: 'Intimidate' }
     },
     Gorebyss: {
         types: ['Water'],
