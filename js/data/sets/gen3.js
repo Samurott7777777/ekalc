@@ -4468,7 +4468,7 @@ var SETDEX_ADV = {
             "nature": "Naughty",
             "moves": [
                 "Water Pulse",
-                "Horn Drill",
+                "Ice Beam",
                 "Aqua Jet",
                 "Double-Edge"
             ]
