@@ -11070,7 +11070,7 @@ var SETDEX_ADV = {
             ]
         },
         "Sis And Bro Lil And Ian": {
-            "level": 88,
+            "level": 80,
             "ivs": {
                 "hp": 31,
                 "at": 31,
