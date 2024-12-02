@@ -26439,7 +26439,7 @@ var SETDEX_ADV = {
             ]
         },
         "Crush Girl Jocelyn": {
-            "level": 93,
+            "level": 90,
             "ivs": {
                 "hp": 31,
                 "at": 31,
