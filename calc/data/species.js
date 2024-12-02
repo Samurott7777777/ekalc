@@ -1102,7 +1102,7 @@ var GSC_PATCH = {
     },
     Gligar: {
         types: ['Ground', 'Flying'],
-        bs: { hp: 65, at: 75, df: 105, sa: 35, sd: 65, sp: 85 },
+        bs: { hp: 85, at: 75, df: 105, sa: 35, sd: 65, sp: 85 },
         weightkg: 64.8
     },
     Granbull: {
