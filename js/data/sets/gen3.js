@@ -17935,7 +17935,7 @@ var SETDEX_ADV = {
             "item": "Lum Berry",
             "nature": "Calm",
             "moves": [
-                "Explosion",
+                "Hidden Power Fire",
                 "Solar Beam",
                 "Ancientpower",
                 "Psychic"
