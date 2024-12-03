@@ -5175,7 +5175,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Never Melt Ice",
+            "item": "Never-Melt Ice",
             "nature": "Adamant",
             "moves": [
                 "Bubble Beam",
