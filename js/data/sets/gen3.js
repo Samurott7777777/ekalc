@@ -13147,7 +13147,7 @@ var SETDEX_ADV = {
             ]
         },
         "Pkmn Trainer May": {
-            "level": 34,
+            "level": 33,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -13159,7 +13159,7 @@ var SETDEX_ADV = {
             "item": "Lum",
             "nature": "Timid",
             "moves": [
-                "Drill Peck",
+                "Hidden Power Flying",
                 "Flash Cannon",
                 "Drill Run",
                 "Growl"
@@ -15261,7 +15261,7 @@ var SETDEX_ADV = {
     },
     "Flygon": {
         "Pkmn Trainer May": {
-            "level": 35,
+            "level": 34,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -15548,7 +15548,7 @@ var SETDEX_ADV = {
     },
     "Feraligatr": {
         "Pkmn Trainer May": {
-            "level": 35,
+            "level": 34,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -15588,7 +15588,7 @@ var SETDEX_ADV = {
     },
     "Meganium": {
         "Pkmn Trainer May": {
-            "level": 35,
+            "level": 34,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -15742,7 +15742,7 @@ var SETDEX_ADV = {
     },
     "Typhlosion": {
         "Pkmn Trainer May": {
-            "level": 35,
+            "level": 34,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -15877,7 +15877,7 @@ var SETDEX_ADV = {
     },
     "Linoone": {
         "Pkmn Trainer May": {
-            "level": 35,
+            "level": 34,
             "ivs": {
                 "hp": 31,
                 "at": 31,
