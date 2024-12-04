@@ -4313,7 +4313,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Belly Drum",
                 "Body Slam",
-                "Waterfall",
+                "Hidden Power Water",
                 "Quick Attack"
             ]
         },
