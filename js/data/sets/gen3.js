@@ -17923,7 +17923,7 @@ var SETDEX_ADV = {
             ]
         },
         "Picknicker Tiana": {
-            "level": 38,
+            "level": 37,
             "ivs": {
                 "hp": 31,
                 "at": 31,
