@@ -3502,6 +3502,25 @@ var SETDEX_ADV = {
                 "Crunch"
             ]
         },
+        "Picknicker Isabelle": {
+            "level": 27,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Blackglasses",
+            "nature": "Rash",
+            "moves": [
+                "Pursuit",
+                "-",
+                "-",
+                "-"
+            ]
+        },
         "Biker Jared*": {
             "level": 46,
             "ivs": {
