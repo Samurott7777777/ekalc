@@ -15780,7 +15780,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 7": {
-            "level": 47,
+            "level": 45,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -15792,7 +15792,7 @@ var SETDEX_ADV = {
             "item": "Charcoal",
             "nature": "Sassy",
             "moves": [
-                "Fire Blast",
+                "Flamethrower",
                 "Wild Charge",
                 "Earthquake",
                 "Hidden Power Grass"
