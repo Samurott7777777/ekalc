@@ -21685,7 +21685,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Blackglasses",
+            "item": "Black Glasses",
             "nature": "Timid",
             "moves": [
                 "Flamethrower",
@@ -21723,7 +21723,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Blackglasses",
+            "item": "Black Glasses",
             "nature": "Quiet",
             "moves": [
                 "Overheat",
@@ -25592,7 +25592,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Nevermeltice",
+            "item": "Never-Melt Ice",
             "nature": "Gentle",
             "moves": [
                 "Waterfall",
@@ -25866,7 +25866,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Nevermeltice",
+            "item": "Never-Melt Ice",
             "nature": "Modest",
             "moves": [
                 "Flamethrower",
@@ -27121,7 +27121,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Nevermeltice",
+            "item": "Never-Melt Ice",
             "nature": "Naive",
             "moves": [
                 "Blizzard",
