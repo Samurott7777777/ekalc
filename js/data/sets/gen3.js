@@ -6446,7 +6446,7 @@ var SETDEX_ADV = {
                 "Earthquake"
             ]
         },
-        "Biker Jared": {
+        "Biker Jaren": {
             "level": 38,
             "ivs": {
                 "hp": 31,
@@ -16051,7 +16051,7 @@ var SETDEX_ADV = {
                 "Confuse Ray"
             ]
         },
-        "Picknicker Tiana": {
+        "Picknicker Tina": {
             "level": 37,
             "ivs": {
                 "hp": 31,
@@ -16456,7 +16456,7 @@ var SETDEX_ADV = {
                 "Protect"
             ]
         },
-        "Picknicker Tiana": {
+        "Picknicker Tina": {
             "level": 39,
             "ivs": {
                 "hp": 31,
@@ -17091,7 +17091,7 @@ var SETDEX_ADV = {
         }
     },
     "Swalot": {
-        "Biker Jared": {
+        "Biker Jaren": {
             "level": 33,
             "ivs": {
                 "hp": 31,
@@ -17169,7 +17169,7 @@ var SETDEX_ADV = {
         }
     },
     "Whiscash": {
-        "Biker Jared": {
+        "Biker Jaren": {
             "level": 36,
             "ivs": {
                 "hp": 31,
@@ -17941,7 +17941,7 @@ var SETDEX_ADV = {
                 "Hidden Power Fire"
             ]
         },
-        "Picknicker Tiana": {
+        "Picknicker Tina": {
             "level": 37,
             "ivs": {
                 "hp": 31,
@@ -18228,7 +18228,7 @@ var SETDEX_ADV = {
         }
     },
     "Victreebel": {
-        "Picknicker Tiana": {
+        "Picknicker Tina": {
             "level": 37,
             "ivs": {
                 "hp": 31,
@@ -18439,7 +18439,7 @@ var SETDEX_ADV = {
         }
     },
     "Ninjask": {
-        "Picknicker Tiana": {
+        "Picknicker Tina": {
             "level": 38,
             "ivs": {
                 "hp": 31,
