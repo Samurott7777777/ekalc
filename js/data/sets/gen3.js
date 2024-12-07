@@ -9684,7 +9684,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Brightpowder",
+            "item": "Bright Powder",
             "nature": "Brave",
             "moves": [
                 "Draco Meteor",
