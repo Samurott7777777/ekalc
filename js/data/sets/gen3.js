@@ -11070,7 +11070,7 @@ var SETDEX_ADV = {
             ]
         },
         "Twins Kiri And Jan": {
-            "level": 51,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -13609,7 +13609,7 @@ var SETDEX_ADV = {
             ]
         },
         "Twins Kiri And Jan": {
-            "level": 51,
+            "level": 49,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -17248,7 +17248,7 @@ var SETDEX_ADV = {
             ]
         },
         "Twins Kiri And Jan": {
-            "level": 51,
+            "level": 49,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -22651,7 +22651,7 @@ var SETDEX_ADV = {
             ]
         },
         "Twins Kiri And Jan": {
-            "level": 51,
+            "level": 48,
             "ivs": {
                 "hp": 31,
                 "at": 31,
