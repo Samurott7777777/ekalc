@@ -17901,7 +17901,7 @@ var SETDEX_ADV = {
                 "Thunder Punch"
             ]
         },
-        "Pok\u00e9maniac Hector": {
+        "Pokemaniac Hector": {
             "level": 95,
             "ivs": {
                 "hp": 31,
