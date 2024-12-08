@@ -25033,7 +25033,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Lum Berry",
+            "item": "Bright Powder",
             "nature": "Careful",
             "moves": [
                 "Thunderbolt",
@@ -26429,7 +26429,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Lum Berry",
+            "item": "Bright Powder",
             "nature": "Calm",
             "moves": [
                 "Fire Blast",
