@@ -19320,7 +19320,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Charcoal",
+            "item": "Miracle Seed",
             "nature": "Timid",
             "moves": [
                 "Sleep Powder",
