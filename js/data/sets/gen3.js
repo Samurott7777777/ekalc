@@ -23613,7 +23613,7 @@ var SETDEX_ADV = {
             ]
         },
         "Juggler Shawn": {
-            "level": 51,
+            "level": 49,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -23670,7 +23670,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Viridian": {
-            "level": 83,
+            "level": 81,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -23689,7 +23689,7 @@ var SETDEX_ADV = {
             ]
         },
         "Cue Ball Raul": {
-            "level": 86,
+            "level": 84,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -23708,7 +23708,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Balling": {
-            "level": 82,
+            "level": 80,
             "ivs": {
                 "hp": 31,
                 "at": 31,
