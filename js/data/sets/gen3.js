@@ -19522,7 +19522,7 @@ var SETDEX_ADV = {
             ]
         },
         "Juggler Nate": {
-            "level": 52,
+            "level": 49,
             "ivs": {
                 "hp": 31,
                 "at": 31,
