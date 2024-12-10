@@ -1651,7 +1651,7 @@ var SETDEX_ADV = {
             "item": "Lum Berry",
             "nature": "Timid",
             "moves": [
-                "Thundershock",
+                "Thunder Shock",
                 "Water Gun",
                 "Powder Snow",
                 "Sing"
@@ -1882,7 +1882,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Oran Berry",
+            "item": "Focus Band",
             "nature": "Serious",
             "moves": [
                 "Poison Fang",
