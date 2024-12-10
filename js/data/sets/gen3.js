@@ -23758,7 +23758,7 @@ var SETDEX_ADV = {
             "item": "Leftovers",
             "nature": "Lax",
             "moves": [
-                "Shadow Ball",
+                "Hidden Power Ghost",
                 "Brick Break",
                 "Double Team",
                 "Mean Look"
