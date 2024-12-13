@@ -2036,7 +2036,7 @@ var ADV_PATCH = {
     },
     Flygon: {
         types: ['Ground', 'Dragon'],
-        bs: { hp: 80, at: 105, df: 80, sa: 80, sd: 80, sp: 105 },
+        bs: { hp: 80, at: 105, df: 80, sa: 80, sd: 80, sp: 100 },
         weightkg: 82,
         abilities: { 0: 'Levitate' }
     },
@@ -2348,7 +2348,7 @@ var ADV_PATCH = {
     },
     Rayquaza: {
         types: ['Dragon', 'Flying'],
-        bs: { hp: 105, at: 150, df: 90, sa: 150, sd: 90, sp: 95 },
+        bs: { hp: 105, at: 150, df: 90, sa: 150, sd: 90, sp: 105 },
         weightkg: 206.5,
         abilities: { 0: 'Air Lock' },
         gender: 'N'
