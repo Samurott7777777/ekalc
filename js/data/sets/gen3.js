@@ -8444,7 +8444,7 @@ var SETDEX_ADV = {
         }
     },
     "Altaria": {
-        "Camper Jeff": {
+        "Picknicker Isabelle": {
             "level": 22,
             "ivs": {
                 "hp": 31,
