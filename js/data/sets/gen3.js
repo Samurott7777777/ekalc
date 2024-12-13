@@ -5432,7 +5432,7 @@ var SETDEX_ADV = {
             ]
         },
         "Joy And Meg": {
-            "level": 79,
+            "level": 75,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -8114,7 +8114,7 @@ var SETDEX_ADV = {
             ]
         },
         "Joy And Meg": {
-            "level": 79,
+            "level": 75,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -10627,7 +10627,7 @@ var SETDEX_ADV = {
             ]
         },
         "Joy And Meg": {
-            "level": 79,
+            "level": 75,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -11108,7 +11108,7 @@ var SETDEX_ADV = {
             ]
         },
         "Crush Combo Mik And Kia": {
-            "level": 80,
+            "level": 77,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -15586,7 +15586,7 @@ var SETDEX_ADV = {
             ]
         },
         "Crush Combo Mik And Kia": {
-            "level": 80,
+            "level": 77,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -15837,7 +15837,7 @@ var SETDEX_ADV = {
             ]
         },
         "Crush Combo Mik And Kia": {
-            "level": 80,
+            "level": 77,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -15934,7 +15934,7 @@ var SETDEX_ADV = {
             ]
         },
         "Joy And Meg": {
-            "level": 86,
+            "level": 81,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -24790,7 +24790,7 @@ var SETDEX_ADV = {
             ]
         },
         "Crush Combo Mik And Kia": {
-            "level": 80,
+            "level": 77,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -25739,7 +25739,7 @@ var SETDEX_ADV = {
             ]
         },
         "Joy And Meg": {
-            "level": 79,
+            "level": 75,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -26439,7 +26439,7 @@ var SETDEX_ADV = {
             ]
         },
         "Crush Combo Mik And Kia": {
-            "level": 80,
+            "level": 77,
             "ivs": {
                 "hp": 31,
                 "at": 31,
