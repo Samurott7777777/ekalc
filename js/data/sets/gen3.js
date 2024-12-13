@@ -16685,7 +16685,7 @@ var SETDEX_ADV = {
                 "Silver Wind",
                 "Flash Cannon",
                 "Superpower",
-                "Rock Slide"
+                "Hidden Power Rock"
             ]
         },
         "Gym Leader Koga": {
