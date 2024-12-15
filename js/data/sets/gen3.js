@@ -6607,7 +6607,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Steering": {
-            "level": 82,
+            "level": 80,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -8559,7 +8559,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Balling": {
-            "level": 82,
+            "level": 80,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -9042,7 +9042,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Virtue": {
-            "level": 84,
+            "level": 80,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -9290,7 +9290,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Balling": {
-            "level": 84,
+            "level": 80,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -9500,7 +9500,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Steering": {
-            "level": 82,
+            "level": 80,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -10665,7 +10665,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Virtue": {
-            "level": 82,
+            "level": 80,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -11363,7 +11363,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Steering": {
-            "level": 82,
+            "level": 80,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -11692,7 +11692,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Steering": {
-            "level": 82,
+            "level": 80,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -12523,7 +12523,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Virtue": {
-            "level": 84,
+            "level": 80,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -15048,7 +15048,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Virtue": {
-            "level": 82,
+            "level": 80,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -16280,7 +16280,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Steering": {
-            "level": 82,
+            "level": 80,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -16822,7 +16822,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Steering": {
-            "level": 82,
+            "level": 80,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -17189,7 +17189,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Virtue": {
-            "level": 82,
+            "level": 80,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -20060,7 +20060,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Balling": {
-            "level": 82,
+            "level": 80,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -23708,7 +23708,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Balling": {
-            "level": 80,
+            "level": 78,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -26709,7 +26709,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Virtue": {
-            "level": 82,
+            "level": 80,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -27637,7 +27637,7 @@ var SETDEX_ADV = {
             ]
         },
         "Biker Balling": {
-            "level": 80,
+            "level": 78,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -28272,7 +28272,7 @@ var SETDEX_ADV = {
     },
     "Relicanth": {
         "Biker Balling": {
-            "level": 82,
+            "level": 80,
             "ivs": {
                 "hp": 31,
                 "at": 31,
