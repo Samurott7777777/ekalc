@@ -2224,7 +2224,7 @@ var ADV_PATCH = {
     },
     Masquerain: {
         types: ['Bug', 'Flying'],
-        bs: { hp: 70, at: 60, df: 62, sa: 80, sd: 82, sp: 60 },
+        bs: { hp: 70, at: 80, df: 62, sa: 80, sd: 82, sp: 80 },
         weightkg: 3.6,
         abilities: { 0: 'Intimidate' }
     },
