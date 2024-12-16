@@ -5605,7 +5605,7 @@ var SETDEX_ADV = {
     },
     "Masquerain": {
         "Bugg Catcher Cale": {
-            "level": 24,
+            "level": 22,
             "ivs": {
                 "hp": 31,
                 "at": 31,
