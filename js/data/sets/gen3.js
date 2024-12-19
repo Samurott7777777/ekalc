@@ -16702,9 +16702,9 @@ var SETDEX_ADV = {
             "nature": "Careful",
             "moves": [
                 "Silver Wind",
-                "Rock Slide",
+                "Hidden Power Ground",
                 "Superpower",
-                "Hidden Power Ghost"
+                "Shadow Punch"
             ]
         },
         "Grunt 1***": {
@@ -16777,10 +16777,10 @@ var SETDEX_ADV = {
             "item": "Quick Claw",
             "nature": "Quirky",
             "moves": [
-                "Frustration",
+                "Double Edge",
                 "Flash Cannon",
                 "X-Scissor",
-                "Rock Slide"
+                "Hidden Power Rock"
             ]
         },
         "Ace Trainer Vermillion": {
