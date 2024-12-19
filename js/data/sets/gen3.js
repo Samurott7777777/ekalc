@@ -19977,7 +19977,7 @@ var SETDEX_ADV = {
             "item": "Lum Berry",
             "nature": "Sassy",
             "moves": [
-                "Ancientpower ",
+                "Ancient Power ",
                 "X-Scissor",
                 "Earth Power",
                 "Submission"
