@@ -6369,7 +6369,7 @@ var SETDEX_ADV = {
             ]
         },
         "Scientist Jose": {
-            "level": 75,
+            "level": 65,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -14877,7 +14877,7 @@ var SETDEX_ADV = {
             ]
         },
         "Gym Leader Koga": {
-            "level": 56,
+            "level": 55,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -25876,7 +25876,7 @@ var SETDEX_ADV = {
             ]
         },
         "Scientist Beau": {
-            "level": 63,
+            "level": 61,
             "ivs": {
                 "hp": 31,
                 "at": 31,
