@@ -971,7 +971,7 @@ var GSC_PATCH = {
     Aipom: { types: ['Normal'], bs: { hp: 55, at: 70, df: 55, sa: 40, sd: 55, sp: 105 }, weightkg: 11.5 },
     Ampharos: {
         types: ['Electric'],
-        bs: { hp: 100, at: 75, df: 75, sa: 115, sd: 90, sp: 55 },
+        bs: { hp: 90, at: 75, df: 85, sa: 115, sd: 90, sp: 55 },
         weightkg: 61.5
     },
     Ariados: {
