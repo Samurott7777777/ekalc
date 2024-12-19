@@ -19977,7 +19977,7 @@ var SETDEX_ADV = {
             "item": "Lum Berry",
             "nature": "Sassy",
             "moves": [
-                "Ancient Power ",
+                "Ancientpower",
                 "X-Scissor",
                 "Earth Power",
                 "Submission"
@@ -26209,7 +26209,7 @@ var SETDEX_ADV = {
             ]
         },
         "Grunt 6*": {
-            "level": 62,
+            "level": 60,
             "ivs": {
                 "hp": 31,
                 "at": 31,
