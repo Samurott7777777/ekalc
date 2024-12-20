@@ -28266,7 +28266,7 @@ var SETDEX_ADV = {
                 "Psychic",
                 "Shadow Ball",
                 "Flamethrower",
-                "Ice Beam"
+                "Brick Break"
             ]
         }
     },
