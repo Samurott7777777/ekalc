@@ -7501,7 +7501,7 @@ var SETDEX_ADV = {
             ]
         },
         "Black Belt Koichi": {
-            "level": 64,
+            "level": 68,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -13029,7 +13029,7 @@ var SETDEX_ADV = {
             ]
         },
         "Black Belt Koichi": {
-            "level": 64,
+            "level": 68,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -20752,7 +20752,7 @@ var SETDEX_ADV = {
             ]
         },
         "Black Belt Koichi": {
-            "level": 64,
+            "level": 68,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -23900,7 +23900,7 @@ var SETDEX_ADV = {
             ]
         },
         "Black Belt Koichi": {
-            "level": 64,
+            "level": 68,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -26363,7 +26363,7 @@ var SETDEX_ADV = {
             ]
         },
         "Black Belt Koichi": {
-            "level": 64,
+            "level": 68,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -26574,7 +26574,7 @@ var SETDEX_ADV = {
             ]
         },
         "Black Belt Koichi": {
-            "level": 64,
+            "level": 68,
             "ivs": {
                 "hp": 31,
                 "at": 31,
