@@ -7513,9 +7513,9 @@ var SETDEX_ADV = {
             "item": "Focus Band",
             "nature": "",
             "moves": [
-                "Detect",
+                "Swords Dance",
                 "Megahorn",
-                "Brick Break",
+                "Ancient Power",
                 "Superpower"
             ]
         },
@@ -13041,9 +13041,9 @@ var SETDEX_ADV = {
             "item": "Focus Band",
             "nature": "",
             "moves": [
-                "Fake Out",
+                "Bulk Up",
                 "Superpower",
-                "Earth Power",
+                "Ancientpower",
                 "Shadow Punch"
             ]
         },
@@ -23913,9 +23913,9 @@ var SETDEX_ADV = {
             "nature": "",
             "moves": [
                 "Superpower",
-                "Earth Power",
+                "Earthquake",
                 "Ancient Power",
-                "Detect"
+                "Bulk Up"
             ]
         },
         "Grunt 9": {
@@ -26375,9 +26375,9 @@ var SETDEX_ADV = {
             "item": "Black Belt",
             "nature": "",
             "moves": [
-                "Mach Punch",
-                "Rock Slide",
-                "Brick Break",
+                "Bulk Up",
+                "Ancientpower",
+                "Pursuit",
                 "Superpower"
             ]
         },
@@ -26588,7 +26588,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Bulk Up",
                 "Rock Slide",
-                "Detect",
+                "Earthquake",
                 "Superpower"
             ]
         },
