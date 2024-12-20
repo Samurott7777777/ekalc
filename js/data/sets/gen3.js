@@ -1852,7 +1852,7 @@ var SETDEX_ADV = {
             ]
         },
         "Cool Couple Ray And Tyra": {
-            "level": 90,
+            "level": 88,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -7326,7 +7326,7 @@ var SETDEX_ADV = {
             ]
         },
         "Cool Couple Ray And Tyra": {
-            "level": 90,
+            "level": 88,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -15856,7 +15856,7 @@ var SETDEX_ADV = {
             ]
         },
         "Cool Couple Ray And Tyra": {
-            "level": 90,
+            "level": 88,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -17497,7 +17497,7 @@ var SETDEX_ADV = {
             ]
         },
         "Cool Couple Ray And Tyra": {
-            "level": 90,
+            "level": 88,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -27194,7 +27194,7 @@ var SETDEX_ADV = {
             ]
         },
         "Cool Couple Ray And Tyra": {
-            "level": 90,
+            "level": 88,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -27852,7 +27852,7 @@ var SETDEX_ADV = {
             ]
         },
         "Cool Couple Ray And Tyra": {
-            "level": 90,
+            "level": 88,
             "ivs": {
                 "hp": 31,
                 "at": 31,
