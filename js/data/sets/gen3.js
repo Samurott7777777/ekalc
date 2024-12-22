@@ -4935,6 +4935,25 @@ var SETDEX_ADV = {
                 "Hidden Power Grass"
             ]
         },
+        "Swimmer Ruka": {
+            "level": 71,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Jolly",
+            "moves": [
+                "Surf",
+                "Ice Beam",
+                "Hidden Power Grass",
+                "Rest"
+            ]
+        },
         "Swimmer Dean": {
             "level": 73,
             "ivs": {
@@ -16967,7 +16986,7 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Nevermeltice",
-            "nature": "Naive",
+            "nature": "Serious",
             "moves": [
                 "Ice Beam",
                 "Earthquake",
@@ -22688,6 +22707,25 @@ var SETDEX_ADV = {
                 "Hidden Power Grass"
             ]
         },
+        "Swimmer Ruka": {
+            "level": 72,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Mystic Water",
+            "nature": "Brave",
+            "moves": [
+                "Hydro Pump",
+                "Ice Beam",
+                "Mirror Coat",
+                "Counter"
+            ]
+        },
         "Crush Girl Sharon": {
             "level": 80,
             "ivs": {
@@ -26681,7 +26719,7 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Lum Berry",
-            "nature": "Adamant",
+            "nature": "Naive",
             "moves": [
                 "Psychic",
                 "Thunderbolt",
