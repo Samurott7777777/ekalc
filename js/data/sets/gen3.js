@@ -11139,8 +11139,8 @@ var SETDEX_ADV = {
             "item": "Lum Berry",
             "nature": "Sasy",
             "moves": [
-                "Follow Me",
-                "Protect",
+                "Ice Beam",
+                "Hyper Beam",
                 "Psychic",
                 "Flamethrower"
             ]
@@ -26486,7 +26486,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Choice Band",
+            "item": "Lum Berry",
             "nature": "Naughty",
             "moves": [
                 "Superpower",
