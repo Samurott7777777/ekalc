@@ -7826,8 +7826,8 @@ var SETDEX_ADV = {
                 "Fire Punch"
             ]
         },
-        "Scientist Brayden": {
-            "level": 72,
+        "Burgler Braydon": {
+            "level": 70,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -13222,8 +13222,8 @@ var SETDEX_ADV = {
                 "-"
             ]
         },
-        "Scientist Brayden": {
-            "level": 72,
+        "Burgler Braydon": {
+            "level": 70,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -13490,8 +13490,8 @@ var SETDEX_ADV = {
                 "Drill Run"
             ]
         },
-        "Scientist Brayden": {
-            "level": 73,
+        "Burgler Braydon": {
+            "level": 72,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -19597,8 +19597,8 @@ var SETDEX_ADV = {
                 "Superpower"
             ]
         },
-        "Scientist Brayden": {
-            "level": 72,
+        "Burgler Braydon": {
+            "level": 70,
             "ivs": {
                 "hp": 31,
                 "at": 31,
