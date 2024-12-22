@@ -15009,6 +15009,25 @@ var SETDEX_ADV = {
                 "Confuse Ray"
             ]
         },
+         "Burgler Arnie": {
+            "level": 74,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Leftovers",
+            "nature": "Hasty",
+            "moves": [
+                "Gunk Shot",
+                "Air Slash",
+                "Giga Drain",
+                "Super Fang"
+            ]
+        },
         "Pokemon Ranger Logan": {
             "level": 81,
             "ivs": {
