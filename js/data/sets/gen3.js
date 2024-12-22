@@ -3665,12 +3665,12 @@ var SETDEX_ADV = {
         "Hiker Alan": {
             "level": 34,
             "ivs": {
-                "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
             },
             "item": "Sharp Beak",
             "nature": "Jolly",
@@ -11827,7 +11827,7 @@ var SETDEX_ADV = {
             ]
         },
         "Swimmer Jack": {
-            "level": 73,
+            "level": 71,
             "ivs": {
                 "hp": 31,
                 "at": 31,
