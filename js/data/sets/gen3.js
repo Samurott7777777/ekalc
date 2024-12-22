@@ -15020,7 +15020,7 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Leftovers",
-            "nature": "Hasty",
+            "nature": "Modest",
             "moves": [
                 "Gunk Shot",
                 "Air Slash",
