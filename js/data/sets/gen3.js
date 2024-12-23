@@ -15972,7 +15972,7 @@ var SETDEX_ADV = {
             ]
         },
         "Joy And Meg": {
-            "level": 81,
+            "level": 79,
             "ivs": {
                 "hp": 31,
                 "at": 31,
