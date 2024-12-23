@@ -11654,7 +11654,7 @@ var SETDEX_ADV = {
             ]
         },
         "Juggler Kayden": {
-            "level": 52,
+            "level": 50,
             "ivs": {
                 "hp": 31,
                 "at": 31,
