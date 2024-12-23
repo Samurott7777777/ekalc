@@ -9210,7 +9210,7 @@ var SETDEX_ADV = {
                 "Minimize",
                 "Slack Off",
                 "Brick Break",
-                "Gunk Shot"
+                "Sludge Bomb"
             ]
         },
         "Grunt 11": {
