@@ -27244,7 +27244,7 @@ var SETDEX_ADV = {
             "item": "Lum Berry",
             "nature": "Adamant",
             "moves": [
-                "Dragonbreath",
+                "Dragon Breath",
                 "Psychic",
                 "Recover",
                 "Calm Mind"
