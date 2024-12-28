@@ -207,7 +207,7 @@ var RBY = {
     },
     Electabuzz: {
         types: ['Electric'],
-        bs: { hp: 65, at: 83, df: 57, sp: 105, sl: 85 },
+        bs: { hp: 70, at: 83, df: 57, sp: 105, sl: 85 },
         weightkg: 30
     },
     Electrode: {
