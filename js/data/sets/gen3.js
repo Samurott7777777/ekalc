@@ -15605,7 +15605,7 @@ var SETDEX_ADV = {
     },
     "Feraligatr": {
         "Pkmn Trainer May": {
-            "level": 34,
+            "level": 36,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -15645,7 +15645,7 @@ var SETDEX_ADV = {
     },
     "Meganium": {
         "Pkmn Trainer May": {
-            "level": 34,
+            "level": 36,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -15799,7 +15799,7 @@ var SETDEX_ADV = {
     },
     "Typhlosion": {
         "Pkmn Trainer May": {
-            "level": 34,
+            "level": 36,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -15943,7 +15943,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Silk Scarf",
+            "item": "Mago Berry",
             "nature": "",
             "moves": [
                 "Extreme Speed",
