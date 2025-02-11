@@ -13185,7 +13185,7 @@ var SETDEX_ADV = {
             ]
         },
         "Pkmn Trainer May": {
-            "level": 33,
+            "level": 36,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -15318,7 +15318,7 @@ var SETDEX_ADV = {
     },
     "Flygon": {
         "Pkmn Trainer May": {
-            "level": 34,
+            "level": 36,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -15934,7 +15934,7 @@ var SETDEX_ADV = {
     },
     "Linoone": {
         "Pkmn Trainer May": {
-            "level": 34,
+            "level": 36,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -15947,9 +15947,9 @@ var SETDEX_ADV = {
             "nature": "",
             "moves": [
                 "Extreme Speed",
-                "-",
-                "-",
-                "-"
+                "Belly Drum",
+                "Hidden Power Ground",
+                "Brick Break"
             ]
         },
         "Picknicker Susie": {
