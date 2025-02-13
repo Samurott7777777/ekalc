@@ -13490,6 +13490,25 @@ var SETDEX_ADV = {
                 "Drill Run"
             ]
         },
+         "Youngster Modnar": {
+            "level": 63,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Choice Band",
+            "nature": "Docile",
+            "moves": [
+                "Double-Edge",
+                "Superpower",
+                "Psychic",
+                "Hidden Power Grass"
+            ]
+        },
         "Burgler Braydon": {
             "level": 72,
             "ivs": {
