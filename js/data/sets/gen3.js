@@ -576,8 +576,7 @@ var SETDEX_ADV = {
                 "Superpower",
                 "Earthquake"
             ]
-        }
-    },
+        },
         "Crush Girl Jocelyn": {
             "level": 81,
             "ivs": {
@@ -6172,8 +6171,7 @@ var SETDEX_ADV = {
                 "Rock Slide",
                 "Earthquake"
             ]
-        }
-    },
+        },
         "Crush Girl Sharon": {
             "level": 80,
             "ivs": {
@@ -10627,8 +10625,7 @@ var SETDEX_ADV = {
                 "Sunny Day",
                 "Hidden Power Ice"
             ]
-        }
-    },
+        },
         "Grunt 11": {
             "level": 64,
             "ivs": {
@@ -13066,8 +13063,7 @@ var SETDEX_ADV = {
                 "Sacred Fire",
                 "Tail Glow"
             ]
-        }
-    },
+        },
         "Swimmer Melissa": {
             "level": 77,
             "ivs": {
@@ -14130,8 +14126,7 @@ var SETDEX_ADV = {
                 "Body Slam",
                 "Hidden Power Ground"
             ]
-        }
-    },
+        },
         "Rocket Admin Archer 2": {
             "level": 65,
             "ivs": {
