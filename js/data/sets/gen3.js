@@ -558,6 +558,26 @@ var SETDEX_ADV = {
                 "Rock Slide"
             ]
         },
+        "Crush Kin Shyohei": {
+            "level": 64,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Docile",
+            "moves": [
+                "Rock Slide",
+                "Swords Dance",
+                "Superpower",
+                "Earthquake"
+            ]
+        }
+    },
         "Crush Girl Jocelyn": {
             "level": 81,
             "ivs": {
@@ -6134,6 +6154,26 @@ var SETDEX_ADV = {
                 "Hidden Power Ghost"
             ]
         },
+        "Crush Kin Shyohei": {
+            "level": 64,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Impish",
+            "moves": [
+                "Superpower",
+                "Hidden Power Ghost",
+                "Rock Slide",
+                "Earthquake"
+            ]
+        }
+    },
         "Crush Girl Sharon": {
             "level": 80,
             "ivs": {
@@ -10569,6 +10609,26 @@ var SETDEX_ADV = {
                 "Submission"
             ]
         },
+        "Aroma Lady Aura": {
+            "level": 64,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Bashful",
+            "moves": [
+                "Overheat",
+                "Solar Beam",
+                "Sunny Day",
+                "Hidden Power Ice"
+            ]
+        }
+    },
         "Grunt 11": {
             "level": 64,
             "ivs": {
@@ -12988,6 +13048,26 @@ var SETDEX_ADV = {
                 "Synthesis"
             ]
         },
+        "Aroma Lady Aura": {
+            "level": 67,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Quick Claw",
+            "nature": "Quiet",
+            "moves": [
+                "Petal Dance",
+                "Hidden Power Ice",
+                "Sacred Fire",
+                "Tail Glow"
+            ]
+        }
+    },
         "Swimmer Melissa": {
             "level": 77,
             "ivs": {
@@ -14024,7 +14104,7 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Black Glasses",
-            "nature": "Naughty",
+            "nature": "Quiet",
             "moves": [
                 "Pursuit",
                 "Dragon Dance",
@@ -14032,6 +14112,26 @@ var SETDEX_ADV = {
                 "Earthquake"
             ]
         },
+        "Crush Kin Shyohei": {
+            "level": 64,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Naughty",
+            "moves": [
+                "Pursuit",
+                "Rock Slide",
+                "Body Slam",
+                "Hidden Power Ground"
+            ]
+        }
+    },
         "Rocket Admin Archer 2": {
             "level": 65,
             "ivs": {
@@ -24091,6 +24191,25 @@ var SETDEX_ADV = {
                 "Extrasensory"
             ]
         },
+        "Aroma Lady Aura": {
+            "level": 64,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Beryy",
+            "nature": "Modest",
+            "moves": [
+                "Sunny Day",
+                "Shadow Ball",
+                "Psychic",
+                "Self-Destruct"
+            ]
+        },
         "Grunt 11": {
             "level": 64,
             "ivs": {
@@ -25445,6 +25564,25 @@ var SETDEX_ADV = {
                 "Muddy Water",
                 "Rock Slide",
                 "Earth Power"
+            ]
+        },
+        "Youngster Modnar": {
+            "level": 63,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Gentle",
+            "moves": [
+                "Muddy Water",
+                "Earthquake",
+                "Ancient Power",
+                "Curse"
             ]
         },
         "Pokemon Trainer May": {
