@@ -3512,7 +3512,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Blackglasses",
+            "item": "Black Glasses",
             "nature": "Rash",
             "moves": [
                 "Pursuit",
@@ -3786,7 +3786,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Blackglasses",
+            "item": "Black Glasses",
             "nature": "Impish",
             "moves": [
                 "Pursuit",
@@ -7259,7 +7259,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Blackglasses",
+            "item": "Black Glasses",
             "nature": "Gentle",
             "moves": [
                 "Pursuit",
@@ -7297,7 +7297,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Blackglasses",
+            "item": "Black Glasses",
             "nature": "Lax",
             "moves": [
                 "Pursuit",
@@ -7335,7 +7335,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Blackglasses",
+            "item": "Black Glasses",
             "nature": "Quirky",
             "moves": [
                 "Pursuit",
@@ -9299,7 +9299,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Blackglasses",
+            "item": "Black Glasses",
             "nature": "Impish",
             "moves": [
                 "Explosion",
@@ -9861,7 +9861,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Blackglasses",
+            "item": "Black Glasses",
             "nature": "Bashful",
             "moves": [
                 "Crunch",
@@ -11254,7 +11254,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Blackglasses",
+            "item": "Black Glasses",
             "nature": "Careful",
             "moves": [
                 "Double-Edge",
@@ -11509,7 +11509,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Blackglasses",
+            "item": "Black Glasses",
             "nature": "Jolly",
             "moves": [
                 "Pursuit",
@@ -12437,7 +12437,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Blackglasses",
+            "item": "Black Glasses",
             "nature": "Mild",
             "moves": [
                 "Thunder",
@@ -13154,7 +13154,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Blackglasses",
+            "item": "Black Glasses",
             "nature": "Sassy",
             "moves": [
                 "Pursuit",
@@ -14004,13 +14004,32 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Blackglasses",
+            "item": "Black Glasses",
             "nature": "Quirky",
             "moves": [
                 "Pursuit",
                 "-",
                 "-",
                 "-"
+            ]
+        },
+        "Youngster Modnar": {
+            "level": 63,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Black Glasses",
+            "nature": "Naughty",
+            "moves": [
+                "Pursuit",
+                "Dragon Dance",
+                "Hidden Power Rock",
+                "Earthquake"
             ]
         },
         "Rocket Admin Archer 2": {
@@ -14118,7 +14137,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Blackglasses",
+            "item": "Black Glasses",
             "nature": "Brave",
             "moves": [
                 "Ancientpower",
@@ -14137,7 +14156,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Blackglasses",
+            "item": "Black Glasses",
             "nature": "Lonely",
             "moves": [
                 "Ancientpower",
@@ -21704,7 +21723,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Blackglasses",
+            "item": "Black Glasses",
             "nature": "Sassy",
             "moves": [
                 "Flamethrower",
@@ -21799,7 +21818,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Blackglasses",
+            "item": "Black Glasses",
             "nature": "Naive",
             "moves": [
                 "Pursuit",
@@ -21837,7 +21856,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Blackglasses",
+            "item": "Black Glasses",
             "nature": "Relaxed",
             "moves": [
                 "Crunch",
@@ -21856,7 +21875,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Blackglasses",
+            "item": "Black Glasses",
             "nature": "Bashful",
             "moves": [
                 "Overheat",
@@ -21894,7 +21913,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Blackglasses",
+            "item": "Black Glasses",
             "nature": "Naughty",
             "moves": [
                 "Crunch",
@@ -21932,7 +21951,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Blackglasses",
+            "item": "Black Glasses",
             "nature": "Timid",
             "moves": [
                 "Overheat",
@@ -21989,7 +22008,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Blackglasses",
+            "item": "Black Glasses",
             "nature": "Hasty",
             "moves": [
                 "Overheat",
@@ -22008,7 +22027,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Blackglasses",
+            "item": "Black Glasses",
             "nature": "Modest",
             "moves": [
                 "Flamethrower",
@@ -23468,7 +23487,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Blackglasses\n",
+            "item": "Black Glasses",
             "nature": "@BLACKGLASSES",
             "moves": [
                 "Shadow Punch",
@@ -23544,7 +23563,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Blackglasses",
+            "item": "Black Glasses",
             "nature": "Quirky",
             "moves": [
                 "Shadow Ball",
@@ -23563,7 +23582,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Blackglasses",
+            "item": "Black Glasses",
             "nature": "Gentle",
             "moves": [
                 "Shadow Ball",
@@ -23582,7 +23601,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Blackglasses",
+            "item": "Black Glasses",
             "nature": "Lax",
             "moves": [
                 "Crunch",
@@ -23620,7 +23639,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Blackglasses",
+            "item": "Black Glasses",
             "nature": "Mild",
             "moves": [
                 "Shadow Punch",
@@ -23639,7 +23658,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Blackglasses",
+            "item": "Black Glasses",
             "nature": "Brave",
             "moves": [
                 "Shadow Ball",
@@ -24255,7 +24274,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Blackglasses",
+            "item": "Black Glasses",
             "nature": "Hasty",
             "moves": [
                 "Double-Edge",
@@ -26313,7 +26332,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Blackglasses",
+            "item": "Black Glasses",
             "nature": "Lax",
             "moves": [
                 "Pursuit",
@@ -26351,7 +26370,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Blackglasses",
+            "item": "Black Glasses",
             "nature": "Quirky",
             "moves": [
                 "Pursuit",
