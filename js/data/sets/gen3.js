@@ -19,6 +19,27 @@ var SETDEX_ADV = {
             ]
         }
     },
+    "Eevee": {
+        "Lass Megan": {
+            "level": 13,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Serious",
+            "moves": [
+                "Double-Edge",
+                "Thunder",
+                "Hydro Pump",
+                "Fire Blast"
+            ]
+        }
+    },
     "Beedrill": {
         "Bug Catcher Anthony": {
             "level": 9,
@@ -11029,6 +11050,25 @@ var SETDEX_ADV = {
                 "Drill Run"
             ]
         },
+        "Lass Megan": {
+            "level": 33,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Impish",
+            "moves": [
+                "Air Slash",
+                "Body Slam",
+                "Steel Wing",
+                "Drill Run"
+            ]
+        },
         "Pokemon Tower Rival": {
             "level": 49,
             "ivs": {
@@ -19962,6 +20002,25 @@ var SETDEX_ADV = {
                 "Safeguard"
             ]
         },
+        "Lass Megan": {
+            "level": 33,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Sassy",
+            "moves": [
+                "Counter",
+                "Mirror Coat",
+                "Tickle",
+                "Destiny Bond"
+            ]
+        },
         "Channeler Laurel": {
             "level": 49,
             "ivs": {
@@ -28338,6 +28397,25 @@ var SETDEX_ADV = {
         }
     },
     "Mantine": {
+        "Lass Megan": {
+            "level": 33,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Timid",
+            "moves": [
+                "Aeroblast",
+                "Hidden Power Electric",
+                "Hydro Pump",
+                "Ice Beam"
+            ]
+        },
         "Tuber Alexis": {
             "level": 82,
             "ivs": {
