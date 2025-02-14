@@ -24553,6 +24553,25 @@ var SETDEX_ADV = {
                 "Earth Power"
             ]
         },
+        "May 2": {
+            "level": 64,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Timid",
+            "moves": [
+                "Air Slash",
+                "Dragon Claw",
+                "Earthquake",
+                "Fire Blast"
+            ]
+        },
         "Rocket Admin Ariana 2": {
             "level": 65,
             "ivs": {
