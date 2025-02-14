@@ -7152,6 +7152,25 @@ var SETDEX_ADV = {
                 "Confuse Ray"
             ]
         },
+        "Lass Andrea": {
+            "level": 33,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Twisted Spoon",
+            "nature": "Sassy",
+            "moves": [
+                "Body Slam",
+                "Psychic",
+                "Crunch",
+                "Earthquake"
+            ]
+        },
         "Picknicker Valerie": {
             "level": 46,
             "ivs": {
@@ -20021,6 +20040,25 @@ var SETDEX_ADV = {
                 "Destiny Bond"
             ]
         },
+        "Lass Andrea": {
+            "level": 33,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Bashful",
+            "moves": [
+                "Counter",
+                "Mirror Coat",
+                "Tickle",
+                "Destiny Bond"
+            ]
+        },
         "Channeler Laurel": {
             "level": 49,
             "ivs": {
@@ -26162,6 +26200,25 @@ var SETDEX_ADV = {
         }
     },
     "Castform": {
+        "Lass Andrea": {
+            "level": 33,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Quirky",
+            "moves": [
+                "Flame Wheel",
+                "Shock Wave",
+                "Bubble Beam",
+                "Aurora Beam"
+            ]
+        },
         "Bird Keeper Marlon": {
             "level": 46,
             "ivs": {
