@@ -21,7 +21,7 @@ var SETDEX_ADV = {
     },
     "Eevee": {
         "Lass Megan": {
-            "level": 13,
+            "level": 45,
             "ivs": {
                 "hp": 31,
                 "at": 31,
