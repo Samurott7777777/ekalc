@@ -4917,7 +4917,7 @@ var SETDEX_ADV = {
             ]
         },
         "Pokemon Trainer May": {
-            "level": 61,
+            "level": 67,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -4927,7 +4927,7 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Lum Berry",
-            "nature": "Impish",
+            "nature": "Mild",
             "moves": [
                 "Hydro Pump",
                 "Ice Beam",
@@ -17997,7 +17997,7 @@ var SETDEX_ADV = {
             ]
         },
         "Pokemon Trainer May": {
-            "level": 63,
+            "level": 67,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -20904,7 +20904,7 @@ var SETDEX_ADV = {
             ]
         },
         "Pokemon Trainer May": {
-            "level": 63,
+            "level": 67,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -23343,7 +23343,7 @@ var SETDEX_ADV = {
             ]
         },
         "Pokemon Trainer May": {
-            "level": 61,
+            "level": 67,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -24554,7 +24554,7 @@ var SETDEX_ADV = {
             ]
         },
         "May 2": {
-            "level": 64,
+            "level": 67,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -24564,12 +24564,12 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Lum Berry",
-            "nature": "Timid",
+            "nature": "Bold",
             "moves": [
                 "Air Slash",
-                "Dragon Claw",
+                "Draco Meteor",
                 "Earthquake",
-                "Fire Blast"
+                "Rock Slide"
             ]
         },
         "Rocket Admin Ariana 2": {
@@ -25600,7 +25600,7 @@ var SETDEX_ADV = {
             ]
         },
         "Pokemon Trainer May": {
-            "level": 63,
+            "level": 67,
             "ivs": {
                 "hp": 31,
                 "at": 31,
