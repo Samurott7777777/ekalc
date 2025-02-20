@@ -13332,10 +13332,10 @@ var SETDEX_ADV = {
             "item": "Lum",
             "nature": "Timid",
             "moves": [
-                "Hidden Power Flying",
+                "Drill Peck",
                 "Flash Cannon",
                 "Drill Run",
-                "Growl"
+                "Spikes"
             ]
         },
         "Grunt 5": {
@@ -15811,7 +15811,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Waterfall",
                 "Earthquake",
-                "Ice Beam",
+                "Blizzard",
                 "Dragon Dance"
             ]
         },
@@ -16006,7 +16006,7 @@ var SETDEX_ADV = {
                 "Fire Punch",
                 "Thunder Punch",
                 "Superpower",
-                "Earthquake"
+                "Double-Edge"
             ]
         },
         "Grunt 7": {
