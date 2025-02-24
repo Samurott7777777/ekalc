@@ -4275,6 +4275,26 @@ var SETDEX_ADV = {
                 "Hidden Power Electric"
             ]
         },
+        "Swimmer Alice": {
+            "level": 75,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Soul Dew",
+            "nature": "Relaxed",
+            "moves": [
+                "Hydro Pump",
+                "Blizzard",
+                "Gunk Shot",
+                "Hidden Power Electric"
+            ]
+        }
+    },
         "Swimmer Shirly": {
             "level": 87,
             "ivs": {
@@ -4726,7 +4746,7 @@ var SETDEX_ADV = {
                 "Thunder"
             ]
         },
-        "Grunt 4*": {
+        "Grunt 4": {
             "level": 63,
             "ivs": {
                 "hp": 31,
@@ -4745,7 +4765,7 @@ var SETDEX_ADV = {
                 "Dragon Dance"
             ]
         },
-        "Grunt 5*": {
+        "Grunt 5": {
             "level": 64,
             "ivs": {
                 "hp": 31,
@@ -4802,6 +4822,26 @@ var SETDEX_ADV = {
                 "Substitute"
             ]
         },
+        "Swimmer Alice": {
+            "level": 73,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Choice Band",
+            "nature": "Jolly",
+            "moves": [
+                "Sky Attack",
+                "Splash",
+                "Splash",
+                "Splash"
+            ]
+        }
+    },
         "Ace Trainer Cerulean": {
             "level": 83,
             "ivs": {
@@ -5490,6 +5530,26 @@ var SETDEX_ADV = {
                 "Ice Beam"
             ]
         },
+        "Swimmer Connie": {
+            "level": 70,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Mystic Water",
+            "nature": "Careful",
+            "moves": [
+                "Psycho Boost",
+                "Hydro Pump",
+                "Thunder",
+                "Blizzard"
+            ]
+        }
+    },
         "Swimmer Abigail": {
             "level": 80,
             "ivs": {
@@ -11615,7 +11675,7 @@ var SETDEX_ADV = {
                 "Aqua Jet"
             ]
         },
-        "Rocket Grunt*": {
+        "Rocket Grunt": {
             "level": 36,
             "ivs": {
                 "hp": 31,
@@ -11748,6 +11808,26 @@ var SETDEX_ADV = {
                 "Poison Fang"
             ]
         },
+        "Swimmer Axle": {
+            "level": 73,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Docile",
+            "moves": [
+                "Crunch",
+                "Hydro Pump",
+                "Ancientpower",
+                "Blizzard"
+            ]
+        }
+    },
         "Biker William": {
             "level": 87,
             "ivs": {
@@ -12581,7 +12661,7 @@ var SETDEX_ADV = {
                 "Substitute"
             ]
         },
-        "Grunt 2*": {
+        "Grunt 2": {
             "level": 50,
             "ivs": {
                 "hp": 31,
@@ -12600,7 +12680,7 @@ var SETDEX_ADV = {
                 "Signal Beam"
             ]
         },
-        "Grunt 5*": {
+        "Grunt 5": {
             "level": 64,
             "ivs": {
                 "hp": 31,
@@ -12657,6 +12737,26 @@ var SETDEX_ADV = {
                 "Confuse Ray"
             ]
         },
+        "Swimmer Connie": {
+            "level": 70,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Magnet",
+            "moves": [
+                "Thunder",
+                "Hidden Power Grass",
+                "Splash",
+                "Splash"
+            ]
+        }
+    },
         "Pokemon Ranger Beth": {
             "level": 81,
             "ivs": {
@@ -13003,6 +13103,26 @@ var SETDEX_ADV = {
                 "Hidden Power Grass"
             ]
         },
+        "Swimmer Axle": {
+            "level": 73,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Bashful",
+            "moves": [
+                "Thunder",
+                "Surf",
+                "Hidden Power Flying",
+                "Sing"
+            ]
+        }
+    },
         "Grunt 3**": {
             "level": 95,
             "ivs": {
@@ -15872,6 +15992,26 @@ var SETDEX_ADV = {
                 "Dragon Dance"
             ]
         },
+        "Swimmer Douglas": {
+            "level": 73,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Modest",
+            "moves": [
+                "Earthquake",
+                "Hydro Pump",
+                "Hidden Power Rock",
+                "Dragon Dance"
+            ]
+        }
+    },
         "Crush Combo Mik And Kia": {
             "level": 77,
             "ivs": {
@@ -16994,7 +17134,7 @@ var SETDEX_ADV = {
                 "Shadow Punch"
             ]
         },
-        "Grunt 1***": {
+        "Grunt 1": {
             "level": 62,
             "ivs": {
                 "hp": 31,
@@ -17013,7 +17153,7 @@ var SETDEX_ADV = {
                 "Air Slash"
             ]
         },
-        "Grunt 4*": {
+        "Grunt 4": {
             "level": 63,
             "ivs": {
                 "hp": 31,
@@ -17070,6 +17210,26 @@ var SETDEX_ADV = {
                 "Hidden Power Rock"
             ]
         },
+        "Swimmer Axle": {
+            "level": 73,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Quick Claw",
+            "nature": "Bold",
+            "moves": [
+                "Flash Cannon",
+                "X-Scissor",
+                "Superpower",
+                "Extreme Speed"
+            ]
+        }
+    },
         "Ace Trainer Vermillion": {
             "level": 84,
             "ivs": {
@@ -17475,6 +17635,26 @@ var SETDEX_ADV = {
                 "Rock Slide"
             ]
         },
+        "Swimmer Alice": {
+            "level": 73,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Timid",
+            "moves": [
+                "Muddy Water",
+                "Earthquake",
+                "Hidden Power Flying",
+                "Thunderbolt"
+            ]
+        }
+    },
         "Biker Virtue": {
             "level": 80,
             "ivs": {
@@ -19287,6 +19467,26 @@ var SETDEX_ADV = {
                 "Thunder Punch"
             ]
         },
+        "Swimmer Connie": {
+            "level": 70,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Quiet",
+            "moves": [
+                "Surf",
+                "Giga Drain",
+                "Ice Beam",
+                "Thunder Punch"
+            ]
+        }
+    },
         "Tuber Amira": {
             "level": 80,
             "ivs": {
@@ -20593,6 +20793,25 @@ var SETDEX_ADV = {
                 "Dragon Breath",
                 "Ice Beam",
                 "Return"
+            ]
+        },
+        "Swimmer Connie": {
+            "level": 70,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Rash",
+            "moves": [
+                "Surf",
+                "Body Slam",
+                "Ice Beam",
+                "Hidden Power Electric"
             ]
         },
         "Ace Trainer Cerulean": {
@@ -22038,6 +22257,26 @@ var SETDEX_ADV = {
                 "Hidden Power Grass"
             ]
         },
+        "Swimmer Douglas": {
+            "level": 73,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Serious",
+            "moves": [
+                "Crunch",
+                "Pursuit",
+                "Hidden Power Water",
+                "Wild Charge"
+            ]
+        }
+    },
         "Gym Leader Blaine": {
             "level": 77,
             "ivs": {
@@ -22707,6 +22946,26 @@ var SETDEX_ADV = {
                 "Rock Slide"
             ]
         },
+        "Swimmer Douglas": {
+            "level": 73,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Metal Coat",
+            "nature": "Bashful",
+            "moves": [
+                "Meteor Mash",
+                "Sludge Bomb",
+                "Earth Power",
+                "Rock Slide"
+            ]
+        }
+    },
         "Rocket Admin Petral": {
             "level": 81,
             "ivs": {
