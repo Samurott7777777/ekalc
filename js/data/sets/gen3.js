@@ -4533,6 +4533,25 @@ var SETDEX_ADV = {
             ]
         }
     },
+    "Swimmer Anya": {
+            "level": 77,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Sassy",
+            "moves": [
+                "Sheer Cold",
+                "Splash",
+                "Splash",
+                "Splash"
+            ]
+        },
     "Politoed": {
         "Gym Leader Misty": {
             "level": 22,
@@ -10103,6 +10122,25 @@ var SETDEX_ADV = {
                 "Hidden Power Electric"
             ]
         },
+        "Swimmer Anya": {
+            "level": 73,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Docile",
+            "moves": [
+                "X-Scissor",
+                "Crabhammer",
+                "Crunch",
+                "Superpower"
+            ]
+        },
         "Cooltrainer Daisuke": {
             "level": 89,
             "ivs": {
@@ -11824,6 +11862,25 @@ var SETDEX_ADV = {
                 "Gunk Shot",
                 "Giga Drain",
                 "Ice Beam"
+            ]
+        },
+        "Swimmer Anya": {
+            "level": 73,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Naughty",
+            "moves": [
+                "Surf",
+                "Gunk Shot",
+                "Ice Beam",
+                "Splash"
             ]
         },
         "Biker Steering": {
