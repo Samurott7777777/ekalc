@@ -5548,8 +5548,7 @@ var SETDEX_ADV = {
                 "Thunder",
                 "Blizzard"
             ]
-        }
-    },
+        },
         "Swimmer Abigail": {
             "level": 80,
             "ivs": {
