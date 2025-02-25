@@ -12751,7 +12751,7 @@ var SETDEX_ADV = {
                 "Splash",
                 "Splash"
             ]
-        }
+        },
         "Pokemon Ranger Beth": {
             "level": 81,
             "ivs": {
@@ -20802,7 +20802,8 @@ var SETDEX_ADV = {
                 "Body Slam",
                 "Ice Beam",
                 "Hidden Power Electric"
-            
+            ]
+        },
         "Ace Trainer Cerulean": {
             "level": 83,
             "ivs": {
