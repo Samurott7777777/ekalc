@@ -19484,8 +19484,7 @@ var SETDEX_ADV = {
                 "Ice Beam",
                 "Thunder Punch"
             ]
-        }
-    },
+        },
         "Tuber Amira": {
             "level": 80,
             "ivs": {
