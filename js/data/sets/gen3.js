@@ -4293,8 +4293,7 @@ var SETDEX_ADV = {
                 "Gunk Shot",
                 "Hidden Power Electric"
             ]
-        }
-    },
+        },
         "Swimmer Shirly": {
             "level": 87,
             "ivs": {
@@ -4840,8 +4839,7 @@ var SETDEX_ADV = {
                 "Splash",
                 "Splash"
             ]
-        }
-    },
+        },
         "Ace Trainer Cerulean": {
             "level": 83,
             "ivs": {
@@ -11825,8 +11823,7 @@ var SETDEX_ADV = {
                 "Ancientpower",
                 "Blizzard"
             ]
-        }
-    },
+        },
         "Biker William": {
             "level": 87,
             "ivs": {
@@ -13119,8 +13116,7 @@ var SETDEX_ADV = {
                 "Hidden Power Flying",
                 "Sing"
             ]
-        }
-    },
+        },
         "Grunt 3**": {
             "level": 95,
             "ivs": {
@@ -16008,8 +16004,7 @@ var SETDEX_ADV = {
                 "Hidden Power Rock",
                 "Dragon Dance"
             ]
-        }
-    },
+        },
         "Crush Combo Mik And Kia": {
             "level": 77,
             "ivs": {
@@ -17226,8 +17221,7 @@ var SETDEX_ADV = {
                 "Superpower",
                 "Extreme Speed"
             ]
-        }
-    },
+        },
         "Ace Trainer Vermillion": {
             "level": 84,
             "ivs": {
@@ -17651,8 +17645,7 @@ var SETDEX_ADV = {
                 "Hidden Power Flying",
                 "Thunderbolt"
             ]
-        }
-    },
+        },
         "Biker Virtue": {
             "level": 80,
             "ivs": {
@@ -22271,8 +22264,7 @@ var SETDEX_ADV = {
                 "Hidden Power Water",
                 "Wild Charge"
             ]
-        }
-    },
+        },
         "Gym Leader Blaine": {
             "level": 77,
             "ivs": {
@@ -22960,8 +22952,7 @@ var SETDEX_ADV = {
                 "Earth Power",
                 "Rock Slide"
             ]
-        }
-    },
+        },
         "Rocket Admin Petral": {
             "level": 81,
             "ivs": {
