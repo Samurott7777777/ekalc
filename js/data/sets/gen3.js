@@ -28500,7 +28500,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Cerulean": {
-            "level": 83,
+            "level": 81,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -28538,7 +28538,7 @@ var SETDEX_ADV = {
             ]
         },
         "Five Island Meadow Rocket Grunt 1": {
-            "level": 95,
+            "level": 92,
             "ivs": {
                 "hp": 31,
                 "at": 31,
