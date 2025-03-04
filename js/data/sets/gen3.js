@@ -21534,7 +21534,7 @@ var SETDEX_ADV = {
                 "Hi Jump Kick"
             ]
         },
-        "Young Couple Gia And Jes": {
+        "Gamer Slick": {
             "level": 45,
             "ivs": {
                 "hp": 31,
@@ -21548,9 +21548,9 @@ var SETDEX_ADV = {
             "nature": "Lonely",
             "moves": [
                 "Drill Run",
-                "Body Slam",
+                "Tri Attack",
                 "Drill Peck",
-                "Steel Wing"
+                "Hi Jump Kick"
             ]
         },
         "Bird Keeper Marlon": {
