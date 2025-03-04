@@ -17376,6 +17376,25 @@ var SETDEX_ADV = {
                 "Self-Destruct"
             ]
         },
+        "Gamer Slick": {
+            "level": 55,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Brave",
+            "moves": [
+                "Sheer Cold",
+                "Splash",
+                "Splash",
+                "Splash"
+            ]
+        },
         "Scientist Ed": {
             "level": 65,
             "ivs": {
@@ -20325,6 +20344,25 @@ var SETDEX_ADV = {
                 "Encore"
             ]
         },
+        "Gamer Slick": {
+            "level": 51,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Quirky",
+            "moves": [
+                "Counter",
+                "Mirror Coat",
+                "Destiny Bond",
+                "Encore"
+            ]
+        },
         "Biker Gerald": {
             "level": 51,
             "ivs": {
@@ -21535,7 +21573,7 @@ var SETDEX_ADV = {
             ]
         },
         "Gamer Slick": {
-            "level": 45,
+            "level": 51,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -21544,7 +21582,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Metal Coat",
+            "item": "Lum Berry",
             "nature": "Lonely",
             "moves": [
                 "Drill Run",
@@ -25342,8 +25380,8 @@ var SETDEX_ADV = {
         }
     },
     "Nidoking": {
-        "Young Couple Gia And Jes": {
-            "level": 45,
+        "Gamer Slick": {
+            "level": 51,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -25352,13 +25390,13 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Soft Sand",
-            "nature": "Lonely",
+            "item": "Lum Berry",
+            "nature": "Naughty",
             "moves": [
-                "Drill Run",
+                "Earth Power",
                 "Sludge Bomb",
-                "Megahorn",
-                "Rock Slide"
+                "Blizzard",
+                "Thunder"
             ]
         },
         "Biker Gerald": {
@@ -25458,7 +25496,7 @@ var SETDEX_ADV = {
         }
     },
     "Nidoqueen": {
-        "Young Couple Gia And Jes": {
+        "Gamer Slick": {
             "level": 45,
             "ivs": {
                 "hp": 31,
@@ -25468,13 +25506,13 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Poison Barb",
-            "nature": "Mild",
+            "item": "Quick Claw",
+            "nature": "Lonely",
             "moves": [
-                "Drill Run",
-                "Sludge Bomb",
+                "Earthquake",
+                "Gunk Shot",
                 "Superpower",
-                "Ancientpower"
+                "Blizzard"
             ]
         },
         "Tamer Edgar": {
