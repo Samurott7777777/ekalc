@@ -5376,7 +5376,7 @@ var SETDEX_ADV = {
                 "Ice Beam"
             ]
         },
-        "Grunt 3*": {
+        "Grunt 3": {
             "level": 64,
             "ivs": {
                 "hp": 31,
@@ -5566,8 +5566,8 @@ var SETDEX_ADV = {
                 "Ice Beam"
             ]
         },
-        "Joy And Meg": {
-            "level": 75,
+        "Aroma Lady Kayoko": {
+            "level": 79,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -5576,8 +5576,8 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Lum Berry",
-            "nature": "Lax",
+            "item": "Twisted Spoon",
+            "nature": "Jolly",
             "moves": [
                 "Waterfall",
                 "Ice Beam",
@@ -8286,8 +8286,8 @@ var SETDEX_ADV = {
                 "Hidden Power Electric"
             ]
         },
-        "Joy And Meg": {
-            "level": 75,
+        "Aroma Lady Kayoko": {
+            "level": 79,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -8297,12 +8297,12 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Lum Berry",
-            "nature": "Gentle",
+            "nature": "Brave",
             "moves": [
                 "Ice Beam",
                 "Psychic",
                 "Lovely Kiss",
-                "Fake Out"
+                "Hidden Power Fire"
             ]
         },
         "Ace Trainer Saffron": {
@@ -10837,8 +10837,8 @@ var SETDEX_ADV = {
                 "Hidden Power Ice"
             ]
         },
-        "Joy And Meg": {
-            "level": 75,
+        "Aroma Lady Kayoko": {
+            "level": 79,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -10851,7 +10851,7 @@ var SETDEX_ADV = {
             "nature": "Impish",
             "moves": [
                 "Extreme Speed",
-                "Heat Wave",
+                "Fire Blast",
                 "Wild Charge",
                 "Hidden Power Grass"
             ]
@@ -18357,6 +18357,25 @@ var SETDEX_ADV = {
                 "Leaf Blade",
                 "Thunder Punch",
                 "Hidden Power Ice"
+            ]
+        },
+        "Aroma Lady Kayoko": {
+            "level": 79,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Petaya Berry",
+            "nature": "Gentle",
+            "moves": [
+                "Hidden Power Fire",
+                "Leaf Blade",
+                "Thunder Punch",
+                "Dragon Claw"
             ]
         },
         "Biker Jaxon": {
@@ -26367,7 +26386,7 @@ var SETDEX_ADV = {
                 "Milk Drink"
             ]
         },
-        "Grunt 3*": {
+        "Grunt 3": {
             "level": 64,
             "ivs": {
                 "hp": 31,
@@ -26424,8 +26443,8 @@ var SETDEX_ADV = {
                 "Shadow Ball"
             ]
         },
-        "Joy And Meg": {
-            "level": 75,
+        "Aroma Lady Kayoko": {
+            "level": 79,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -26435,11 +26454,11 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Leftovers",
-            "nature": "Quiet",
+            "nature": "Brave",
             "moves": [
-                "Double-Edge",
+                "Amnesia",
                 "Iron Tail",
-                "Superpower",
+                "Milk Drink",
                 "Curse"
             ]
         },
