@@ -1243,6 +1243,25 @@ var SETDEX_ADV = {
                 "-"
             ]
         },
+        "Cooltrainer Shinu": {
+            "level": 96,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Sharp Beak",
+            "nature": "Hasty",
+            "moves": [
+                "Air Slash",
+                "Ancient Power",
+                "Earthquake",
+                "Double Edge"
+            ]
+        },
         "Bird Keeper Falkner": {
             "level": 100,
             "ivs": {
@@ -5680,7 +5699,26 @@ var SETDEX_ADV = {
                 "Blizzard"
             ]
         },
-        "Grunt 3**": {
+        "Cooltrainer Shinu": {
+            "level": 96,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Twisted Spoon",
+            "nature": "Quiet",
+            "moves": [
+                "Water Spout",
+                "Psychic",
+                "Blizzard",
+                "Thunder"
+            ]
+        },
+        "Grunt 3": {
             "level": 95,
             "ivs": {
                 "hp": 31,
@@ -15102,6 +15140,25 @@ var SETDEX_ADV = {
                 "Destiny Bond"
             ]
         },
+        "Cooltrainer Shinu": {
+            "level": 96,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum  Berry",
+            "nature": "Rash",
+            "moves": [
+                "Thunderbolt",
+                "Psychic",
+                "Ice Beam",
+                "Protect"
+            ]
+        },
         "Pokemon Ranger Morty": {
             "level": 100,
             "ivs": {
@@ -15963,6 +16020,25 @@ var SETDEX_ADV = {
                 "Draco Meteor",
                 "Fire Blast",
                 "Ancientpower"
+            ]
+        },
+        "Cooltrainer  Shinu": {
+            "level": 96,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Naive",
+            "moves": [
+                "Sky Attack",
+                "Earthquake",
+                "Draco Meteor",
+                "Fire Blast"
             ]
         },
         "Pokemon Ranger Jackson": {
@@ -22283,6 +22359,25 @@ var SETDEX_ADV = {
                 "Crunch"
             ]
         },
+        "Cooltrainer Shinu": {
+            "level": 96,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Scope Lens",
+            "nature": "Hardy",
+            "moves": [
+                "Thunderbolt",
+                "Explosion",
+                "Ice Beam",
+                "Gunk Shot"
+            ]
+        },
         "Ruin Maniac Stanly": {
             "level": 95,
             "ivs": {
@@ -25407,6 +25502,25 @@ var SETDEX_ADV = {
                 "Aeroblast",
                 "Draco Meteor",
                 "Fire Blast",
+                "Earthquake"
+            ]
+        },
+        "Cool Trainer Shinu": {
+            "level": 96,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Leftovers",
+            "nature": "Jolly",
+            "moves": [
+                "Sky Attack",
+                "Draco Meteor",
+                "Dragon Dance",
                 "Earthquake"
             ]
         },
