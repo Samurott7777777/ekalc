@@ -17916,7 +17916,7 @@ var SETDEX_ADV = {
                 "-"
             ]
         },
-        "Grunt 1**": {
+        "Grunt 1": {
             "level": 51,
             "ivs": {
                 "hp": 31,
@@ -18085,6 +18085,25 @@ var SETDEX_ADV = {
                 "Ancientpower",
                 "Hidden Power Grass",
                 "X-Scissor"
+            ]
+        },
+        "Hiker Dusty": {
+            "level": 95,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Choice Band",
+            "nature": "Quirky",
+            "moves": [
+                "Earthquake",
+                "Sky Attack",
+                "X-Scissor",
+                "Double Edge"
             ]
         },
         "Juggler Edward": {
@@ -24583,6 +24602,25 @@ var SETDEX_ADV = {
                 "Mean Look"
             ]
         },
+        "Hiker Dusty": {
+            "level": 95,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Leftovers",
+            "nature": "Relaxed",
+            "moves": [
+                "Will-O-Wisp",
+                "Superpower",
+                "Shadow Ball",
+                "Earthquake"
+            ]
+        },
         "Ruin Maniac Stanly": {
             "level": 95,
             "ivs": {
@@ -26323,7 +26361,26 @@ var SETDEX_ADV = {
                 "Ancientpower"
             ]
         },
-        "Grunt 3**": {
+        "Hiker Dusty": {
+            "level": 95,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Quick Claw",
+            "nature": "Calm",
+            "moves": [
+                "Hydro Pump",
+                "Earthquake",
+                "Blizzard",
+                "Head Smash"
+            ]
+        },
+        "Grunt 3": {
             "level": 95,
             "ivs": {
                 "hp": 31,
@@ -27890,6 +27947,25 @@ var SETDEX_ADV = {
                 "Earthquake"
             ]
         },
+        "Hiker Dusty": {
+            "level": 95,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Leftovers",
+            "nature": "Hasty",
+            "moves": [
+                "Draco Meteor",
+                "Sky Attack",
+                "Superpower",
+                "Earthquake"
+            ]
+        },
         "Team Rocket Admin (Proton) 4": {
             "level": 96,
             "ivs": {
@@ -28393,6 +28469,25 @@ var SETDEX_ADV = {
                 "Head Smash",
                 "Explosion",
                 "-",
+                "-"
+            ]
+        },
+        "Hiker Dusty": {
+            "level": 95,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Quick Claw",
+            "nature": "Jolly",
+            "moves": [
+                "Head Smash",
+                "Explosion",
+                "Earthquake",
                 "-"
             ]
         },
