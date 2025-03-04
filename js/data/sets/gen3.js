@@ -14065,6 +14065,25 @@ var SETDEX_ADV = {
                 "Rain Dance",
                 "X-Scissor"
             ]
+        },
+        "Black Belt Breaker": {
+            "level": 95,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Rash",
+            "moves": [
+                "Ancientpower",
+                "Head Smash",
+                "Hydro Pump",
+                "Earthquake"
+            ]
         }
     },
     "Kirlia": {
@@ -20745,6 +20764,25 @@ var SETDEX_ADV = {
                 "X-Scissor"
             ]
         },
+        "Black Belt Breaker": {
+            "level": 95,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Focus Band",
+            "nature": "Docile",
+            "moves": [
+                "Silver Wind",
+                "Ancientpower",
+                "Superpower",
+                "-"
+            ]
+        },
         "Bug Catcher Bugsy": {
             "level": 100,
             "ivs": {
@@ -23239,6 +23277,25 @@ var SETDEX_ADV = {
                 "Earthquake"
             ]
         },
+        "Black Belt Breaker": {
+            "level": 95,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Leftovers",
+            "nature": "Relaxed",
+            "moves": [
+                "Meteor Mash",
+                "Earthquake",
+                "Rock Slide",
+                "Hidden Power Grass"
+            ]
+        },
         "Ruin Maniac Foster": {
             "level": 99,
             "ivs": {
@@ -23484,6 +23541,25 @@ var SETDEX_ADV = {
             "moves": [
                 "Hydro Pump",
                 "Ice Beam",
+                "Hidden Power Electric",
+                "Earthquake"
+            ]
+        },
+        "Black Belt Breaker": {
+            "level": 95,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Focus Band",
+            "nature": "Naive",
+            "moves": [
+                "Water Spout",
+                "Blizzard",
                 "Hidden Power Electric",
                 "Earthquake"
             ]
@@ -27331,6 +27407,25 @@ var SETDEX_ADV = {
                 "Head Smash",
                 "Earthquake",
                 "Bulk Up"
+            ]
+        },
+        "Black Belt Breaker": {
+            "level": 95,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Focus Band",
+            "nature": "Adamant",
+            "moves": [
+                "Superpower",
+                "Earthquake",
+                "Ancientpower",
+                "Hidden Power Ghost"
             ]
         },
         "Black Belt Chuck": {
