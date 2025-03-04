@@ -3464,6 +3464,25 @@ var SETDEX_ADV = {
                 "Rest"
             ]
         },
+        "Picnicker Yuzu": {
+            "level": 95,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Leftovers",
+            "nature": "Naive",
+            "moves": [
+                "Baton Pass",
+                "Wrap",
+                "Cosmic Power",
+                "Rest"
+            ]
+        },
         "Bug Catcher Bugsy": {
             "level": 100,
             "ivs": {
@@ -13719,6 +13738,25 @@ var SETDEX_ADV = {
                 "X-Scissor"
             ]
         },
+        "Picnicker Yuzu": {
+            "level": 95,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Leftovers",
+            "nature": "Serious",
+            "moves": [
+                "Earthquake",
+                "Ancientpower",
+                "Rock Slide",
+                "Rest"
+            ]
+        },
         "Tamer Evan": {
             "level": 98,
             "ivs": {
@@ -14545,6 +14583,25 @@ var SETDEX_ADV = {
                 "Head Smash",
                 "Crunch",
                 "-"
+            ]
+        },
+        "Picnicker Yuzu": {
+            "level": 95,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Leftovers",
+            "nature": "Docile",
+            "moves": [
+                "Ancientpower",
+                "Superpower",
+                "Dragon Dance",
+                "Earthquake"
             ]
         },
         "Cooltrainer Daniel": {
@@ -18680,6 +18737,25 @@ var SETDEX_ADV = {
             "moves": [
                 "Psychic",
                 "Ancientpower",
+                "Egg Bomb",
+                "Hidden Power Fire"
+            ]
+        },
+        "Picnicker Yuzu": {
+            "level": 95,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Lax",
+            "moves": [
+                "Psychic",
+                "Explosion",
                 "Egg Bomb",
                 "Hidden Power Fire"
             ]
@@ -22855,6 +22931,25 @@ var SETDEX_ADV = {
                 "Thunder",
                 "Fire Blast",
                 "Blizzard"
+            ]
+        },
+        "Picnicker Yuzu": {
+            "level": 96,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Twisted Spoon",
+            "nature": "Impish",
+            "moves": [
+                "Psychic",
+                "Flamethrower",
+                "Ice Beam",
+                "Thunderbolt"
             ]
         },
         "Team Rocket Admin (Proton) 4": {
