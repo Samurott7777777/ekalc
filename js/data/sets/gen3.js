@@ -15098,7 +15098,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Shadow Ball",
                 "Hypnosis",
-                "Acid Armor",
+                "Thunderbolt",
                 "Ice Beam"
             ]
         },
