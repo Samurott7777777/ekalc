@@ -465,7 +465,7 @@ var RBY = {
     },
     Mewtwo: {
         types: ['Psychic'],
-        bs: { hp: 110, at: 120, df: 90, sp: 130, sl: 154 },
+        bs: { hp: 110, at: 120, df: 90, sp: 140, sl: 154 },
         weightkg: 122
     },
     Moltres: {
