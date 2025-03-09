@@ -11471,7 +11471,7 @@ var SETDEX_ADV = {
             ]
         },
         "Crush Combo Mik And Kia": {
-            "level": 77,
+            "level": 92,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -11480,13 +11480,13 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Lum Berry",
-            "nature": "Sasy",
+            "item": "Focus Band",
+            "nature": "Bold",
             "moves": [
-                "Ice Beam",
-                "Hyper Beam",
-                "Psychic",
-                "Flamethrower"
+                "Metronome",
+                "-",
+                "-",
+                "-"
             ]
         },
         "Twins Miu & Maya": {
@@ -11605,6 +11605,25 @@ var SETDEX_ADV = {
                 "Earthquake",
                 "Superpower",
                 "Pursuit"
+            ]
+        },
+        "Crush Kin Mik and Kya": {
+            "level":81,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "White Herb",
+            "nature": "Timid",
+            "moves": [
+                "Earthquake",
+                "Double-Edge",
+                "Fire Blast",
+                "Blizzard"
             ]
         },
         "Biker Jamal": {
@@ -16329,7 +16348,7 @@ var SETDEX_ADV = {
             ]
         },
         "Crush Combo Mik And Kia": {
-            "level": 77,
+            "level": 81,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -16339,7 +16358,7 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Hard Stone",
-            "nature": "Naughty",
+            "nature": "Timid",
             "moves": [
                 "Hydro Pump",
                 "Ancientpower",
@@ -18256,6 +18275,25 @@ var SETDEX_ADV = {
                 "Rock Slide",
                 "Aerial Ace",
                 "Hidden Power Water"
+            ]
+        },
+        "Crush Kin Mik and Kia": {
+            "level": 81,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Choice Band",
+            "nature": "Adamant",
+            "moves": [
+                "Earthquake",
+                "Rock Slide",
+                "Sky Attack",
+                "Hidden Power Flying"
             ]
         },
         "Ace Trainer Cinnebar": {
@@ -27866,7 +27904,7 @@ var SETDEX_ADV = {
             ]
         },
         "Crush Combo Mik And Kia": {
-            "level": 77,
+            "level": 81,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -27875,8 +27913,8 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Lum Berry",
-            "nature": "Naughty",
+            "item": "Hard Stone",
+            "nature": "Serious",
             "moves": [
                 "Superpower",
                 "Earth Power",
