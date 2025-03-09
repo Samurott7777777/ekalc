@@ -11687,7 +11687,7 @@ var SETDEX_ADV = {
                 "Thunder Wave"
             ]
         },
-        "Rocket Grunt*": {
+        "Rocket Grunt": {
             "level": 34,
             "ivs": {
                 "hp": 31,
@@ -11761,6 +11761,25 @@ var SETDEX_ADV = {
                 "Ice Punch",
                 "Psychic",
                 "Thunderbolt"
+            ]
+        },
+        "Cooltrainer Lex": {
+            "level": 99,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "White Herb",
+            "nature": "Modest",
+            "moves": [
+                "Double Edge",
+                "Earthquake",
+                "Blizzard",
+                "Fire Blast"
             ]
         }
     },
@@ -12978,6 +12997,25 @@ var SETDEX_ADV = {
                 "Hidden Power Ice",
                 "Signal Beam",
                 "Thunderbolt"
+            ]
+        },
+        "Cooltrainer Lex": {
+            "level": 99,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Leftovers",
+            "nature": "Docile",
+            "moves": [
+                "Thunderbolt",
+                "Hidden Power Ice",
+                "Substitute",
+                "Protect"
             ]
         },
         "Cool Trainer Umi": {
@@ -14830,6 +14868,25 @@ var SETDEX_ADV = {
                 "Earth Power",
                 "Crunch",
                 "Fire Blast"
+            ]
+        },
+        "Cooltrainer Lex": {
+            "level": 99,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Leftovers",
+            "nature": "Hardy",
+            "moves": [
+                "Head Smash",
+                "Ice Beam",
+                "Dragon Dance",
+                "Earthquake"
             ]
         },
         "E4R2 Champion": {
@@ -26044,6 +26101,25 @@ var SETDEX_ADV = {
                 "Earthquake",
                 "Dragon Dance"
             ]
+        },
+        "Cooltrainer Lex": {
+            "level": 99,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Leftovers",
+            "nature": "Naughty",
+            "moves": [
+                "Gunk Shot",
+                "Blizzard",
+                "Head Smash",
+                "Earthquake"
+            ]
         }
     },
     "Nidoqueen": {
@@ -28346,6 +28422,25 @@ var SETDEX_ADV = {
                 "Rock Slide"
             ]
         },
+        "Cooltrainer Lex": {
+            "level": 99,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Leftovers",
+            "nature": "Hasty",
+            "moves": [
+                "Draco Meteor",
+                "Reflect",
+                "Light Screen",
+                "Fire Blast"
+            ]
+        },
         "Cooltrainer Clair": {
             "level": 100,
             "ivs": {
@@ -29221,7 +29316,7 @@ var SETDEX_ADV = {
                 "-"
             ]
         },
-        "Five Island Meadow Rocket Grunt 1": {
+        "Rocket Grunt": {
             "level": 92,
             "ivs": {
                 "hp": 31,
@@ -29238,6 +29333,25 @@ var SETDEX_ADV = {
                 "Hyper Voice",
                 "Earthquake",
                 "Self-Destruct"
+            ]
+        },
+        "Cooltrainer Lex": {
+            "level": 99,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Mystic Water",
+            "nature": "Lax",
+            "moves": [
+                "Hyper Voice",
+                "Ice Beam",
+                "Hydro Pump",
+                "-"
             ]
         },
         "Cool Trainer Umi": {
