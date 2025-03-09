@@ -5317,7 +5317,7 @@ var SETDEX_ADV = {
                 "Hidden Power Electric"
             ]
         },
-        "Cool Couple Lex And Nya": {
+        "Cooltrainer Nya": {
             "level": 99,
             "ivs": {
                 "hp": 31,
@@ -5327,11 +5327,11 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Lum Berry",
-            "nature": "Brave",
+            "item": "Leftovers",
+            "nature": "Naive",
             "moves": [
-                "Hydro Pump",
-                "Ice Beam",
+                "Water Spout",
+                "Blizzard",
                 "Hidden Power Electric",
                 "Protect"
             ]
@@ -16212,6 +16212,25 @@ var SETDEX_ADV = {
                 "Rock Slide"
             ]
         },
+        "Cooltrainer Nya": {
+            "level": 99,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Soft Sand",
+            "nature": "Adamant",
+            "moves": [
+                "Draco Meteor",
+                "Fire Blast",
+                "Head Smash",
+                "Earthquake"
+            ]
+        },
         "Cooltrainer Michelle": {
             "level": 99,
             "ivs": {
@@ -23713,6 +23732,25 @@ var SETDEX_ADV = {
                 "Earthquake",
                 "Psycho Boost"
             ]
+        },
+        "Cooltrainer Nya": {
+            "level": 99,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Docile",
+            "moves": [
+                "Meteor Mash",
+                "Psycho Boost",
+                "Rock Slide",
+                "Earthquake"
+            ]
         }
     },
     "Blastoise": {
@@ -24077,6 +24115,25 @@ var SETDEX_ADV = {
                 "Sky Attack",
                 "Dragon Dance",
                 "Rock Slide"
+            ]
+        },
+        "Cooltrainer Nya": {
+            "level": 99,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Salac Berry",
+            "nature": "Modest",
+            "moves": [
+                "Sacred Fire",
+                "Sky Attack",
+                "Hidden Power Grass",
+                "Earthquake"
             ]
         },
         "E4R2 Champion": {
@@ -24503,7 +24560,7 @@ var SETDEX_ADV = {
                 "Softboiled"
             ]
         },
-        "Cool Couple Lex And Nya": {
+        "Cooltrainer Nya": {
             "level": 99,
             "ivs": {
                 "hp": 31,
@@ -24513,13 +24570,13 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Lum Berry",
-            "nature": "Modest",
+            "item": "Never-Melt Ice",
+            "nature": "Bolt",
             "moves": [
-                "Thunderbolt",
-                "Ice Beam",
-                "Flamethrower",
-                "Psychic"
+                "Thunder",
+                "Blizzard",
+                "Fire Blast",
+                "Psycho Boost"
             ]
         }
     },
@@ -25018,6 +25075,25 @@ var SETDEX_ADV = {
                 "Curse",
                 "Mean Look",
                 "Cosmic Power"
+            ]
+        },
+        "Cooltrainer Nya": {
+            "level": 99,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Leftovers",
+            "nature": "Lax",
+            "moves": [
+                "Shadow Ball",
+                "Double Team",
+                "Brick Break",
+                "Hidden Power Rock"
             ]
         },
         "Pokemon Ranger Morty": {
