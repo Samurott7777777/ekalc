@@ -1262,6 +1262,25 @@ var SETDEX_ADV = {
                 "Double Edge"
             ]
         },
+        "Cooltrainer Potter": {
+            "level": 99,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Calm",
+            "moves": [
+                "Air Slash",
+                "Rock Slide",
+                "Earthquake",
+                "Superpower"
+            ]
+        },
         "Bird Keeper Falkner": {
             "level": 100,
             "ivs": {
@@ -5279,6 +5298,25 @@ var SETDEX_ADV = {
                 "Hydro Pump"
             ]
         },
+        "Cooltrainer Dusk": {
+            "level": 99,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Blackglasses",
+            "nature": "Impish",
+            "moves": [
+                "Hydro Pump",
+                "Blizzard",
+                "Dragonbreath",
+                "Hidden Power Electric"
+            ]
+        },
         "Cool Couple Lex And Nya": {
             "level": 99,
             "ivs": {
@@ -5735,6 +5773,25 @@ var SETDEX_ADV = {
                 "Thunderbolt",
                 "Ice Beam",
                 "Psychic"
+            ]
+        },
+        "Cooltrainer Dusk": {
+            "level": 99,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Mystic Water",
+            "nature": "Docile",
+            "moves": [
+                "Psycho Boost",
+                "Water Spout",
+                "Thunder",
+                "Blizzard"
             ]
         },
         "Cool Trainer Umi": {
@@ -7610,6 +7667,25 @@ var SETDEX_ADV = {
                 "Crunch",
                 "Blizzard",
                 "Superpower"
+            ]
+        },
+        "Cooltrainer Dusk": {
+            "level": 99,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Never-Melt Ice",
+            "nature": "Mild",
+            "moves": [
+                "Blizzard",
+                "Superpower",
+                "Hidden Power Ground",
+                "-"
             ]
         },
         "Gamer Pryce": {
@@ -14891,6 +14967,25 @@ var SETDEX_ADV = {
                 "Ancient Power"
             ]
         },
+        "Cooltrainer Dusk": {
+            "level": 99,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Quick Claw",
+            "nature": "Timid",
+            "moves": [
+                "Earthquake",
+                "Explosion",
+                "Eruption",
+                "-"
+            ]
+        },
         "Cooltrainer Tierra": {
             "level": 100,
             "ivs": {
@@ -19353,6 +19448,25 @@ var SETDEX_ADV = {
                 "-"
             ]
         },
+        "Cooltrainer Potter": {
+            "level": 99,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Brightpowder",
+            "nature": "Lonely",
+            "moves": [
+                "Spikes",
+                "-",
+                "-",
+                "-"
+            ]
+        },
         "Cooltrainer Michelle": {
             "level": 99,
             "ivs": {
@@ -21146,7 +21260,7 @@ var SETDEX_ADV = {
                 "Double-Edge"
             ]
         },
-        "Pok\u00e9maniac Hector": {
+        "Pokemaniac Hector": {
             "level": 95,
             "ivs": {
                 "hp": 31,
@@ -21184,7 +21298,7 @@ var SETDEX_ADV = {
                 "Ice Beam"
             ]
         },
-        "Grunt 3**": {
+        "Grunt 3": {
             "level": 95,
             "ivs": {
                 "hp": 31,
@@ -21219,6 +21333,25 @@ var SETDEX_ADV = {
                 "Hydro Pump",
                 "Draco Meteor",
                 "Double-Edge",
+                "Hidden Power Electric"
+            ]
+        },
+        "Cooltrainer Potter": {
+            "level": 99,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Scope Lens",
+            "moves": [
+                "Water Spout",
+                "Draco Meteor",
+                "Blizzard",
                 "Hidden Power Electric"
             ]
         },
@@ -24237,6 +24370,25 @@ var SETDEX_ADV = {
                 "Psychic"
             ]
         },
+        "Cooltrainer Potter": {
+            "level": 99,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Focus Band",
+            "nature": "Adamant",
+            "moves": [
+                "Flamethrower",
+                "Ice Beam",
+                "Thunderbolt",
+                "Psychic"
+            ]
+        },
         "Lass Whitney": {
             "level": 100,
             "ivs": {
@@ -24326,7 +24478,7 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Black Glasses",
-            "nature": "@BLACKGLASSES",
+            "nature": "Careful",
             "moves": [
                 "Shadow Punch",
                 "Faint Attack",
@@ -24465,6 +24617,63 @@ var SETDEX_ADV = {
                 "Super Fang",
                 "-",
                 "-"
+            ]
+        },
+        "Cooltrainer Potter": {
+            "level": 99,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Blackglasses",
+            "nature": "Timid",
+            "moves": [
+                "Shadow Ball",
+                "Crunch",
+                "Brick Break",
+                "Hidden Power Rock"
+            ]
+        },
+        "Cooltrainer Dusk 1": {
+            "level": 99,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Leftovers",
+            "nature": "Modest",
+            "moves": [
+                "Mean Look",
+                "Crunch",
+                "Recover",
+                "Curse"
+            ]
+        },
+        "Cooltrainer Dusk 2": {
+            "level": 99,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Blackglasses",
+            "nature": "Adamant",
+            "moves": [
+                "Shadow Ball",
+                "Crunch",
+                "Brick Break",
+                "Hidden Power Rock"
             ]
         },
         "Pokemon Ranger Morty": {
@@ -27867,6 +28076,25 @@ var SETDEX_ADV = {
                 "Thunderbolt",
                 "Ice Beam",
                 "Helping Hand"
+            ]
+        },
+        "Cooltrainer Potter": {
+            "level": 99,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Quick Claw",
+            "nature": "Bashful",
+            "moves": [
+                "Psycho Boost",
+                "Blizzard",
+                "Thunder",
+                "Fire Blast"
             ]
         }
     },
