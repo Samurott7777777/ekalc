@@ -2626,7 +2626,7 @@ var ADV_PATCH = {
     },
     Wailord: {
         types: ['Water'],
-        bs: { hp: 160, at: 110, df: 64, sa: 110, sd: 110, sp: 1 },
+        bs: { hp: 165, at: 110, df: 69, sa: 110, sd: 115, sp: 1 },
         weightkg: 398,
         abilities: { 0: 'Water Veil' }
     },
