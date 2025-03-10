@@ -18696,7 +18696,7 @@ var SETDEX_ADV = {
             "nature": "Relaxed",
             "moves": [
                 "Leaf Blade",
-                "Dragon Claw",
+                "Psychic",
                 "Thunder Punch",
                 "Hidden Power Fire"
             ]
@@ -21794,8 +21794,8 @@ var SETDEX_ADV = {
             "moves": [
                 "Overheat",
                 "Superpower",
-                "Thunder Punch",
-                "Hidden Power Grass"
+                "Wild Charge",
+                "Rock Tomb"
             ]
         },
         "Black Belt Koichi": {
@@ -25710,7 +25710,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Air Slash",
                 "Draco Meteor",
-                "Earthquake",
+                "Overheat",
                 "Rock Slide"
             ]
         },
@@ -26793,9 +26793,9 @@ var SETDEX_ADV = {
             "nature": "Jolly",
             "moves": [
                 "Hydro Pump",
-                "Earth Power",
-                "Ice Beam",
-                "Protect"
+                "Earthquake",
+                "Gunk Shot",
+                "Rock Tomb"
             ]
         },
         "Swimmer Spencer": {
