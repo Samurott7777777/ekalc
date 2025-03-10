@@ -425,7 +425,7 @@ var RBY = {
     },
     Magmar: {
         types: ['Fire'],
-        bs: { hp: 65, at: 95, df: 57, sp: 98, sl: 85 },
+        bs: { hp: 65, at: 100, df: 60, sp: 105, sl: 85 },
         weightkg: 44.5
     },
     Magnemite: {
@@ -891,7 +891,7 @@ var GSC_PATCH = {
     Machoke: { bs: { sa: 50, sd: 60 } },
     Machop: { bs: { sa: 35, sd: 35 } },
     Magikarp: { bs: { sa: 15, sd: 20 } },
-    Magmar: { bs: { sa: 100, sd: 85 } },
+    Magmar: { bs: { sa: 125, sd: 125 } },
     Magnemite: { types: ['Electric', 'Steel'], bs: { sa: 95, sd: 55 }, gender: 'N' },
     Magneton: { types: ['Electric', 'Steel'], bs: { sa: 120, sd: 70 }, gender: 'N' },
     Mankey: { bs: { sa: 35, sd: 45 } },
