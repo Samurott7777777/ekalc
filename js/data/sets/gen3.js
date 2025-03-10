@@ -590,12 +590,12 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Lum Berry",
-            "nature": "Docile",
+            "nature": "Mild",
             "moves": [
                 "Rock Slide",
                 "Swords Dance",
                 "Superpower",
-                "Earthquake"
+                "Megahorn"
             ]
         },
         "Crush Girl Jocelyn": {
@@ -6374,8 +6374,8 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Lum Berry",
-            "nature": "Impish",
+            "item": "Choice Band",
+            "nature": "Bashful",
             "moves": [
                 "Superpower",
                 "Hidden Power Ghost",
@@ -8244,6 +8244,25 @@ var SETDEX_ADV = {
                 "Flamethrower",
                 "Thunder Punch",
                 "Superpower",
+                "Hidden Power Grass"
+            ]
+        },
+         "Crush Kin Shyohei": {
+            "level": 64,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Leftovers",
+            "nature": "Naive",
+            "moves": [
+                "Flamethrower",
+                "Superpower",
+                "Thunderbolt",
                 "Hidden Power Grass"
             ]
         },
@@ -14577,7 +14596,7 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Lum Berry",
-            "nature": "Naughty",
+            "nature": "Naive",
             "moves": [
                 "Pursuit",
                 "Rock Slide",
@@ -27340,6 +27359,25 @@ var SETDEX_ADV = {
                 "Ice Beam"
             ]
         },
+         "Swimmer Spencer": {
+            "level": 65,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Naive",
+            "moves": [
+                "Weather Ball",
+                "Thunder",
+                "Hydro Pump",
+                "-"
+            ]
+        },
         "Scientist Beau": {
             "level": 61,
             "ivs": {
@@ -29063,6 +29101,25 @@ var SETDEX_ADV = {
         }
     },
     "Snorlax": {
+         "Youngster Modnar": {
+            "level": 64,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Soul Dew",
+            "nature": "Impish",
+            "moves": [
+                "Body Slam",
+                "Earthquake",
+                "Shadow Ball",
+                "Fire Blast"
+            ]
+        },
         "Rocket Grunt 14": {
             "level": 63,
             "ivs": {
