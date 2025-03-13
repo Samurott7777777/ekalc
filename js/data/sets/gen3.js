@@ -2368,7 +2368,7 @@ var SETDEX_ADV = {
             ]
         },
         "Engineer Fernando": {
-            "level": 75,
+            "level": 76,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -8286,7 +8286,7 @@ var SETDEX_ADV = {
             ]
         },
         "Engineer Fernando": {
-            "level": 75,
+            "level": 76,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -10760,7 +10760,7 @@ var SETDEX_ADV = {
             ]
         },
         "Engineer Fernando": {
-            "level": 75,
+            "level": 76,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -10952,7 +10952,7 @@ var SETDEX_ADV = {
             ]
         },
         "Pokemaniac Shintaro": {
-            "level": 75,
+            "level": 76,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -14063,7 +14063,7 @@ var SETDEX_ADV = {
             ]
         },
         "Pokemaniac Shintaro": {
-            "level": 75,
+            "level": 76,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -16599,7 +16599,7 @@ var SETDEX_ADV = {
             ]
         },
         "Pokemaniac Shintaro": {
-            "level": 75,
+            "level": 76,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -18278,7 +18278,7 @@ var SETDEX_ADV = {
             ]
         },
         "Engineer Fernando": {
-            "level": 75,
+            "level": 76,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -21856,7 +21856,7 @@ var SETDEX_ADV = {
             ]
         },
         "Pokemaniac Shintaro": {
-            "level": 75,
+            "level": 76,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -24080,7 +24080,7 @@ var SETDEX_ADV = {
             ]
         },
         "Pokemaniac Shintaro": {
-            "level": 75,
+            "level": 76,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -26451,7 +26451,7 @@ var SETDEX_ADV = {
             ]
         },
         "Engineer Fernando": {
-            "level": 75,
+            "level": 76,
             "ivs": {
                 "hp": 31,
                 "at": 31,
