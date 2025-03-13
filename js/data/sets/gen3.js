@@ -1111,7 +1111,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Hotshot": {
-            "level": 75,
+            "level": 76,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -6209,7 +6209,7 @@ var SETDEX_ADV = {
             ]
         },
         "Burglar Dash": {
-            "level": 75,
+            "level": 76,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -9558,7 +9558,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Hotshot": {
-            "level": 75,
+            "level": 76,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -11608,7 +11608,7 @@ var SETDEX_ADV = {
             ]
         },
         "Burglar Rob": {
-            "level": 75,
+            "level": 76,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -14624,7 +14624,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Hotshot": {
-            "level": 75,
+            "level": 76,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -16118,7 +16118,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Hotshot": {
-            "level": 75,
+            "level": 76,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -18527,7 +18527,7 @@ var SETDEX_ADV = {
             ]
         },
         "Burglar Dash": {
-            "level": 75,
+            "level": 76,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -18740,7 +18740,7 @@ var SETDEX_ADV = {
             ]
         },
         "Burglar Dash": {
-            "level": 75,
+            "level": 76,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -22531,7 +22531,7 @@ var SETDEX_ADV = {
             ]
         },
         "Burglar Dash": {
-            "level": 73,
+            "level": 75,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -24099,7 +24099,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Hotshot": {
-            "level": 75,
+            "level": 76,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -27750,7 +27750,7 @@ var SETDEX_ADV = {
             ]
         },
         "Burglar Rob": {
-            "level": 74,
+            "level": 75,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -27923,7 +27923,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Hotshot": {
-            "level": 75,
+            "level": 76,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -29024,7 +29024,7 @@ var SETDEX_ADV = {
             ]
         },
         "Burglar Rob": {
-            "level": 75,
+            "level": 76,
             "ivs": {
                 "hp": 31,
                 "at": 31,
