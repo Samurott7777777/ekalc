@@ -5605,7 +5605,7 @@ var SETDEX_ADV = {
             ]
         },
         "Swimmer Connie": {
-            "level": 70,
+            "level": 71,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -12131,7 +12131,7 @@ var SETDEX_ADV = {
             ]
         },
         "Swimmer Anya": {
-            "level": 73,
+            "level": 71,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -12141,7 +12141,7 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Lum Berry",
-            "nature": "Naughty",
+            "nature": "Sassy",
             "moves": [
                 "Surf",
                 "Gunk Shot",
@@ -12924,7 +12924,7 @@ var SETDEX_ADV = {
             ]
         },
         "Swimmer Connie": {
-            "level": 70,
+            "level": 71,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -13322,7 +13322,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Thunder",
                 "Surf",
-                "Hidden Power Flying",
+                "Extreme Speed",
                 "Sing"
             ]
         },
@@ -15463,6 +15463,25 @@ var SETDEX_ADV = {
                 "Earthquake",
                 "Iron Tail",
                 "Superpower"
+            ]
+        },
+        "Swimmer Alice": {
+            "level": 71,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Silk Scarf",
+            "nature": "Bold",
+            "moves": [
+                "Return",
+                "Shadow Ball",
+                "Rest",
+                "Sleep Talk"
             ]
         },
         "Pokemon Trainer Brendan*": {
@@ -19934,7 +19953,7 @@ var SETDEX_ADV = {
             ]
         },
         "Swimmer Connie": {
-            "level": 70,
+            "level": 71,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -21299,7 +21318,7 @@ var SETDEX_ADV = {
             ]
         },
         "Swimmer Connie": {
-            "level": 70,
+            "level": 71,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -28362,6 +28381,25 @@ var SETDEX_ADV = {
                 "Draco Meteor",
                 "Flamethrower",
                 "Air Slash",
+                "Ice Beam"
+            ]
+        },
+        "Swimmer Anya": {
+            "level": 71,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Mystic Water",
+            "nature": "Bashful",
+            "moves": [
+                "Surf",
+                "Earthquake",
+                "Dragon Claw",
                 "Ice Beam"
             ]
         },
