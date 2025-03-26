@@ -5090,7 +5090,7 @@ var SETDEX_ADV = {
             ]
         },
         "Swimmer Ruka": {
-            "level": 71,
+            "level": 74,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -12904,8 +12904,8 @@ var SETDEX_ADV = {
                 "Baton Pass"
             ]
         },
-        "Sis And Bro Lil And Ian": {
-            "level": 72,
+        "Swimmer Ruka": {
+            "level": 74,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -23888,7 +23888,7 @@ var SETDEX_ADV = {
             ]
         },
         "Swimmer Ruka": {
-            "level": 72,
+            "level": 74,
             "ivs": {
                 "hp": 31,
                 "at": 31,
