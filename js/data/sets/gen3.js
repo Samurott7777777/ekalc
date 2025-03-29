@@ -1244,7 +1244,7 @@ var SETDEX_ADV = {
             ]
         },
         "Cooltrainer Shinu": {
-            "level": 96,
+            "level": 95,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -5738,7 +5738,7 @@ var SETDEX_ADV = {
             ]
         },
         "Cooltrainer Shinu": {
-            "level": 96,
+            "level": 95,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -15331,7 +15331,7 @@ var SETDEX_ADV = {
             ]
         },
         "Cooltrainer Shinu": {
-            "level": 96,
+            "level": 95,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -16232,7 +16232,7 @@ var SETDEX_ADV = {
             ]
         },
         "Cooltrainer  Shinu": {
-            "level": 96,
+            "level": 95,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -22645,7 +22645,7 @@ var SETDEX_ADV = {
             ]
         },
         "Cooltrainer Shinu": {
-            "level": 96,
+            "level": 95,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -25924,7 +25924,7 @@ var SETDEX_ADV = {
             ]
         },
         "Cool Trainer Shinu": {
-            "level": 96,
+            "level": 95,
             "ivs": {
                 "hp": 31,
                 "at": 31,
