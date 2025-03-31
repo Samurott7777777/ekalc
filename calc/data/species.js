@@ -740,7 +740,7 @@ var RBY = {
     },
     Venomoth: {
         types: ['Bug', 'Poison'],
-        bs: { hp: 70, at: 65, df: 60, sp: 90, sl: 90 },
+        bs: { hp: 70, at: 70, df: 60, sp: 100, sl: 90 },
         weightkg: 12.5
     },
     Venonat: {
