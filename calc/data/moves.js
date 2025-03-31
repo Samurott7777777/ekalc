@@ -311,7 +311,7 @@ var GSC_PATCH = {
     Snore: { bp: 60, type: 'Normal' },
     'Sweet Kiss': { bp: 0, category: 'Status', type: 'Normal' },
     Rollout: { bp: 30, type: 'Rock' },
-    Frustration: { bp: 0, type: 'Normal' },
+    Frustration: { bp: 105, type: 'Normal' },
     Return: { bp: 0, type: 'Normal' },
     'Sacred Fire': { bp: 120, type: 'Fire' },
     'Baton Pass': { bp: 0, category: 'Status', type: 'Normal' },
