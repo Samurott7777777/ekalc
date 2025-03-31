@@ -149,7 +149,7 @@ var RBY = {
     },
     Diglett: {
         types: ['Ground'],
-        bs: { hp: 10, at: 55, df: 25, sp: 95, sl: 45 },
+        bs: { hp: 10, at: 55, df: 25, sp: 100, sl: 45 },
         weightkg: 0.8,
         nfe: true
     },
