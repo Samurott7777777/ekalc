@@ -1244,7 +1244,7 @@ var SETDEX_ADV = {
             ]
         },
         "Cooltrainer Shinu": {
-            "level": 95,
+            "level": 94,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -5738,7 +5738,7 @@ var SETDEX_ADV = {
             ]
         },
         "Cooltrainer Shinu": {
-            "level": 95,
+            "level": 94,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -15331,7 +15331,7 @@ var SETDEX_ADV = {
             ]
         },
         "Cooltrainer Shinu": {
-            "level": 95,
+            "level": 94,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -16232,7 +16232,7 @@ var SETDEX_ADV = {
             ]
         },
         "Cooltrainer  Shinu": {
-            "level": 95,
+            "level": 94,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -22645,7 +22645,7 @@ var SETDEX_ADV = {
             ]
         },
         "Cooltrainer Shinu": {
-            "level": 95,
+            "level": 94,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -25097,7 +25097,7 @@ var SETDEX_ADV = {
             ]
         },
         "Hiker Dusty": {
-            "level": 95,
+            "level": 94,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -25924,7 +25924,7 @@ var SETDEX_ADV = {
             ]
         },
         "Cool Trainer Shinu": {
-            "level": 95,
+            "level": 94,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -26913,7 +26913,7 @@ var SETDEX_ADV = {
             ]
         },
         "Hiker Dusty": {
-            "level": 95,
+            "level": 94,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -28556,7 +28556,7 @@ var SETDEX_ADV = {
             ]
         },
         "Hiker Dusty": {
-            "level": 95,
+            "level": 94,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -29100,7 +29100,7 @@ var SETDEX_ADV = {
             ]
         },
         "Hiker Dusty": {
-            "level": 95,
+            "level": 94,
             "ivs": {
                 "hp": 31,
                 "at": 31,
