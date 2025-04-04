@@ -12246,8 +12246,8 @@ var SETDEX_ADV = {
                 "Ice Beam"
             ]
         },
-        "Crush Kin Ron And Mya": {
-            "level": 48,
+        "Black Belt Gouki": {
+            "level": 52,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -12257,12 +12257,12 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Lum Berry",
-            "nature": "Modest",
+            "nature": "Calm",
             "moves": [
-                "Submission",
+                "Hypnosis",
                 "Hydro Pump",
                 "Hidden Power Electric",
-                "Protect"
+                "Superpower"
             ]
         },
         "Grunt 6*": {
@@ -16366,6 +16366,25 @@ var SETDEX_ADV = {
                 "Dragon Dance"
             ]
         },
+        "Black Belt Gouki": {
+            "level": 52,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Leftovers",
+            "nature": "Serious",
+            "moves": [
+                "Surf",
+                "Agility",
+                "Ice Beam",
+                "Earthquake"
+            ]
+        },
         "Swimmer Douglas": {
             "level": 73,
             "ivs": {
@@ -18526,6 +18545,25 @@ var SETDEX_ADV = {
                 "Hidden Power Grass"
             ]
         },
+        "Black Belt Gouki": {
+            "level": 52,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Impish",
+            "moves": [
+                "Sacred Fire",
+                "Shadow Ball",
+                "Superpower",
+                "Hidden Power Grass"
+            ]
+        },
         "Grunt 13": {
             "level": 63,
             "ivs": {
@@ -19199,6 +19237,25 @@ var SETDEX_ADV = {
                 "Sleep Powder"
             ]
         },
+        "Crush Girl Makoto": {
+            "level": 52,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Serious",
+            "moves": [
+                "Gunk Shot",
+                "Giga Drain",
+                "Hidden Power Ground",
+                "-"
+            ]
+        },
         "Juggler Kayden": {
             "level": 52,
             "ivs": {
@@ -19758,7 +19815,26 @@ var SETDEX_ADV = {
                 "Rock Slide"
             ]
         },
-        "Burglar Arnie:, Double Ai": {
+        "Crush Girl Makoto": {
+            "level": 52,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum",
+            "nature": "Quirky",
+            "moves": [
+                "Egg Bomb",
+                "Dynamic Punch",
+                "Rock Slide",
+                "Hidden Power Flying"
+            ]
+        },
+        "Burglar Arnie:": {
             "level": 74,
             "ivs": {
                 "hp": 31,
@@ -22260,8 +22336,8 @@ var SETDEX_ADV = {
                 "Earthquake"
             ]
         },
-        "Crush Kin Ron And Mya": {
-            "level": 48,
+        "Black Belt Gouki": {
+            "level": 52,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -22270,13 +22346,13 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Lum Berry",
-            "nature": "Calm",
+            "item": "Leftovers",
+            "nature": "Serious",
             "moves": [
                 "Superpower",
-                "Rock Tomb",
-                "Detect",
-                "Hidden Power Ghost"
+                "Rock Slide",
+                "Earthquake",
+                "Bulk Up"
             ]
         },
         "Crush Girl Tanya": {
@@ -27865,8 +27941,8 @@ var SETDEX_ADV = {
                 "Rock Slide"
             ]
         },
-        "Crush Kin Ron And Mya": {
-            "level": 48,
+        "Crush Girl Makoto": {
+            "level": 50,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -27875,13 +27951,13 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Black Belt",
+            "item": "Lum Berry",
             "nature": "Naive",
             "moves": [
-                "Brick Break",
-                "Rock Tomb",
-                "Shadow Punch",
-                "Protect"
+                "Superpower",
+                "Hidden Power Ghost",
+                "Earthquake",
+                "Rock Slide"
             ]
         },
         "Black Belt Koichi": {
@@ -29139,7 +29215,26 @@ var SETDEX_ADV = {
         }
     },
     "Snorlax": {
-         "Youngster Modnar": {
+        "Crush Girl Makoto": {
+            "level": 52,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Leftovers",
+            "nature": "Hardy",
+            "moves": [
+                "Curse",
+                "Earthquake",
+                "Double Edge",
+                "Rest"
+            ]
+        }, 
+        "Youngster Modnar": {
             "level": 64,
             "ivs": {
                 "hp": 31,
