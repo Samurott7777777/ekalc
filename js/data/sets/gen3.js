@@ -18546,7 +18546,7 @@ var SETDEX_ADV = {
             ]
         },
         "Black Belt Gouki": {
-            "level": 52,
+            "level": 50,
             "ivs": {
                 "hp": 31,
                 "at": 31,
