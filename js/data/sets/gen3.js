@@ -12247,7 +12247,7 @@ var SETDEX_ADV = {
             ]
         },
         "Black Belt Gouki": {
-            "level": 52,
+            "level": 49,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -16367,7 +16367,7 @@ var SETDEX_ADV = {
             ]
         },
         "Black Belt Gouki": {
-            "level": 52,
+            "level": 49,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -18546,7 +18546,7 @@ var SETDEX_ADV = {
             ]
         },
         "Black Belt Gouki": {
-            "level": 50,
+            "level": 49,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -19238,7 +19238,7 @@ var SETDEX_ADV = {
             ]
         },
         "Crush Girl Makoto": {
-            "level": 52,
+            "level": 50,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -19816,7 +19816,7 @@ var SETDEX_ADV = {
             ]
         },
         "Crush Girl Makoto": {
-            "level": 52,
+            "level": 50,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -22337,7 +22337,7 @@ var SETDEX_ADV = {
             ]
         },
         "Black Belt Gouki": {
-            "level": 52,
+            "level": 49,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -27942,7 +27942,7 @@ var SETDEX_ADV = {
             ]
         },
         "Crush Girl Makoto": {
-            "level": 50,
+            "level": 49,
             "ivs": {
                 "hp": 31,
                 "at": 31,
