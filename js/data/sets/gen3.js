@@ -5318,7 +5318,7 @@ var SETDEX_ADV = {
             ]
         },
         "Cooltrainer Nya": {
-            "level": 99,
+            "level": 96,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -5330,8 +5330,8 @@ var SETDEX_ADV = {
             "item": "Leftovers",
             "nature": "Naive",
             "moves": [
-                "Water Spout",
-                "Blizzard",
+                "Surf",
+                "Ice Beam",
                 "Hidden Power Electric",
                 "Protect"
             ]
@@ -11802,7 +11802,7 @@ var SETDEX_ADV = {
             ]
         },
         "Cooltrainer Lex": {
-            "level": 99,
+            "level": 96,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -11817,7 +11817,7 @@ var SETDEX_ADV = {
                 "Double Edge",
                 "Earthquake",
                 "Blizzard",
-                "Fire Blast"
+                "Iron Tail"
             ]
         }
     },
@@ -13038,7 +13038,7 @@ var SETDEX_ADV = {
             ]
         },
         "Cooltrainer Lex": {
-            "level": 99,
+            "level": 96,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -14909,7 +14909,7 @@ var SETDEX_ADV = {
             ]
         },
         "Cooltrainer Lex": {
-            "level": 99,
+            "level": 96,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -16270,7 +16270,7 @@ var SETDEX_ADV = {
             ]
         },
         "Cooltrainer Nya": {
-            "level": 99,
+            "level": 96,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -16284,7 +16284,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Draco Meteor",
                 "Fire Blast",
-                "Head Smash",
+                "Ancientpower",
                 "Earthquake"
             ]
         },
@@ -23886,7 +23886,7 @@ var SETDEX_ADV = {
             ]
         },
         "Cooltrainer Nya": {
-            "level": 99,
+            "level": 96,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -23898,8 +23898,8 @@ var SETDEX_ADV = {
             "item": "Lum Berry",
             "nature": "Docile",
             "moves": [
-                "Meteor Mash",
-                "Psycho Boost",
+                "Flash Cannon",
+                "Psychic",
                 "Rock Slide",
                 "Earthquake"
             ]
@@ -24270,7 +24270,7 @@ var SETDEX_ADV = {
             ]
         },
         "Cooltrainer Nya": {
-            "level": 99,
+            "level": 96,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -24713,7 +24713,7 @@ var SETDEX_ADV = {
             ]
         },
         "Cooltrainer Nya": {
-            "level": 99,
+            "level": 96,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -24725,10 +24725,10 @@ var SETDEX_ADV = {
             "item": "Never-Melt Ice",
             "nature": "Bolt",
             "moves": [
-                "Thunder",
-                "Blizzard",
-                "Fire Blast",
-                "Psycho Boost"
+                "Thunderbolt",
+                "Ice Beam",
+                "Flamethrower",
+                "Psychic"
             ]
         }
     },
@@ -25230,7 +25230,7 @@ var SETDEX_ADV = {
             ]
         },
         "Cooltrainer Nya": {
-            "level": 99,
+            "level": 96,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -26331,7 +26331,7 @@ var SETDEX_ADV = {
             ]
         },
         "Cooltrainer Lex": {
-            "level": 99,
+            "level": 96,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -28689,7 +28689,7 @@ var SETDEX_ADV = {
             ]
         },
         "Cooltrainer Lex": {
-            "level": 99,
+            "level": 96,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -29640,7 +29640,7 @@ var SETDEX_ADV = {
             ]
         },
         "Cooltrainer Lex": {
-            "level": 99,
+            "level": 96,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -29652,9 +29652,9 @@ var SETDEX_ADV = {
             "item": "Mystic Water",
             "nature": "Lax",
             "moves": [
-                "Hyper Voice",
+                "Double-Edge",
                 "Ice Beam",
-                "Hydro Pump",
+                "Surf",
                 "-"
             ]
         },
