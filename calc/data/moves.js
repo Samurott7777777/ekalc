@@ -165,7 +165,7 @@ var RBY = {
     Screech: { bp: 0, category: 'Status', type: 'Normal' },
     Sing: { bp: 0, category: 'Status', type: 'Normal' },
     'Sleep Powder': { bp: 0, category: 'Status', type: 'Grass' },
-    Smog: { bp: 20, type: 'Poison' },
+    Smart Strike: { bp: 80, type: 'Steel' },
     Spore: { bp: 0, category: 'Status', type: 'Grass' },
     Supersonic: { bp: 0, category: 'Status', type: 'Normal' },
     'Swords Dance': { bp: 0, category: 'Status', type: 'Normal' },
