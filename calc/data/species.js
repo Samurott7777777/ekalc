@@ -548,7 +548,7 @@ var RBY = {
     },
     Parasect: {
         types: ['Bug', 'Grass'],
-        bs: { hp: 70, at: 110, df: 90, sp: 60, sl: 80 },
+        bs: { hp: 70, at: 110, df: 90, sp: 55, sl: 80 },
         weightkg: 29.5
     },
     Persian: { types: ['Normal'], bs: { hp: 65, at: 70, df: 60, sp: 115, sl: 65 }, weightkg: 32 },
@@ -915,7 +915,7 @@ var GSC_PATCH = {
     Omastar: { bs: { sa: 115, sd: 70 } },
     Onix: { bs: { sa: 30, sd: 45 }, nfe: true },
     Paras: { bs: { sa: 45, sd: 55 } },
-    Parasect: { bs: { sa: 60, sd: 90 } },
+    Parasect: { bs: { sa: 65, sd: 90 } },
     Persian: { bs: { sa: 65, sd: 65 } },
     Pidgeot: { bs: { sa: 70, sd: 70 } },
     Pidgeotto: { bs: { sa: 50, sd: 50 } },
