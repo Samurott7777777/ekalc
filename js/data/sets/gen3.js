@@ -2031,7 +2031,7 @@ var SETDEX_ADV = {
             ]
         },
         "Super Nerd Miguel": {
-            "level": 21,
+            "level": 22,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -3385,7 +3385,7 @@ var SETDEX_ADV = {
     },
     "Anorith": {
         "Super Nerd Miguel": {
-            "level": 20,
+            "level": 21,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -3425,7 +3425,7 @@ var SETDEX_ADV = {
     },
     "Magnemite": {
         "Super Nerd Miguel": {
-            "level": 21,
+            "level": 22,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -3440,7 +3440,7 @@ var SETDEX_ADV = {
                 "Flash Cannon",
                 "Thunderbolt",
                 "Hidden Power Ice",
-                "Protect"
+                "Explosion"
             ]
         }
     },
@@ -11009,7 +11009,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Cinnebar": {
-            "level": 85,
+            "level": 84,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -17080,7 +17080,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Cinnebar": {
-            "level": 85,
+            "level": 84,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -18354,7 +18354,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Cinnebar": {
-            "level": 85,
+            "level": 84,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -22989,7 +22989,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Cinnebar": {
-            "level": 85,
+            "level": 84,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -25886,7 +25886,7 @@ var SETDEX_ADV = {
             ]
         },
         "Ace Trainer Cinnebar": {
-            "level": 85,
+            "level": 84,
             "ivs": {
                 "hp": 31,
                 "at": 31,
