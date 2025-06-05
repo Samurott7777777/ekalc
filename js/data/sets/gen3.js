@@ -10603,7 +10603,7 @@ var SETDEX_ADV = {
                 "Hidden Power Water"
             ]
         },
-        "Scientist Gilbert": {
+        "Scientist Taylor": {
             "level": 62,
             "ivs": {
                 "hp": 31,
@@ -13191,7 +13191,7 @@ var SETDEX_ADV = {
                 "Hidden Power Ice"
             ]
         },
-        "Scientist Gilbert": {
+        "Scientist Taylor: {
             "level": 63,
             "ivs": {
                 "hp": 31,
@@ -15925,7 +15925,7 @@ var SETDEX_ADV = {
                 "Ice Beam"
             ]
         },
-        "Scientist Gilbert": {
+        "Scientist Taylor": {
             "level": 64,
             "ivs": {
                 "hp": 31,
@@ -28964,7 +28964,7 @@ var SETDEX_ADV = {
         }
     },
     "Lapras": {
-        "Scientist Gilbert": {
+        "Scientist Taylor": {
             "level": 62,
             "ivs": {
                 "hp": 31,
