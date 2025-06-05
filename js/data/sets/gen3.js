@@ -8203,9 +8203,9 @@ var SETDEX_ADV = {
             },
             "nature": "Modest",
             "moves": [
-                "Fire Punch",
-                "Thunder Punch",
-                "Brick Break",
+                "Ember",
+                "Thundershock",
+                "Karate Chop",
                 "Will-O-Wisp"
             ]
         },
@@ -8222,14 +8222,14 @@ var SETDEX_ADV = {
             "item": "Lum Berry",
             "nature": "Mild",
             "moves": [
-                "Flamethrower",
-                "Thunder Punch",
-                "Superpower",
+                "Flame Wheel",
+                "Shock Wave",
+                "Submission",
                 "Hidden Power Grass"
             ]
         },
         "Biker Jared*": {
-            "level": 48,
+            "level": 46,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -8241,7 +8241,7 @@ var SETDEX_ADV = {
             "item": "Lum Berry",
             "nature": "Impish",
             "moves": [
-                "Flamethrower",
+                "Fire Punch",
                 "Thunder Punch",
                 "Superpower",
                 "Hidden Power Grass"
@@ -8266,8 +8266,8 @@ var SETDEX_ADV = {
                 "Hidden Power Grass"
             ]
         },
-        "Scientist Gilbert": {
-            "level": 65,
+        "Scientist Taylor": {
+            "level": 63,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -8279,7 +8279,7 @@ var SETDEX_ADV = {
             "item": "Lum Berry",
             "nature": "Gentle",
             "moves": [
-                "Overheat",
+                "Flamethrower",
                 "Thunderbolt",
                 "Cross Chop",
                 "Hidden Power Grass"
