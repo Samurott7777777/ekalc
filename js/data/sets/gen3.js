@@ -13191,7 +13191,7 @@ var SETDEX_ADV = {
                 "Hidden Power Ice"
             ]
         },
-        "Scientist Taylor: {
+        "Scientist Taylor": {
             "level": 63,
             "ivs": {
                 "hp": 31,
