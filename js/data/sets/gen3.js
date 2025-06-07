@@ -29230,7 +29230,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Curse",
                 "Earthquake",
-                "Double Edge",
+                "Double-Edge",
                 "Rest"
             ]
         }, 
