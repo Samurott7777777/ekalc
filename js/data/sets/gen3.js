@@ -24500,7 +24500,7 @@ var SETDEX_ADV = {
                 "Thunderbolt",
                 "Ice Beam",
                 "Flamethrower",
-                "Softboiled"
+                "Soft-Boiled"
             ]
         },
         "Rocket Admin Ariana 3": {
@@ -27452,6 +27452,25 @@ var SETDEX_ADV = {
                 "Thunderbolt",
                 "Hydro Pump",
                 "Ice Beam"
+            ]
+        },
+        "Aroma Lady Aura": {
+            "level": 65,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Hardy",
+            "moves": [
+                "Weather Ball",
+                "Thunder",
+                "Hydro Pump",
+                "Splash"
             ]
         },
          "Swimmer Spencer": {
