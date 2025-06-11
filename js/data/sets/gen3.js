@@ -4607,8 +4607,7 @@ var SETDEX_ADV = {
                 "Aqua Jet",
                 "Double-Edge"
             ]
-        }
-    },
+        },
     "Swimmer Anya": {
             "level": 77,
             "ivs": {
