@@ -4626,7 +4626,8 @@ var SETDEX_ADV = {
                 "Splash",
                 "Splash"
             ]
-        },
+        }
+    },
     "Politoed": {
         "Gym Leader Misty": {
             "level": 22,
