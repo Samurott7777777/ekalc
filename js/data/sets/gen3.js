@@ -5090,7 +5090,7 @@ var SETDEX_ADV = {
             ]
         },
         "Swimmer Ruka": {
-            "level": 74,
+            "level": 78,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -12905,7 +12905,7 @@ var SETDEX_ADV = {
             ]
         },
         "Swimmer Ruka": {
-            "level": 74,
+            "level": 78,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -23112,7 +23112,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Lum Berry",
+            "item": "Brightpowder",
             "nature": "Rash",
             "moves": [
                 "Heat Wave",
@@ -23964,7 +23964,7 @@ var SETDEX_ADV = {
             ]
         },
         "Swimmer Ruka": {
-            "level": 74,
+            "level": 78,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -29828,7 +29828,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Lum Berry",
+            "item": "Focus Band",
             "nature": "Naive",
             "moves": [
                 "Sacred Fire",
