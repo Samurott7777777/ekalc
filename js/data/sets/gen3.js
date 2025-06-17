@@ -5313,7 +5313,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Hydro Pump",
                 "Blizzard",
-                "Dragonbreath",
+                "Dragon Breath",
                 "Hidden Power Electric"
             ]
         },
@@ -13943,7 +13943,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Earthquake",
                 "Ancientpower",
-                "Rock Slide",
+                "Double Team",
                 "Rest"
             ]
         },
