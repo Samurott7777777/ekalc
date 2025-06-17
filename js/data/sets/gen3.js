@@ -24933,6 +24933,25 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
+            "item": "Brightpowder",
+            "nature": "Bold",
+            "moves": [
+                "Calm Mind",
+                "Crunch",
+                "Barrier",
+                "Rest"
+            ]
+        },
+        "Cooltrainer Dusk 3": {
+            "level": 99,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
             "item": "Blackglasses",
             "nature": "Adamant",
             "moves": [
