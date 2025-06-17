@@ -5786,7 +5786,7 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Mystic Water",
-            "nature": "Docile",
+            "nature": "Adamant",
             "moves": [
                 "Psycho Boost",
                 "Water Spout",
@@ -7667,25 +7667,6 @@ var SETDEX_ADV = {
                 "Crunch",
                 "Blizzard",
                 "Superpower"
-            ]
-        },
-        "Cooltrainer Dusk": {
-            "level": 99,
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sa": 31,
-                "sd": 31,
-                "sp": 31
-            },
-            "item": "Never-Melt Ice",
-            "nature": "Mild",
-            "moves": [
-                "Blizzard",
-                "Superpower",
-                "Hidden Power Ground",
-                "-"
             ]
         },
         "Gamer Pryce": {
@@ -15073,7 +15054,7 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Quick Claw",
-            "nature": "Timid",
+            "nature": "Quirky",
             "moves": [
                 "Earthquake",
                 "Explosion",
@@ -24915,7 +24896,7 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Leftovers",
-            "nature": "Modest",
+            "nature": "Lonely",
             "moves": [
                 "Mean Look",
                 "Crunch",
@@ -24953,7 +24934,7 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Blackglasses",
-            "nature": "Adamant",
+            "nature": "Naive",
             "moves": [
                 "Shadow Ball",
                 "Crunch",
