@@ -11645,7 +11645,7 @@ var SETDEX_ADV = {
                 "-"
             ]
         },
-        "Cool Couple Lex And Nya": {
+        "Cooltrainer Lex": {
             "level": 99,
             "ivs": {
                 "hp": 31,
@@ -11659,9 +11659,9 @@ var SETDEX_ADV = {
             "nature": "Brave",
             "moves": [
                 "Double-Edge",
-                "Hidden Power Ghost",
-                "Earth Power",
-                "Head Smash"
+                "Earthquake",
+                "Iron Tail",
+                "Blizzard"
             ]
         }
     },
