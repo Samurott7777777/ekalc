@@ -4145,7 +4145,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Sleep Powder",
                 "Sludge Bomb",
-                "Petal Dance",
+                "Needle Arm",
                 "Hidden Power Fire"
             ]
         }
@@ -10538,7 +10538,7 @@ var SETDEX_ADV = {
             "item": "Lum Berry",
             "nature": "Sassy",
             "moves": [
-                "Petal Dance",
+                "Leaf Blade",
                 "Sleep Powder",
                 "Hidden Power Fire",
                 "Gunk Shot"
@@ -16441,7 +16441,7 @@ var SETDEX_ADV = {
                 "Ancientpower",
                 "Earthquake",
                 "Sleep Powder",
-                "Petal Dance"
+                "Leaf Blade"
             ]
         },
         "Cooltrainer Mary": {
