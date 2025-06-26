@@ -1947,6 +1947,25 @@ var SETDEX_ADV = {
                 "Teleport",
                 "Sand-Attack"
             ]
+        },
+        "Cooltrainer Night": {
+            "level": 90,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lax Incense",
+            "nature": "Adamant",
+            "moves": [
+                "Thunder Wave",
+                "Thunderbolt",
+                "Ice Beam",
+                "Soft-Boiled"
+            ]
         }
     },
     "Venonat": {
@@ -8457,6 +8476,25 @@ var SETDEX_ADV = {
                 "Lovely Kiss"
             ]
         },
+        "Cooltrainer Night": {
+            "level": 90,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lax Incense",
+            "nature": "Quiet",
+            "moves": [
+                "Blizzard",
+                "Psychic",
+                "Lovely Kiss",
+                "-"
+            ]
+        },
         "Gamer Pryce": {
             "level": 100,
             "ivs": {
@@ -11642,6 +11680,25 @@ var SETDEX_ADV = {
                 "Body Slam",
                 "Iron Tail",
                 "Rock Slide",
+                "-"
+            ]
+        },
+        "Cooltrainer Night": {
+            "level": 90,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lax Incense",
+            "nature": "Timid",
+            "moves": [
+                "Body Slam",
+                "Hyper Beam",
+                "Earthquake",
                 "-"
             ]
         },
@@ -19121,6 +19178,25 @@ var SETDEX_ADV = {
                 "Hidden Power Fire"
             ]
         },
+        "Cooltrainer Night": {
+            "level": 90,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lax Incense",
+            "nature": "Bashful",
+            "moves": [
+                "Psychic",
+                "Sleep Powder",
+                "Stun Spore",
+                "-"
+            ]
+        },
         "Picnicker Yuzu": {
             "level": 95,
             "ivs": {
@@ -23332,6 +23408,25 @@ var SETDEX_ADV = {
                 "Ice Beam"
             ]
         },
+        "Cooltrainer Night": {
+            "level": 90,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lax Incense",
+            "nature": "Adamant",
+            "moves": [
+                "Psychic",
+                "Thunder Wave",
+                "Recover",
+                "-"
+            ]
+        },
         "Biker William": {
             "level": 87,
             "ivs": {
@@ -24594,7 +24689,7 @@ var SETDEX_ADV = {
             "moves": [
                 "Thunderbolt",
                 "Ice Beam",
-                "Softboiled",
+                "Soft-Boiled",
                 "Cosmic Power"
             ]
         },
@@ -24652,7 +24747,7 @@ var SETDEX_ADV = {
                 "Thunder",
                 "Blizzard",
                 "Fire Blast",
-                "Softboiled"
+                "Soft-Boiled"
             ]
         },
         "Painter Celina": {
@@ -27121,6 +27216,25 @@ var SETDEX_ADV = {
                 "Calm Mind",
                 "Rest",
                 "Acid Armor"
+            ]
+        },
+        "Cooltrainer Night": {
+            "level": 90,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lax Incense",
+            "nature": "Hasty",
+            "moves": [
+                "Hydro Pump",
+                "Sand Attack",
+                "Body Slam",
+                "Blizzard"
             ]
         },
         "Five Island Meadow Rocket Grunt 1": {
