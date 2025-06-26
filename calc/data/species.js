@@ -212,7 +212,7 @@ var RBY = {
     },
     Electrode: {
         types: ['Electric'],
-        bs: { hp: 60, at: 65, df: 70, sp: 140, sl: 80 },
+        bs: { hp: 60, at: 65, df: 70, sp: 150, sl: 80 },
         weightkg: 66.6
     },
     Exeggcute: {
@@ -465,7 +465,7 @@ var RBY = {
     },
     Mewtwo: {
         types: ['Psychic'],
-        bs: { hp: 110, at: 120, df: 90, sp: 140, sl: 154 },
+        bs: { hp: 110, at: 120, df: 90, sp: 150, sl: 154 },
         weightkg: 122
     },
     Moltres: {
