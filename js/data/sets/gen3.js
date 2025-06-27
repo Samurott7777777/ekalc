@@ -1811,6 +1811,25 @@ var SETDEX_ADV = {
                 "Earthquake"
             ]
         },
+        "Cooltrainer Night": {
+            "level": 90,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lax Incense",
+            "nature": "Lax",
+            "moves": [
+                "Ice Beam",
+                "Thunderbolt",
+                "Thunder Wave",
+                "Soft-Boiled"
+            ]
+        },
         "Psychic Jaclyn": {
             "level": 96,
             "ivs": {
@@ -1946,25 +1965,6 @@ var SETDEX_ADV = {
                 "Follow Me",
                 "Teleport",
                 "Sand-Attack"
-            ]
-        },
-        "Cooltrainer Night": {
-            "level": 90,
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sa": 31,
-                "sd": 31,
-                "sp": 31
-            },
-            "item": "Lax Incense",
-            "nature": "Adamant",
-            "moves": [
-                "Thunder Wave",
-                "Thunderbolt",
-                "Ice Beam",
-                "Soft-Boiled"
             ]
         }
     },
@@ -5585,25 +5585,6 @@ var SETDEX_ADV = {
                 "Ice Beam"
             ]
         },
-        "Sis And Bro Lil And Ian": {
-            "level": 71,
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sa": 31,
-                "sd": 31,
-                "sp": 31
-            },
-            "item": "Lum Berry",
-            "nature": "Timid",
-            "moves": [
-                "Hydro Pump",
-                "Psychic",
-                "Thunderbolt",
-                "Ice Beam"
-            ]
-        },
         "Swimmer Dean": {
             "level": 73,
             "ivs": {
@@ -5716,6 +5697,25 @@ var SETDEX_ADV = {
                 "Psychic",
                 "Thunderbolt",
                 "Ice Beam"
+            ]
+        },
+        "Cooltrainer Day": {
+            "level": 92,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lax Incense",
+            "nature": "Relaxed",
+            "moves": [
+                "Thunderbolt",
+                "Blizzard",
+                "Thunder Wave",
+                "Recover"
             ]
         },
         "Biker Jamal": {
@@ -8487,7 +8487,7 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Lax Incense",
-            "nature": "Quiet",
+            "nature": "Hardy",
             "moves": [
                 "Blizzard",
                 "Psychic",
@@ -11694,7 +11694,26 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Lax Incense",
-            "nature": "Timid",
+            "nature": "Quite",
+            "moves": [
+                "Body Slam",
+                "Hyper Beam",
+                "Earthquake",
+                "-"
+            ]
+        },
+        "Cooltrainer Day": {
+            "level": 92,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lax Incense",
+            "nature": "Brave",
             "moves": [
                 "Body Slam",
                 "Hyper Beam",
@@ -13016,6 +13035,25 @@ var SETDEX_ADV = {
                 "Hidden Power Grass",
                 "Confuse Ray",
                 "Crunch"
+            ]
+        },
+        "Cooltrainer Day": {
+            "level": 92,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lax Incense",
+            "nature": "Relaxed",
+            "moves": [
+                "Thunderbolt",
+                "Sand Attack",
+                "Thunder Wave",
+                "Body Slam"
             ]
         },
         "Biker Zeke": {
@@ -17486,6 +17524,25 @@ var SETDEX_ADV = {
                 "Double-Edge"
             ]
         },
+        "Cooltrainer Day": {
+            "level": 92,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lax Incense",
+            "nature": "Timid",
+            "moves": [
+                "Earathquake",
+                "Rock Slide",
+                "Body Slam",
+                "-"
+            ]
+        },
         "Cooltrainer Leroy": {
             "level": 99,
             "ivs": {
@@ -19189,7 +19246,26 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Lax Incense",
-            "nature": "Bashful",
+            "nature": "Naughty",
+            "moves": [
+                "Psychic",
+                "Sleep Powder",
+                "Stun Spore",
+                "-"
+            ]
+        },
+        "Cooltrainer Day": {
+            "level": 92,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lax Incense",
+            "nature": "Naive",
             "moves": [
                 "Psychic",
                 "Sleep Powder",
@@ -20737,6 +20813,25 @@ var SETDEX_ADV = {
                 "Psychic",
                 "Dynamicpunch",
                 "Shadow Ball"
+            ]
+        },
+        "Cooltrainer Day": {
+            "level": 92,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lax Incense",
+            "nature": "Gentle",
+            "moves": [
+                "Hypnosis",
+                "Psychic",
+                "Thunder Wave",
+                "-"
             ]
         },
         "Biker Jamal": {
@@ -23419,7 +23514,7 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Lax Incense",
-            "nature": "Adamant",
+            "nature": "Rash",
             "moves": [
                 "Psychic",
                 "Thunder Wave",
@@ -27229,7 +27324,7 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Lax Incense",
-            "nature": "Hasty",
+            "nature": "Lonely",
             "moves": [
                 "Hydro Pump",
                 "Sand Attack",
