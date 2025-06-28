@@ -22940,7 +22940,7 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Lum Berry",
-            "nature": "Calm",
+            "nature": "Focus Band",
             "moves": [
                 "Flamethrower",
                 "Hidden Power Water",
@@ -25142,7 +25142,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Black Glasses",
+            "item": "Bright Powder",
             "nature": "Mild",
             "moves": [
                 "Shadow Punch",
