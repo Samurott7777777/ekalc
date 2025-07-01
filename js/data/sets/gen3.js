@@ -8883,6 +8883,25 @@ var SETDEX_ADV = {
                 "-"
             ]
         },
+        "Swimmer Ruka": {
+            "level": 78,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Lonely",
+            "moves": [
+                "Draco Meteor",
+                "Bizzard",
+                "Fire Blast",
+                "Earthquake"
+            ]
+        },
         "Swimmer Abigail": {
             "level": 87,
             "ivs": {
@@ -12972,7 +12991,7 @@ var SETDEX_ADV = {
                 "sp": 31
             },
             "item": "Magnet",
-            "nature": "Docile",
+            "nature": "Mild",
             "moves": [
                 "Rain Dance",
                 "Thunder",
@@ -19866,6 +19885,25 @@ var SETDEX_ADV = {
                 "Petal Dance",
                 "Destiny Bond",
                 "Hidden Power Electric"
+            ]
+        },
+        "Swimmer Ruka": {
+            "level": 78,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Lum Berry",
+            "nature": "Sassy",
+            "moves": [
+                "Gunk Shot",
+                "Petal Dance",
+                "Hidden Power Electric",
+                "-"
             ]
         }
     },
@@ -29208,6 +29246,25 @@ var SETDEX_ADV = {
                 "Ice Beam",
                 "Surf",
                 "Thunderbolt",
+                "Psychic"
+            ]
+        },
+        "Swimmer Ruka": {
+            "level": 78,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Mystic Water",
+            "nature": "Calm",
+            "moves": [
+                "Surf",
+                "Ice Beam",
+                "Earthquake",
                 "Psychic"
             ]
         },
