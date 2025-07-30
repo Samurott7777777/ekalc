@@ -6133,7 +6133,7 @@ var SETDEX_ADV = {
             ]
         },
         "Youngster Dave": {
-            "level": 28,
+            "level": 22,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -6308,7 +6308,7 @@ var SETDEX_ADV = {
             ]
         },
         "Youngster Dave": {
-            "level": 27,
+            "level": 20,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -6618,7 +6618,7 @@ var SETDEX_ADV = {
             ]
         },
         "Youngster Dave": {
-            "level": 28,
+            "level": 20,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -6627,7 +6627,7 @@ var SETDEX_ADV = {
                 "sd": 31,
                 "sp": 31
             },
-            "item": "Quick Claw",
+            "item": "Lum Berry",
             "nature": "Mild",
             "moves": [
                 "Transform",
@@ -8962,7 +8962,7 @@ var SETDEX_ADV = {
     },
     "Rhyhorn": {
         "Gamer Jasper": {
-            "level": 28,
+            "level": 25,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -8983,7 +8983,7 @@ var SETDEX_ADV = {
     },
     "Metang": {
         "Gamer Jasper": {
-            "level": 27,
+            "level": 24,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -9061,7 +9061,7 @@ var SETDEX_ADV = {
     },
     "Torkoal": {
         "Gamer Jasper": {
-            "level": 27,
+            "level": 24,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -9157,7 +9157,7 @@ var SETDEX_ADV = {
     },
     "Drowzee": {
         "Youngster Dave": {
-            "level": 27,
+            "level": 20,
             "ivs": {
                 "hp": 31,
                 "at": 31,
