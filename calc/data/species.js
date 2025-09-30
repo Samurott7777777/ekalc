@@ -1865,7 +1865,7 @@ var ADV_PATCH = {
     },
     Camerupt: {
         types: ['Fire', 'Ground'],
-        bs: { hp: 70, at: 100, df: 70, sa: 105, sd: 75, sp: 40 },
+        bs: { hp: 80, at: 100, df: 70, sa: 105, sd: 75, sp: 40 },
         weightkg: 220,
         abilities: { 0: 'Magma Armor' }
     },
