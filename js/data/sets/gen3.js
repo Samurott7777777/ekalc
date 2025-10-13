@@ -153,6 +153,25 @@ var SETDEX_ADV = {
                 "Drill Run",
                 "Sky Attack"
             ]
+        },
+        "Ace Trainer Fuschia": {
+            "level": 84,
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sa": 31,
+                "sd": 31,
+                "sp": 31
+            },
+            "item": "Focus Band",
+            "nature": "Hardy",
+            "moves": [
+                "Gunk Shot",
+                "Earthquake",
+                "Shadow Ball",
+                "Explosion"
+            ]
         }
     },
     "Butterfree": {
@@ -9612,25 +9631,6 @@ var SETDEX_ADV = {
                 "Gunk Shot",
                 "Giga Drain",
                 "Fire Blast"
-            ]
-        },
-        "Ace Trainer Fuschia": {
-            "level": 84,
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sa": 31,
-                "sd": 31,
-                "sp": 31
-            },
-            "item": "Focus Band",
-            "nature": "Hardy",
-            "moves": [
-                "Gunk Shot",
-                "Earthquake",
-                "Shadow Ball",
-                "Explosion"
             ]
         },
         "Ace Trainer Viridian": {
