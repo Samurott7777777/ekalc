@@ -5128,7 +5128,7 @@ var SETDEX_ADV = {
             ]
         },
         "Swimmer Ruka": {
-            "level": 78,
+            "level": 76,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -8903,7 +8903,7 @@ var SETDEX_ADV = {
             ]
         },
         "Swimmer Ruka": {
-            "level": 78,
+            "level": 76,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -12981,7 +12981,7 @@ var SETDEX_ADV = {
             ]
         },
         "Swimmer Ruka": {
-            "level": 78,
+            "level": 76,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -12993,10 +12993,10 @@ var SETDEX_ADV = {
             "item": "Magnet",
             "nature": "Mild",
             "moves": [
-                "Rain Dance",
-                "Thunder",
-                "Hidden Power Water",
-                "Confuse Ray"
+                "Thunderbolt",
+                "Crunch",
+                "Tail Glow",
+                "Hidden Power Grass"
             ]
         },
         "Swimmer Connie": {
@@ -19888,7 +19888,7 @@ var SETDEX_ADV = {
             ]
         },
         "Swimmer Ruka": {
-            "level": 78,
+            "level": 76,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -24173,7 +24173,7 @@ var SETDEX_ADV = {
             ]
         },
         "Swimmer Ruka": {
-            "level": 78,
+            "level": 76,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -24185,7 +24185,7 @@ var SETDEX_ADV = {
             "item": "Mystic Water",
             "nature": "Brave",
             "moves": [
-                "Hydro Pump",
+                "Surf",
                 "Ice Beam",
                 "Mirror Coat",
                 "Counter"
@@ -29250,7 +29250,7 @@ var SETDEX_ADV = {
             ]
         },
         "Swimmer Ruka": {
-            "level": 78,
+            "level": 76,
             "ivs": {
                 "hp": 31,
                 "at": 31,
