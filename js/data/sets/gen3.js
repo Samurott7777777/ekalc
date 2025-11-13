@@ -26774,7 +26774,7 @@ var SETDEX_ADV = {
             ]
         },
         "Engineer Fernando": {
-            "level": 76,
+            "level": 73,
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -26789,7 +26789,7 @@ var SETDEX_ADV = {
                 "Thunderbolt",
                 "Ice Beam",
                 "Psychic",
-                "Return"
+                "Body Slam"
             ]
         },
         "Rocket Admin Ariana 3": {
